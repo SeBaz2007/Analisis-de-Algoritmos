@@ -108,28 +108,28 @@ class ConjuntoTriePunteros:
             print(elemento)
 
 
-def union(a, b):
-    c = ConjuntoTriePunteros()
-    for e in a._recorrer():
-        c.insert(e)
-    for e in b._recorrer():
-        c.insert(e)
-    return c
-
-
-def intersection(a, b):
-    c = ConjuntoTriePunteros()
-    for e in a._recorrer():
-        if b.member(e):
+    def union(a, b):
+        c = ConjuntoTriePunteros()
+        for e in a._recorrer():
             c.insert(e)
-    return c
-
-
-def difference(a, b):
-    c = ConjuntoTriePunteros()
-    for e in a._recorrer():
-        if not b.member(e):
+        for e in b._recorrer():
             c.insert(e)
-    return c
+        return c
+
+
+    def intersection(a, b):
+        c = ConjuntoTriePunteros()
+        for e in a._recorrer():
+            if b.member(e):
+                c.insert(e)
+        return c
+
+
+    def difference(a, b):
+        c = ConjuntoTriePunteros()
+        for e in a._recorrer():
+            if not b.member(e):
+                c.insert(e)
+        return c
 
 

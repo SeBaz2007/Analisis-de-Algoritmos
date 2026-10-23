@@ -6,7 +6,13 @@ class Nodo:
 class ConjuntoListaPunteros:
     def __init__(self):
         self.primero = None
-    
+
+    def clear(self):
+        self.primero = None
+
+    def done(self):
+        self.clear()
+
     def insert(self, elemento):
         nuevo = Nodo(elemento)
         

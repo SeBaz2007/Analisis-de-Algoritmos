@@ -1,5 +1,3 @@
-
-
 tamAlfanumericos = 36
 tamMaximo = 20
 

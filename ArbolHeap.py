@@ -2,18 +2,14 @@
 class ArbolHeap:
 
     def __init__(self):
-        self.Init()
-
-
-    def Init(self):
         self.vector = []
 
 
-    def Done(self):
+    def done(self):
         self.vector.clear()
 
 
-    def Clear(self):
+    def clear(self):
         self.vector.clear()
 
 
@@ -29,7 +25,7 @@ class ArbolHeap:
             raise ValueError("Solo se permiten letras minusculas y digitos")
 
 
-    def Member(self, elemento):
+    def member(self, elemento):
         self.validar(elemento)
         return self._buscar(0, elemento)
 
@@ -49,7 +45,7 @@ class ArbolHeap:
         return self._buscar(2 * i + 2, elemento)
 
 
-    def Insert(self, elemento):
+    def insert(self, elemento):
         self.validar(elemento)
         self._insertar(0, elemento)
 
@@ -73,7 +69,7 @@ class ArbolHeap:
             self._insertar(2 * i + 2, elemento)
 
 
-    def Delete(self, elemento):
+    def delete(self, elemento):
         self.validar(elemento)
         self._eliminar(0, elemento)
 
@@ -151,7 +147,7 @@ class ArbolHeap:
             i = der
 
 
-    def Print(self):
+    def print(self):
         elementos = []
         self._recorrer(0, elementos)
         print("{" + ", ".join(elementos) + "}")
@@ -166,34 +162,34 @@ class ArbolHeap:
         self._recorrer(2 * i + 2, elementos)
 
 
-    def Union(A, B):
+    def union(A, B):
         resultado = ArbolHeap()
 
         for elemento in A._elementos():
-            resultado.Insert(elemento)
+            resultado.insert(elemento)
 
         for elemento in B._elementos():
-            resultado.Insert(elemento)
+            resultado.insert(elemento)
 
         return resultado
 
 
-    def Intersection(A, B):
+    def intersection(A, B):
         resultado = ArbolHeap()
 
         for elemento in A._elementos():
-            if B.Member(elemento):
-                resultado.Insert(elemento)
+            if B.member(elemento):
+                resultado.insert(elemento)
 
         return resultado
 
 
-    def Difference(A, B):
+    def difference(A, B):
         resultado = ArbolHeap()
 
         for elemento in A._elementos():
-            if not B.Member(elemento):
-                resultado.Insert(elemento)
+            if not B.member(elemento):
+                resultado.insert(elemento)
 
         return resultado
 

@@ -172,7 +172,7 @@ class ArbolPunteros:
             n += 1
 
         #  construye el resultado balanceado, sin lista auxiliar
-        resultado = Arbol()
+        resultado = ArbolPunteros()
         it_a, it_b = _IteradorInorden(self.raiz), _IteradorInorden(otro.raiz)
         resultado.raiz = _construir(n, it_a, it_b, modo)
         return resultado

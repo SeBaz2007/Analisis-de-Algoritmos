@@ -2,6 +2,9 @@ from ConjuntoHash import ConjuntoHash
 from ConjuntoListaArreglo import ConjuntoListaArreglo
 from ConjuntoListaPunteros import ConjuntoListaPunteros
 from ArbolPunteros import ArbolPunteros
+from ArbolHeap import ArbolHeap
+from TriePunteros import ConjuntoTriePunteros
+from TrieArreglos import TrieArreglos
 
 
 def mostrar_menu():
@@ -147,8 +150,12 @@ def main():
                     "1. Lista por punteros\n"
                     "2. Lista por arreglos\n"
                     "3. Tabla Hash\n"
+                    "4. ABB por punteros\n"
+                    "5. ABB por vector heap\n"
+                    "6. Trie por punteros\n"
+                    "7. Trie por arreglos\n"
                     "Seleccione: ",
-                    {1, 2, 3},
+                    {1, 2, 3, 4, 5, 6, 7},
                 )
 
                 # Se crean los conjuntos nuevos solo despues de validar la opcion.
@@ -158,9 +165,24 @@ def main():
                 elif nueva_estructura == 2:
                     nuevo_A = ConjuntoListaArreglo()
                     nuevo_B = ConjuntoListaArreglo()
-                else:
+                elif nueva_estructura == 3:
                     nuevo_A = ConjuntoHash(10)
                     nuevo_B = ConjuntoHash(10)
+                elif nueva_estructura == 4:
+                    nuevo_A = ArbolPunteros()
+                    nuevo_B = ArbolPunteros()
+                elif nueva_estructura == 5:
+                    nuevo_A = ArbolHeap()
+                    nuevo_B = ArbolHeap()
+                elif nueva_estructura == 6:
+                    nuevo_A = ConjuntoTriePunteros()
+                    nuevo_B = ConjuntoTriePunteros()
+                elif nueva_estructura == 7:
+                    nuevo_A = TrieArreglos()
+                    nuevo_B = TrieArreglos()
+                else:
+                    print("Opcion invalida. No se cambio la estructura.")
+                    continue
 
                 A = nuevo_A
                 B = nuevo_B

@@ -2,6 +2,12 @@ class ConjuntoListaArreglo:
     def __init__(self):
         self.elementos = []
 
+    def clear(self):
+        self.elementos = []
+
+    def done(self):
+        self.clear()
+
     def insert(self, elemento):
         if len(self.elementos) == 0:
             self.elementos.append(elemento)

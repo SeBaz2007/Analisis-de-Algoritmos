@@ -1,5 +1,3 @@
-
-    
 from ConjuntoHash import ConjuntoHash
 from ConjuntoListaArreglo import ConjuntoListaArreglo
 from ConjuntoListaPunteros import ConjuntoListaPunteros
@@ -96,4 +94,119 @@ def main():
 
         try:
             if opcion == 1:
+                conjunto = leer_conjunto("¿Conjunto A o B? ")
+                elemento = leer_elemento()
 
+                if conjunto == "A":
+                    A.insert(elemento)
+                else:
+                    B.insert(elemento)
+
+                print("Operacion de insercion completada.")
+
+            elif opcion == 2:
+                conjunto = leer_conjunto("¿Conjunto A o B? ")
+                elemento = leer_elemento()
+
+                if conjunto == "A":
+                    A.delete(elemento)
+                else:
+                    B.delete(elemento)
+
+                print("Operacion de eliminacion completada.")
+
+            elif opcion == 3:
+                conjunto = leer_conjunto("¿Conjunto A o B? ")
+                elemento = leer_elemento()
+
+                if conjunto == "A":
+                    print(A.member(elemento))
+                else:
+                    print(B.member(elemento))
+
+            elif opcion == 4:
+                print("\nConjunto A:")
+                A.print()
+                print("Conjunto B:")
+                B.print()
+
+            elif opcion == 5:
+                resultado = A.union(B)
+                print("\nA UNION B:")
+                resultado.print()
+
+            elif opcion == 6:
+                resultado = A.intersection(B)
+                print("\nA INTERSECTION B:")
+                resultado.print()
+
+            elif opcion == 7:
+                resultado = A.difference(B)
+                print("\nA DIFFERENCE B:")
+                resultado.print()
+
+            elif opcion == 8:
+                conjunto = leer_conjunto("¿Limpiar A o B? ")
+
+                if conjunto == "A":
+                    A.clear()
+                else:
+                    B.clear()
+
+                print(f"Conjunto {conjunto} limpiado.")
+
+            elif opcion == 9:
+                nueva_estructura = leer_opcion(
+                    "1. Lista por punteros\n"
+                    "2. Lista por arreglos\n"
+                    "3. Tabla Hash\n"
+                    "4. ABB por punteros\n"
+                    "5. ABB por vector heap\n"
+                    "6. Trie por punteros\n"
+                    "7. Trie por arreglos\n"
+                    "Seleccione: ",
+                    {1, 2, 3, 4, 5, 6, 7},
+                )
+
+                # Se crean los conjuntos nuevos solo despues de validar la opcion.
+                if nueva_estructura == 1:
+                    nuevo_A = ConjuntoListaPunteros()
+                    nuevo_B = ConjuntoListaPunteros()
+                elif nueva_estructura == 2:
+                    nuevo_A = ConjuntoListaArreglo()
+                    nuevo_B = ConjuntoListaArreglo()
+                elif nueva_estructura == 3:
+                    nuevo_A = ConjuntoHash(10)
+                    nuevo_B = ConjuntoHash(10)
+                elif nueva_estructura == 4:
+                    nuevo_A = ArbolPunteros()
+                    nuevo_B = ArbolPunteros()
+                elif nueva_estructura == 5:
+                    nuevo_A = ArbolHeap()
+                    nuevo_B = ArbolHeap()
+                elif nueva_estructura == 6:
+                    nuevo_A = ConjuntoTriePunteros()
+                    nuevo_B = ConjuntoTriePunteros()
+                elif nueva_estructura == 7:
+                    nuevo_A = TrieArreglos()
+                    nuevo_B = TrieArreglos()
+                else:
+                    print("Opcion invalida. No se cambio la estructura.")
+                    continue
+
+                A = nuevo_A
+                B = nuevo_B
+                estructura = nueva_estructura
+                print("Estructura cambiada. Los conjuntos empiezan vacios.")
+
+        except Exception as error:
+            # Evita que un error inesperado durante una operacion y se cierre el programa.
+            print(f"Error al realizar la operacion: {error}")
+            print("Puede intentarlo nuevamente desde el menu.")
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except (EOFError, KeyboardInterrupt):
+        print("\nEntrada cancelada. Programa terminado.")

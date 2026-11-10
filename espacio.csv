@@ -1,0 +1,319 @@
+estructura,conjunto,N,bytes_estructura,bytes_con_cadenas,bytes_por_elemento,slots_heap,estado
+Lista punteros,aleatorio8,10,992,1482,148.2,,ok
+Lista punteros,aleatorio8,20,1776,2756,137.8,,ok
+Lista punteros,aleatorio8,30,2576,4046,134.9,,ok
+Lista punteros,aleatorio8,50,4176,6626,132.5,,ok
+Lista punteros,aleatorio8,100,8176,13076,130.8,,ok
+Lista punteros,aleatorio8,200,16176,25976,129.9,,ok
+Lista punteros,aleatorio8,500,40176,64676,129.4,,ok
+Lista punteros,aleatorio8,1000,80176,129176,129.2,,ok
+Lista punteros,aleatorio8,5000,400176,645176,129.0,,ok
+Lista punteros,aleatorio8,10000,800176,1290176,129.0,,ok
+Lista arreglo,aleatorio8,10,328,818,81.8,,ok
+Lista arreglo,aleatorio8,20,376,1356,67.8,,ok
+Lista arreglo,aleatorio8,30,440,1910,63.7,,ok
+Lista arreglo,aleatorio8,50,600,3050,61.0,,ok
+Lista arreglo,aleatorio8,100,1048,5948,59.5,,ok
+Lista arreglo,aleatorio8,200,1784,11584,57.9,,ok
+Lista arreglo,aleatorio8,500,4344,28844,57.7,,ok
+Lista arreglo,aleatorio8,1000,8984,57984,58.0,,ok
+Lista arreglo,aleatorio8,5000,42008,287008,57.4,,ok
+Lista arreglo,aleatorio8,10000,85304,575304,57.5,,ok
+Hash (m=10),aleatorio8,10,1128,1618,161.8,,ok
+Hash (m=10),aleatorio8,20,1248,2228,111.4,,ok
+Hash (m=10),aleatorio8,30,1312,2782,92.7,,ok
+Hash (m=10),aleatorio8,50,1408,3858,77.2,,ok
+Hash (m=10),aleatorio8,100,2016,6916,69.2,,ok
+Hash (m=10),aleatorio8,200,2848,12648,63.2,,ok
+Hash (m=10),aleatorio8,500,5408,29908,59.8,,ok
+Hash (m=10),aleatorio8,1000,9376,58376,58.4,,ok
+Hash (m=10),aleatorio8,5000,43680,288680,57.7,,ok
+Hash (m=10),aleatorio8,10000,84832,574832,57.5,,ok
+Hash (m=10),aleatorio8,50000,419168,2869168,57.4,,ok
+Hash (m=N) ref.,aleatorio8,10,1120,1610,161.0,,ok
+Hash (m=N) ref.,aleatorio8,20,2000,2980,149.0,,ok
+Hash (m=N) ref.,aleatorio8,30,2720,4190,139.7,,ok
+Hash (m=N) ref.,aleatorio8,50,4544,6994,139.9,,ok
+Hash (m=N) ref.,aleatorio8,100,8656,13556,135.6,,ok
+Hash (m=N) ref.,aleatorio8,200,17264,27064,135.3,,ok
+Hash (m=N) ref.,aleatorio8,500,42576,67076,134.2,,ok
+Hash (m=N) ref.,aleatorio8,1000,85296,134296,134.3,,ok
+Hash (m=N) ref.,aleatorio8,5000,424176,669176,133.8,,ok
+Hash (m=N) ref.,aleatorio8,10000,848080,1338080,133.8,,ok
+Hash (m=N) ref.,aleatorio8,50000,4260944,6710944,134.2,,ok
+ABB punteros,aleatorio8,10,1072,1562,156.2,,ok
+ABB punteros,aleatorio8,20,1936,2916,145.8,,ok
+ABB punteros,aleatorio8,30,2816,4286,142.9,,ok
+ABB punteros,aleatorio8,50,4576,7026,140.5,,ok
+ABB punteros,aleatorio8,100,8976,13876,138.8,,ok
+ABB punteros,aleatorio8,200,17776,27576,137.9,,ok
+ABB punteros,aleatorio8,500,44176,68676,137.4,,ok
+ABB punteros,aleatorio8,1000,88176,137176,137.2,,ok
+ABB punteros,aleatorio8,5000,440176,685176,137.0,,ok
+ABB punteros,aleatorio8,10000,880176,1370176,137.0,,ok
+ABB punteros,aleatorio8,50000,4400176,6850176,137.0,,ok
+ABB heap,aleatorio8,10,632,1122,112.2,38,ok
+ABB heap,aleatorio8,20,7656,8636,431.8,919,ok
+ABB heap,aleatorio8,30,16328,17798,593.3,2004,ok
+ABB heap,aleatorio8,50,27496,29946,598.9,3399,ok
+ABB heap,aleatorio8,100,498184,503084,5030.8,62234,ok
+ABB heap,aleatorio8,200,446472,456272,2281.4,55769,ok
+ABB heap,aleatorio8,500,502472,526972,1053.9,62769,ok
+ABB heap,aleatorio8,1000,,,,5322539,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,aleatorio8,10,31560,31560,3156.0,,ok
+Trie punteros,aleatorio8,20,61336,61336,3066.8,,ok
+Trie punteros,aleatorio8,30,89952,89952,2998.4,,ok
+Trie punteros,aleatorio8,50,148360,148360,2967.2,,ok
+Trie punteros,aleatorio8,100,286344,286344,2863.4,,ok
+Trie punteros,aleatorio8,200,559568,559568,2797.8,,ok
+Trie punteros,aleatorio8,500,1356504,1356504,2713.0,,ok
+Trie punteros,aleatorio8,1000,2642656,2642656,2642.7,,ok
+Trie punteros,aleatorio8,5000,12171784,12171784,2434.4,,ok
+Trie punteros,aleatorio8,10000,23642432,23642432,2364.2,,ok
+Trie arreglos,aleatorio8,10,34120,34120,3412.0,,ok
+Trie arreglos,aleatorio8,20,66328,66328,3316.4,,ok
+Trie arreglos,aleatorio8,30,97280,97280,3242.7,,ok
+Trie arreglos,aleatorio8,50,160456,160456,3209.1,,ok
+Trie arreglos,aleatorio8,100,309704,309704,3097.0,,ok
+Trie arreglos,aleatorio8,200,605232,605232,3026.2,,ok
+Trie arreglos,aleatorio8,500,1467224,1467224,2934.4,,ok
+Trie arreglos,aleatorio8,1000,2858368,2858368,2858.4,,ok
+Trie arreglos,aleatorio8,5000,13165384,13165384,2633.1,,ok
+Trie arreglos,aleatorio8,10000,25572416,25572416,2557.2,,ok
+Lista punteros,max20,10,976,1586,158.6,,ok
+Lista punteros,max20,20,1776,2996,149.8,,ok
+Lista punteros,max20,30,2576,4406,146.9,,ok
+Lista punteros,max20,50,4176,7226,144.5,,ok
+Lista punteros,max20,100,8176,14276,142.8,,ok
+Lista punteros,max20,200,16176,28376,141.9,,ok
+Lista punteros,max20,500,40176,70676,141.4,,ok
+Lista punteros,max20,1000,80176,141176,141.2,,ok
+Lista punteros,max20,5000,400176,705176,141.0,,ok
+Lista punteros,max20,10000,800176,1410176,141.0,,ok
+Lista arreglo,max20,10,312,922,92.2,,ok
+Lista arreglo,max20,20,376,1596,79.8,,ok
+Lista arreglo,max20,30,440,2270,75.7,,ok
+Lista arreglo,max20,50,600,3650,73.0,,ok
+Lista arreglo,max20,100,1048,7148,71.5,,ok
+Lista arreglo,max20,200,1784,13984,69.9,,ok
+Lista arreglo,max20,500,4344,34844,69.7,,ok
+Lista arreglo,max20,1000,8984,69984,70.0,,ok
+Lista arreglo,max20,5000,42008,347008,69.4,,ok
+Lista arreglo,max20,10000,85304,695304,69.5,,ok
+Hash (m=10),max20,10,1152,1762,176.2,,ok
+Hash (m=10),max20,20,1216,2436,121.8,,ok
+Hash (m=10),max20,30,1312,3142,104.7,,ok
+Hash (m=10),max20,50,1504,4554,91.1,,ok
+Hash (m=10),max20,100,2048,8148,81.5,,ok
+Hash (m=10),max20,200,2784,14984,74.9,,ok
+Hash (m=10),max20,500,5280,35780,71.6,,ok
+Hash (m=10),max20,1000,9472,70472,70.5,,ok
+Hash (m=10),max20,5000,44256,349256,69.9,,ok
+Hash (m=10),max20,10000,84832,694832,69.5,,ok
+Hash (m=10),max20,50000,419168,3469168,69.4,,ok
+Hash (m=N) ref.,max20,10,1152,1762,176.2,,ok
+Hash (m=N) ref.,max20,20,1904,3124,156.2,,ok
+Hash (m=N) ref.,max20,30,2816,4646,154.9,,ok
+Hash (m=N) ref.,max20,50,4480,7530,150.6,,ok
+Hash (m=N) ref.,max20,100,8848,14948,149.5,,ok
+Hash (m=N) ref.,max20,200,17040,29240,146.2,,ok
+Hash (m=N) ref.,max20,500,42608,73108,146.2,,ok
+Hash (m=N) ref.,max20,1000,85200,146200,146.2,,ok
+Hash (m=N) ref.,max20,5000,423440,728440,145.7,,ok
+Hash (m=N) ref.,max20,10000,849136,1459136,145.9,,ok
+Hash (m=N) ref.,max20,50000,4257904,7307904,146.2,,ok
+ABB punteros,max20,10,1056,1666,166.6,,ok
+ABB punteros,max20,20,1936,3156,157.8,,ok
+ABB punteros,max20,30,2816,4646,154.9,,ok
+ABB punteros,max20,50,4576,7626,152.5,,ok
+ABB punteros,max20,100,8976,15076,150.8,,ok
+ABB punteros,max20,200,17776,29976,149.9,,ok
+ABB punteros,max20,500,44176,74676,149.4,,ok
+ABB punteros,max20,1000,88176,149176,149.2,,ok
+ABB punteros,max20,5000,440176,745176,149.0,,ok
+ABB punteros,max20,10000,880176,1490176,149.0,,ok
+ABB punteros,max20,50000,4400176,7450176,149.0,,ok
+ABB heap,max20,10,712,1322,132.2,50,ok
+ABB heap,max20,20,2152,3372,168.6,229,ok
+ABB heap,max20,30,2056,3886,129.5,220,ok
+ABB heap,max20,50,30664,33714,674.3,3796,ok
+ABB heap,max20,100,26184,32284,322.8,2873,ok
+ABB heap,max20,200,4134760,4146960,20734.8,516805,ok
+ABB heap,max20,500,13673992,13704492,27409.0,1709210,ok
+ABB heap,max20,1000,,,,5230580,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,max20,10,78584,78584,7858.4,,ok
+Trie punteros,max20,20,156200,156200,7810.0,,ok
+Trie punteros,max20,30,233424,233424,7780.8,,ok
+Trie punteros,max20,50,382776,382776,7655.5,,ok
+Trie punteros,max20,100,755960,755960,7559.6,,ok
+Trie punteros,max20,200,1497624,1497624,7488.1,,ok
+Trie punteros,max20,500,3703800,3703800,7407.6,,ok
+Trie punteros,max20,1000,7339600,7339600,7339.6,,ok
+Trie punteros,max20,5000,35675264,35675264,7135.1,,ok
+Trie punteros,max20,10000,70648328,70648328,7064.8,,ok
+Trie arreglos,max20,10,84984,84984,8498.4,,ok
+Trie arreglos,max20,20,168936,168936,8446.8,,ok
+Trie arreglos,max20,30,252464,252464,8415.5,,ok
+Trie arreglos,max20,50,414008,414008,8280.2,,ok
+Trie arreglos,max20,100,817656,817656,8176.6,,ok
+Trie arreglos,max20,200,1619864,1619864,8099.3,,ok
+Trie arreglos,max20,500,4006136,4006136,8012.3,,ok
+Trie arreglos,max20,1000,7938736,7938736,7938.7,,ok
+Trie arreglos,max20,5000,38587520,38587520,7717.5,,ok
+Trie arreglos,max20,10000,76415528,76415528,7641.6,,ok
+Lista punteros,prefijo,10,976,1586,158.6,,ok
+Lista punteros,prefijo,20,1776,2996,149.8,,ok
+Lista punteros,prefijo,30,2576,4406,146.9,,ok
+Lista punteros,prefijo,50,4176,7226,144.5,,ok
+Lista punteros,prefijo,100,8176,14276,142.8,,ok
+Lista punteros,prefijo,200,16176,28376,141.9,,ok
+Lista punteros,prefijo,500,40176,70676,141.4,,ok
+Lista punteros,prefijo,1000,80176,141176,141.2,,ok
+Lista punteros,prefijo,5000,400176,705176,141.0,,ok
+Lista punteros,prefijo,10000,800176,1410176,141.0,,ok
+Lista arreglo,prefijo,10,312,922,92.2,,ok
+Lista arreglo,prefijo,20,376,1596,79.8,,ok
+Lista arreglo,prefijo,30,440,2270,75.7,,ok
+Lista arreglo,prefijo,50,600,3650,73.0,,ok
+Lista arreglo,prefijo,100,1048,7148,71.5,,ok
+Lista arreglo,prefijo,200,1784,13984,69.9,,ok
+Lista arreglo,prefijo,500,4344,34844,69.7,,ok
+Lista arreglo,prefijo,1000,8984,69984,70.0,,ok
+Lista arreglo,prefijo,5000,42008,347008,69.4,,ok
+Lista arreglo,prefijo,10000,85304,695304,69.5,,ok
+Hash (m=10),prefijo,10,1152,1762,176.2,,ok
+Hash (m=10),prefijo,20,1184,2404,120.2,,ok
+Hash (m=10),prefijo,30,1280,3110,103.7,,ok
+Hash (m=10),prefijo,50,1440,4490,89.8,,ok
+Hash (m=10),prefijo,100,1952,8052,80.5,,ok
+Hash (m=10),prefijo,200,2848,15048,75.2,,ok
+Hash (m=10),prefijo,500,5280,35780,71.6,,ok
+Hash (m=10),prefijo,1000,9504,70504,70.5,,ok
+Hash (m=10),prefijo,5000,43104,348104,69.6,,ok
+Hash (m=10),prefijo,10000,87904,697904,69.8,,ok
+Hash (m=10),prefijo,50000,419168,3469168,69.4,,ok
+Hash (m=N) ref.,prefijo,10,1152,1762,176.2,,ok
+Hash (m=N) ref.,prefijo,20,1968,3188,159.4,,ok
+Hash (m=N) ref.,prefijo,30,2816,4646,154.9,,ok
+Hash (m=N) ref.,prefijo,50,4480,7530,150.6,,ok
+Hash (m=N) ref.,prefijo,100,8784,14884,148.8,,ok
+Hash (m=N) ref.,prefijo,200,17072,29272,146.4,,ok
+Hash (m=N) ref.,prefijo,500,42640,73140,146.3,,ok
+Hash (m=N) ref.,prefijo,1000,85936,146936,146.9,,ok
+Hash (m=N) ref.,prefijo,5000,425712,730712,146.1,,ok
+Hash (m=N) ref.,prefijo,10000,848144,1458144,145.8,,ok
+Hash (m=N) ref.,prefijo,50000,4264528,7314528,146.3,,ok
+ABB punteros,prefijo,10,1056,1666,166.6,,ok
+ABB punteros,prefijo,20,1936,3156,157.8,,ok
+ABB punteros,prefijo,30,2816,4646,154.9,,ok
+ABB punteros,prefijo,50,4576,7626,152.5,,ok
+ABB punteros,prefijo,100,8976,15076,150.8,,ok
+ABB punteros,prefijo,200,17776,29976,149.9,,ok
+ABB punteros,prefijo,500,44176,74676,149.4,,ok
+ABB punteros,prefijo,1000,88176,149176,149.2,,ok
+ABB punteros,prefijo,5000,440176,745176,149.0,,ok
+ABB punteros,prefijo,10000,880176,1490176,149.0,,ok
+ABB punteros,prefijo,50000,4400176,7450176,149.0,,ok
+ABB heap,prefijo,10,456,1066,106.6,20,ok
+ABB heap,prefijo,20,872,2092,104.6,69,ok
+ABB heap,prefijo,30,6600,8430,281.0,787,ok
+ABB heap,prefijo,50,2184,5234,104.7,235,ok
+ABB heap,prefijo,100,141288,147388,1473.9,15663,ok
+ABB heap,prefijo,200,216392,228592,1143.0,24009,ok
+ABB heap,prefijo,500,4387560,4418060,8836.1,487469,ok
+ABB heap,prefijo,1000,,,,1679872,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,prefijo,10,26056,26056,2605.6,,ok
+Trie punteros,prefijo,20,43696,43696,2184.8,,ok
+Trie punteros,prefijo,30,62120,62120,2070.7,,ok
+Trie punteros,prefijo,50,93872,93872,1877.4,,ok
+Trie punteros,prefijo,100,175408,175408,1754.1,,ok
+Trie punteros,prefijo,200,331032,331032,1655.2,,ok
+Trie punteros,prefijo,500,767720,767720,1535.4,,ok
+Trie punteros,prefijo,1000,1467440,1467440,1467.4,,ok
+Trie punteros,prefijo,5000,6296488,6296488,1259.3,,ok
+Trie punteros,prefijo,10000,11888760,11888760,1188.9,,ok
+Trie arreglos,prefijo,10,28168,28168,2816.8,,ok
+Trie arreglos,prefijo,20,47248,47248,2362.4,,ok
+Trie arreglos,prefijo,30,67176,67176,2239.2,,ok
+Trie arreglos,prefijo,50,101520,101520,2030.4,,ok
+Trie arreglos,prefijo,100,189712,189712,1897.1,,ok
+Trie arreglos,prefijo,200,358040,358040,1790.2,,ok
+Trie arreglos,prefijo,500,830376,830376,1660.8,,ok
+Trie arreglos,prefijo,1000,1587216,1587216,1587.2,,ok
+Trie arreglos,prefijo,5000,6810472,6810472,1362.1,,ok
+Trie arreglos,prefijo,10000,12859256,12859256,1285.9,,ok
+Lista punteros,ordenado,10,976,1466,146.6,,ok
+Lista punteros,ordenado,20,1776,2756,137.8,,ok
+Lista punteros,ordenado,30,2576,4046,134.9,,ok
+Lista punteros,ordenado,50,4176,6626,132.5,,ok
+Lista punteros,ordenado,100,8176,13076,130.8,,ok
+Lista punteros,ordenado,200,16176,25976,129.9,,ok
+Lista punteros,ordenado,500,40176,64676,129.4,,ok
+Lista punteros,ordenado,1000,80176,129176,129.2,,ok
+Lista punteros,ordenado,5000,400176,645176,129.0,,ok
+Lista punteros,ordenado,10000,800176,1290176,129.0,,ok
+Lista arreglo,ordenado,10,312,802,80.2,,ok
+Lista arreglo,ordenado,20,376,1356,67.8,,ok
+Lista arreglo,ordenado,30,440,1910,63.7,,ok
+Lista arreglo,ordenado,50,600,3050,61.0,,ok
+Lista arreglo,ordenado,100,1048,5948,59.5,,ok
+Lista arreglo,ordenado,200,1784,11584,57.9,,ok
+Lista arreglo,ordenado,500,4344,28844,57.7,,ok
+Lista arreglo,ordenado,1000,8984,57984,58.0,,ok
+Lista arreglo,ordenado,5000,42008,287008,57.4,,ok
+Lista arreglo,ordenado,10000,85304,575304,57.5,,ok
+Hash (m=10),ordenado,10,1088,1578,157.8,,ok
+Hash (m=10),ordenado,20,1216,2196,109.8,,ok
+Hash (m=10),ordenado,30,1280,2750,91.7,,ok
+Hash (m=10),ordenado,50,1440,3890,77.8,,ok
+Hash (m=10),ordenado,100,1984,6884,68.8,,ok
+Hash (m=10),ordenado,200,2720,12520,62.6,,ok
+Hash (m=10),ordenado,500,5280,29780,59.6,,ok
+Hash (m=10),ordenado,1000,9472,58472,58.5,,ok
+Hash (m=10),ordenado,5000,43680,288680,57.7,,ok
+Hash (m=10),ordenado,10000,87904,577904,57.8,,ok
+Hash (m=10),ordenado,50000,419168,2869168,57.4,,ok
+Hash (m=N) ref.,ordenado,10,1088,1578,157.8,,ok
+Hash (m=N) ref.,ordenado,20,2032,3012,150.6,,ok
+Hash (m=N) ref.,ordenado,30,2816,4286,142.9,,ok
+Hash (m=N) ref.,ordenado,50,4608,7058,141.2,,ok
+Hash (m=N) ref.,ordenado,100,8720,13620,136.2,,ok
+Hash (m=N) ref.,ordenado,200,17040,26840,134.2,,ok
+Hash (m=N) ref.,ordenado,500,42576,67076,134.2,,ok
+Hash (m=N) ref.,ordenado,1000,85168,134168,134.2,,ok
+Hash (m=N) ref.,ordenado,5000,423312,668312,133.7,,ok
+Hash (m=N) ref.,ordenado,10000,848656,1338656,133.9,,ok
+Hash (m=N) ref.,ordenado,50000,4262640,6712640,134.3,,ok
+ABB punteros,ordenado,10,1056,1546,154.6,,ok
+ABB punteros,ordenado,20,1936,2916,145.8,,ok
+ABB punteros,ordenado,30,2816,4286,142.9,,ok
+ABB punteros,ordenado,50,4576,7026,140.5,,ok
+ABB punteros,ordenado,100,8976,13876,138.8,,ok
+ABB punteros,ordenado,200,17776,27576,137.9,,ok
+ABB punteros,ordenado,500,44176,68676,137.4,,ok
+ABB punteros,ordenado,1000,88176,137176,137.2,,ok
+ABB punteros,ordenado,5000,440176,685176,137.0,,ok
+ABB punteros,ordenado,10000,880176,1370176,137.0,,ok
+ABB heap,ordenado,10,8488,8978,897.8,1023,ok
+ABB heap,ordenado,20,8388904,8389884,419494.2,1048575,ok
+ABB heap,ordenado,30,,,,8388606,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,ordenado,10,31152,31152,3115.2,,ok
+Trie punteros,ordenado,20,60944,60944,3047.2,,ok
+Trie punteros,ordenado,30,91520,91520,3050.7,,ok
+Trie punteros,ordenado,50,147968,147968,2959.4,,ok
+Trie punteros,ordenado,100,285952,285952,2859.5,,ok
+Trie punteros,ordenado,200,558000,558000,2790.0,,ok
+Trie punteros,ordenado,500,1352976,1352976,2706.0,,ok
+Trie punteros,ordenado,1000,2639128,2639128,2639.1,,ok
+Trie punteros,ordenado,5000,12168648,12168648,2433.7,,ok
+Trie punteros,ordenado,10000,23642040,23642040,2364.2,,ok
+Trie arreglos,ordenado,10,33680,33680,3368.0,,ok
+Trie arreglos,ordenado,20,65904,65904,3295.2,,ok
+Trie arreglos,ordenado,30,98976,98976,3299.2,,ok
+Trie arreglos,ordenado,50,160032,160032,3200.6,,ok
+Trie arreglos,ordenado,100,309280,309280,3092.8,,ok
+Trie arreglos,ordenado,200,603536,603536,3017.7,,ok
+Trie arreglos,ordenado,500,1463408,1463408,2926.8,,ok
+Trie arreglos,ordenado,1000,2854552,2854552,2854.6,,ok
+Trie arreglos,ordenado,5000,13161992,13161992,2632.4,,ok
+Trie arreglos,ordenado,10000,25571992,25571992,2557.2,,ok

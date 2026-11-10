@@ -1,0 +1,2550 @@
+estructura,conjunto,N,operacion,tiempo_total_s,n_ops,tiempo_por_op_us,reps,correcto,estado
+Lista punteros,aleatorio8,10,insert,0.000011,10,1.131,5,1,ok
+Lista punteros,aleatorio8,10,member_si,0.000009,10,0.875,5,1,ok
+Lista punteros,aleatorio8,10,member_no,0.000007,5,1.492,5,1,ok
+Lista punteros,aleatorio8,10,delete,0.000011,10,1.113,5,1,ok
+Lista punteros,aleatorio8,10,print,0.000017,1,16.839,5,1,ok
+Lista punteros,aleatorio8,10,union,0.000020,1,20.009,5,1,ok
+Lista punteros,aleatorio8,10,intersection,0.000014,1,14.291,5,1,ok
+Lista punteros,aleatorio8,10,difference,0.000015,1,14.558,5,1,ok
+Lista punteros,aleatorio8,20,insert,0.000013,20,0.650,5,1,ok
+Lista punteros,aleatorio8,20,member_si,0.000011,20,0.547,5,1,ok
+Lista punteros,aleatorio8,20,member_no,0.000008,10,0.826,5,1,ok
+Lista punteros,aleatorio8,20,delete,0.000010,20,0.504,5,1,ok
+Lista punteros,aleatorio8,20,print,0.000013,1,12.547,5,1,ok
+Lista punteros,aleatorio8,20,union,0.000028,1,28.265,5,1,ok
+Lista punteros,aleatorio8,20,intersection,0.000018,1,17.673,5,1,ok
+Lista punteros,aleatorio8,20,difference,0.000019,1,18.599,5,1,ok
+Lista punteros,aleatorio8,30,insert,0.000019,30,0.648,5,1,ok
+Lista punteros,aleatorio8,30,member_si,0.000018,30,0.603,5,1,ok
+Lista punteros,aleatorio8,30,member_no,0.000011,15,0.710,5,1,ok
+Lista punteros,aleatorio8,30,delete,0.000015,30,0.489,5,1,ok
+Lista punteros,aleatorio8,30,print,0.000015,1,14.544,5,1,ok
+Lista punteros,aleatorio8,30,union,0.000043,1,43.057,5,1,ok
+Lista punteros,aleatorio8,30,intersection,0.000029,1,29.476,5,1,ok
+Lista punteros,aleatorio8,30,difference,0.000028,1,28.148,5,1,ok
+Lista punteros,aleatorio8,50,insert,0.000030,50,0.599,5,1,ok
+Lista punteros,aleatorio8,50,member_si,0.000041,50,0.824,5,1,ok
+Lista punteros,aleatorio8,50,member_no,0.000025,25,1.007,5,1,ok
+Lista punteros,aleatorio8,50,delete,0.000028,50,0.553,5,1,ok
+Lista punteros,aleatorio8,50,print,0.000018,1,17.722,5,1,ok
+Lista punteros,aleatorio8,50,union,0.000097,1,97.062,5,1,ok
+Lista punteros,aleatorio8,50,intersection,0.000053,1,53.121,5,1,ok
+Lista punteros,aleatorio8,50,difference,0.000053,1,53.191,5,1,ok
+Lista punteros,aleatorio8,100,insert,0.000126,100,1.257,5,1,ok
+Lista punteros,aleatorio8,100,member_si,0.000226,100,2.264,5,1,ok
+Lista punteros,aleatorio8,100,member_no,0.000109,50,2.175,5,1,ok
+Lista punteros,aleatorio8,100,delete,0.000100,100,1.005,5,1,ok
+Lista punteros,aleatorio8,100,print,0.000039,1,38.518,5,1,ok
+Lista punteros,aleatorio8,100,union,0.000490,1,489.906,5,1,ok
+Lista punteros,aleatorio8,100,intersection,0.000304,1,304.492,5,1,ok
+Lista punteros,aleatorio8,100,difference,0.000310,1,310.409,5,1,ok
+Lista punteros,aleatorio8,200,insert,0.000380,200,1.900,5,1,ok
+Lista punteros,aleatorio8,200,member_si,0.000770,200,3.848,5,1,ok
+Lista punteros,aleatorio8,200,member_no,0.000344,100,3.443,5,1,ok
+Lista punteros,aleatorio8,200,delete,0.000394,200,1.969,5,1,ok
+Lista punteros,aleatorio8,200,print,0.000053,1,53.221,5,1,ok
+Lista punteros,aleatorio8,200,union,0.001542,1,1541.760,5,1,ok
+Lista punteros,aleatorio8,200,intersection,0.000992,1,992.374,5,1,ok
+Lista punteros,aleatorio8,200,difference,0.001016,1,1015.994,5,1,ok
+Lista punteros,aleatorio8,500,insert,0.001876,500,3.752,5,1,ok
+Lista punteros,aleatorio8,500,member_si,0.004397,500,8.794,5,1,ok
+Lista punteros,aleatorio8,500,member_no,0.002478,250,9.912,5,1,ok
+Lista punteros,aleatorio8,500,delete,0.001526,300,5.086,5,1,ok
+Lista punteros,aleatorio8,500,print,0.000102,1,101.877,5,1,ok
+Lista punteros,aleatorio8,500,union,0.008809,1,8808.729,5,1,ok
+Lista punteros,aleatorio8,500,intersection,0.005281,1,5281.409,5,1,ok
+Lista punteros,aleatorio8,500,difference,0.005319,1,5319.411,5,1,ok
+Lista punteros,aleatorio8,1000,insert,0.007292,1000,7.292,5,1,ok
+Lista punteros,aleatorio8,1000,member_si,0.018411,1000,18.411,5,1,ok
+Lista punteros,aleatorio8,1000,member_no,0.008961,500,17.923,5,1,ok
+Lista punteros,aleatorio8,1000,delete,0.003629,300,12.098,5,1,ok
+Lista punteros,aleatorio8,1000,print,0.000199,1,199.421,5,1,ok
+Lista punteros,aleatorio8,1000,union,0.033741,1,33740.549,5,1,ok
+Lista punteros,aleatorio8,1000,intersection,0.022989,1,22988.800,5,1,ok
+Lista punteros,aleatorio8,1000,difference,0.023253,1,23253.404,5,1,ok
+Lista punteros,aleatorio8,5000,insert,0.169625,5000,33.925,3,1,ok
+Lista punteros,aleatorio8,5000,member_si,0.097463,1000,97.463,3,1,ok
+Lista punteros,aleatorio8,5000,member_no,0.091964,1000,91.964,3,1,ok
+Lista punteros,aleatorio8,5000,delete,0.020917,300,69.722,3,1,ok
+Lista punteros,aleatorio8,5000,print,0.001197,1,1196.704,3,1,ok
+Lista punteros,aleatorio8,5000,union,0.887137,1,887137.416,3,1,ok
+Lista punteros,aleatorio8,5000,intersection,0.588761,1,588760.504,3,1,ok
+Lista punteros,aleatorio8,5000,difference,0.537585,1,537584.984,3,1,ok
+Lista punteros,aleatorio8,10000,insert,0.801175,10000,80.117,2,1,ok
+Lista punteros,aleatorio8,10000,member_si,0.214360,1000,214.360,2,1,ok
+Lista punteros,aleatorio8,10000,member_no,0.251654,1000,251.654,2,1,ok
+Lista punteros,aleatorio8,10000,delete,0.045674,300,152.247,2,1,ok
+Lista punteros,aleatorio8,10000,print,0.003569,1,3569.283,2,1,ok
+Lista punteros,aleatorio8,10000,union,3.841881,1,3841881.334,2,1,ok
+Lista punteros,aleatorio8,10000,intersection,2.623536,1,2623536.102,2,1,ok
+Lista punteros,aleatorio8,10000,difference,3.203086,1,3203086.310,2,1,ok
+Lista punteros,aleatorio8,50000,insert,,,,0,,omitido: tiempo estimado 20s > 15.0s
+Lista punteros,aleatorio8,50000,intersection,,,,0,,omitido: tiempo estimado 66s > 15.0s
+Lista punteros,aleatorio8,50000,difference,,,,0,,omitido: tiempo estimado 80s > 15.0s
+Lista punteros,aleatorio8,50000,union,,,,0,,omitido: tiempo estimado 96s > 15.0s
+Lista arreglo,aleatorio8,10,insert,0.000009,10,0.915,5,1,ok
+Lista arreglo,aleatorio8,10,member_si,0.000006,10,0.646,5,1,ok
+Lista arreglo,aleatorio8,10,member_no,0.000006,5,1.202,5,1,ok
+Lista arreglo,aleatorio8,10,delete,0.000010,10,0.954,5,1,ok
+Lista arreglo,aleatorio8,10,print,0.000013,1,12.542,5,1,ok
+Lista arreglo,aleatorio8,10,union,0.000016,1,15.758,5,1,ok
+Lista arreglo,aleatorio8,10,intersection,0.000013,1,12.578,5,1,ok
+Lista arreglo,aleatorio8,10,difference,0.000013,1,12.963,5,1,ok
+Lista arreglo,aleatorio8,20,insert,0.000013,20,0.658,5,1,ok
+Lista arreglo,aleatorio8,20,member_si,0.000009,20,0.474,5,1,ok
+Lista arreglo,aleatorio8,20,member_no,0.000009,10,0.884,5,1,ok
+Lista arreglo,aleatorio8,20,delete,0.000012,20,0.604,5,1,ok
+Lista arreglo,aleatorio8,20,print,0.000013,1,12.768,5,1,ok
+Lista arreglo,aleatorio8,20,union,0.000029,1,28.791,5,1,ok
+Lista arreglo,aleatorio8,20,intersection,0.000017,1,17.164,5,1,ok
+Lista arreglo,aleatorio8,20,difference,0.000017,1,17.090,5,1,ok
+Lista arreglo,aleatorio8,30,insert,0.000018,30,0.584,5,1,ok
+Lista arreglo,aleatorio8,30,member_si,0.000014,30,0.477,5,1,ok
+Lista arreglo,aleatorio8,30,member_no,0.000009,15,0.621,5,1,ok
+Lista arreglo,aleatorio8,30,delete,0.000016,30,0.544,5,1,ok
+Lista arreglo,aleatorio8,30,print,0.000015,1,14.594,5,1,ok
+Lista arreglo,aleatorio8,30,union,0.000048,1,47.862,5,1,ok
+Lista arreglo,aleatorio8,30,intersection,0.000025,1,25.295,5,1,ok
+Lista arreglo,aleatorio8,30,difference,0.000026,1,25.650,5,1,ok
+Lista arreglo,aleatorio8,50,insert,0.000030,50,0.607,5,1,ok
+Lista arreglo,aleatorio8,50,member_si,0.000030,50,0.606,5,1,ok
+Lista arreglo,aleatorio8,50,member_no,0.000019,25,0.775,5,1,ok
+Lista arreglo,aleatorio8,50,delete,0.000030,50,0.599,5,1,ok
+Lista arreglo,aleatorio8,50,print,0.000017,1,17.469,5,1,ok
+Lista arreglo,aleatorio8,50,union,0.000113,1,113.396,5,1,ok
+Lista arreglo,aleatorio8,50,intersection,0.000046,1,46.107,5,1,ok
+Lista arreglo,aleatorio8,50,difference,0.000046,1,45.553,5,1,ok
+Lista arreglo,aleatorio8,100,insert,0.000099,100,0.987,5,1,ok
+Lista arreglo,aleatorio8,100,member_si,0.000097,100,0.966,5,1,ok
+Lista arreglo,aleatorio8,100,member_no,0.000048,50,0.967,5,1,ok
+Lista arreglo,aleatorio8,100,delete,0.000081,100,0.806,5,1,ok
+Lista arreglo,aleatorio8,100,print,0.000026,1,25.807,5,1,ok
+Lista arreglo,aleatorio8,100,union,0.000424,1,423.718,5,1,ok
+Lista arreglo,aleatorio8,100,intersection,0.000156,1,155.898,5,1,ok
+Lista arreglo,aleatorio8,100,difference,0.000161,1,160.866,5,1,ok
+Lista arreglo,aleatorio8,200,insert,0.000406,200,2.030,5,1,ok
+Lista arreglo,aleatorio8,200,member_si,0.000464,200,2.319,5,1,ok
+Lista arreglo,aleatorio8,200,member_no,0.000196,100,1.957,5,1,ok
+Lista arreglo,aleatorio8,200,delete,0.000341,200,1.705,5,1,ok
+Lista arreglo,aleatorio8,200,print,0.000043,1,42.620,5,1,ok
+Lista arreglo,aleatorio8,200,union,0.001969,1,1969.068,5,1,ok
+Lista arreglo,aleatorio8,200,intersection,0.000704,1,703.945,5,1,ok
+Lista arreglo,aleatorio8,200,difference,0.000682,1,681.626,5,1,ok
+Lista arreglo,aleatorio8,500,insert,0.002687,500,5.374,5,1,ok
+Lista arreglo,aleatorio8,500,member_si,0.002884,500,5.768,5,1,ok
+Lista arreglo,aleatorio8,500,member_no,0.001528,250,6.110,5,1,ok
+Lista arreglo,aleatorio8,500,delete,0.001774,300,5.914,5,1,ok
+Lista arreglo,aleatorio8,500,print,0.000092,1,92.066,5,1,ok
+Lista arreglo,aleatorio8,500,union,0.014243,1,14242.976,5,1,ok
+Lista arreglo,aleatorio8,500,intersection,0.004029,1,4028.555,5,1,ok
+Lista arreglo,aleatorio8,500,difference,0.004003,1,4003.266,5,1,ok
+Lista arreglo,aleatorio8,1000,insert,0.011970,1000,11.970,5,1,ok
+Lista arreglo,aleatorio8,1000,member_si,0.011992,1000,11.992,5,1,ok
+Lista arreglo,aleatorio8,1000,member_no,0.006017,500,12.034,5,1,ok
+Lista arreglo,aleatorio8,1000,delete,0.004479,300,14.931,5,1,ok
+Lista arreglo,aleatorio8,1000,print,0.000205,1,205.310,5,1,ok
+Lista arreglo,aleatorio8,1000,union,0.060626,1,60626.279,5,1,ok
+Lista arreglo,aleatorio8,1000,intersection,0.019037,1,19036.815,5,1,ok
+Lista arreglo,aleatorio8,1000,difference,0.018527,1,18527.376,5,1,ok
+Lista arreglo,aleatorio8,5000,insert,0.291894,5000,58.379,3,1,ok
+Lista arreglo,aleatorio8,5000,member_si,0.064480,1000,64.480,3,1,ok
+Lista arreglo,aleatorio8,5000,member_no,0.061873,1000,61.873,3,1,ok
+Lista arreglo,aleatorio8,5000,delete,0.024024,300,80.080,3,1,ok
+Lista arreglo,aleatorio8,5000,print,0.000932,1,931.710,3,1,ok
+Lista arreglo,aleatorio8,5000,union,1.544001,1,1544000.902,3,1,ok
+Lista arreglo,aleatorio8,5000,intersection,0.400265,1,400265.185,3,1,ok
+Lista arreglo,aleatorio8,5000,difference,0.451626,1,451626.057,3,1,ok
+Lista arreglo,aleatorio8,10000,insert,1.344342,10000,134.434,2,1,ok
+Lista arreglo,aleatorio8,10000,member_si,0.105664,1000,105.664,2,1,ok
+Lista arreglo,aleatorio8,10000,member_no,0.114762,1000,114.762,2,1,ok
+Lista arreglo,aleatorio8,10000,delete,0.045691,300,152.302,2,1,ok
+Lista arreglo,aleatorio8,10000,print,0.001703,1,1703.462,2,1,ok
+Lista arreglo,aleatorio8,10000,union,6.863694,1,6863693.556,2,1,ok
+Lista arreglo,aleatorio8,10000,intersection,2.124346,1,2124346.188,2,1,ok
+Lista arreglo,aleatorio8,10000,difference,1.763512,1,1763511.753,2,1,ok
+Lista arreglo,aleatorio8,50000,insert,,,,0,,omitido: tiempo estimado 34s > 15.0s
+Lista arreglo,aleatorio8,50000,intersection,,,,0,,omitido: tiempo estimado 53s > 15.0s
+Lista arreglo,aleatorio8,50000,difference,,,,0,,omitido: tiempo estimado 44s > 15.0s
+Lista arreglo,aleatorio8,50000,union,,,,0,,omitido: tiempo estimado 172s > 15.0s
+Hash (m=10),aleatorio8,10,insert,0.000014,10,1.399,5,1,ok
+Hash (m=10),aleatorio8,10,member_si,0.000014,10,1.401,5,1,ok
+Hash (m=10),aleatorio8,10,member_no,0.000011,5,2.235,5,1,ok
+Hash (m=10),aleatorio8,10,delete,0.000016,10,1.638,5,1,ok
+Hash (m=10),aleatorio8,10,print,0.000021,1,20.828,5,1,ok
+Hash (m=10),aleatorio8,10,union,0.000026,1,25.515,5,1,ok
+Hash (m=10),aleatorio8,10,intersection,0.000023,1,22.809,5,1,ok
+Hash (m=10),aleatorio8,10,difference,0.000022,1,21.866,5,1,ok
+Hash (m=10),aleatorio8,20,insert,0.000018,20,0.924,5,1,ok
+Hash (m=10),aleatorio8,20,member_si,0.000019,20,0.928,5,1,ok
+Hash (m=10),aleatorio8,20,member_no,0.000015,10,1.454,5,1,ok
+Hash (m=10),aleatorio8,20,delete,0.000022,20,1.076,5,1,ok
+Hash (m=10),aleatorio8,20,print,0.000024,1,24.382,5,1,ok
+Hash (m=10),aleatorio8,20,union,0.000036,1,35.728,5,1,ok
+Hash (m=10),aleatorio8,20,intersection,0.000030,1,30.171,5,1,ok
+Hash (m=10),aleatorio8,20,difference,0.000029,1,28.653,5,1,ok
+Hash (m=10),aleatorio8,30,insert,0.000023,30,0.776,5,1,ok
+Hash (m=10),aleatorio8,30,member_si,0.000023,30,0.760,5,1,ok
+Hash (m=10),aleatorio8,30,member_no,0.000017,15,1.104,5,1,ok
+Hash (m=10),aleatorio8,30,delete,0.000026,30,0.882,5,1,ok
+Hash (m=10),aleatorio8,30,print,0.000025,1,24.910,5,1,ok
+Hash (m=10),aleatorio8,30,union,0.000046,1,45.690,5,1,ok
+Hash (m=10),aleatorio8,30,intersection,0.000037,1,36.572,5,1,ok
+Hash (m=10),aleatorio8,30,difference,0.000036,1,35.748,5,1,ok
+Hash (m=10),aleatorio8,50,insert,0.000034,50,0.679,5,1,ok
+Hash (m=10),aleatorio8,50,member_si,0.000034,50,0.685,5,1,ok
+Hash (m=10),aleatorio8,50,member_no,0.000022,25,0.881,5,1,ok
+Hash (m=10),aleatorio8,50,delete,0.000038,50,0.758,5,1,ok
+Hash (m=10),aleatorio8,50,print,0.000032,1,32.491,5,1,ok
+Hash (m=10),aleatorio8,50,union,0.000065,1,65.116,5,1,ok
+Hash (m=10),aleatorio8,50,intersection,0.000054,1,53.780,5,1,ok
+Hash (m=10),aleatorio8,50,difference,0.000051,1,50.729,5,1,ok
+Hash (m=10),aleatorio8,100,insert,0.000060,100,0.604,5,1,ok
+Hash (m=10),aleatorio8,100,member_si,0.000060,100,0.597,5,1,ok
+Hash (m=10),aleatorio8,100,member_no,0.000036,50,0.714,5,1,ok
+Hash (m=10),aleatorio8,100,delete,0.000071,100,0.712,5,1,ok
+Hash (m=10),aleatorio8,100,print,0.000042,1,42.384,5,1,ok
+Hash (m=10),aleatorio8,100,union,0.000133,1,132.616,5,1,ok
+Hash (m=10),aleatorio8,100,intersection,0.000089,1,88.918,5,1,ok
+Hash (m=10),aleatorio8,100,difference,0.000087,1,86.571,5,1,ok
+Hash (m=10),aleatorio8,200,insert,0.000122,200,0.608,5,1,ok
+Hash (m=10),aleatorio8,200,member_si,0.000117,200,0.583,5,1,ok
+Hash (m=10),aleatorio8,200,member_no,0.000070,100,0.700,5,1,ok
+Hash (m=10),aleatorio8,200,delete,0.000131,200,0.656,5,1,ok
+Hash (m=10),aleatorio8,200,print,0.000057,1,57.040,5,1,ok
+Hash (m=10),aleatorio8,200,union,0.000284,1,284.249,5,1,ok
+Hash (m=10),aleatorio8,200,intersection,0.000184,1,183.507,5,1,ok
+Hash (m=10),aleatorio8,200,difference,0.000182,1,181.919,5,1,ok
+Hash (m=10),aleatorio8,500,insert,0.000380,500,0.759,5,1,ok
+Hash (m=10),aleatorio8,500,member_si,0.000373,500,0.746,5,1,ok
+Hash (m=10),aleatorio8,500,member_no,0.000226,250,0.903,5,1,ok
+Hash (m=10),aleatorio8,500,delete,0.000251,300,0.837,5,1,ok
+Hash (m=10),aleatorio8,500,print,0.000104,1,104.138,5,1,ok
+Hash (m=10),aleatorio8,500,union,0.000746,1,745.551,5,1,ok
+Hash (m=10),aleatorio8,500,intersection,0.000566,1,566.431,5,1,ok
+Hash (m=10),aleatorio8,500,difference,0.000548,1,547.843,5,1,ok
+Hash (m=10),aleatorio8,1000,insert,0.000916,1000,0.916,5,1,ok
+Hash (m=10),aleatorio8,1000,member_si,0.000900,1000,0.900,5,1,ok
+Hash (m=10),aleatorio8,1000,member_no,0.000693,500,1.386,5,1,ok
+Hash (m=10),aleatorio8,1000,delete,0.000402,300,1.342,5,1,ok
+Hash (m=10),aleatorio8,1000,print,0.000202,1,201.941,5,1,ok
+Hash (m=10),aleatorio8,1000,union,0.002104,1,2103.812,5,1,ok
+Hash (m=10),aleatorio8,1000,intersection,0.001512,1,1512.467,5,1,ok
+Hash (m=10),aleatorio8,1000,difference,0.001426,1,1425.755,5,1,ok
+Hash (m=10),aleatorio8,5000,insert,0.015592,5000,3.118,3,1,ok
+Hash (m=10),aleatorio8,5000,member_si,0.003424,1000,3.424,3,1,ok
+Hash (m=10),aleatorio8,5000,member_no,0.006211,1000,6.211,3,1,ok
+Hash (m=10),aleatorio8,5000,delete,0.001170,300,3.901,3,1,ok
+Hash (m=10),aleatorio8,5000,print,0.000943,1,943.327,3,1,ok
+Hash (m=10),aleatorio8,5000,union,0.031036,1,31036.169,3,1,ok
+Hash (m=10),aleatorio8,5000,intersection,0.018119,1,18118.515,3,1,ok
+Hash (m=10),aleatorio8,5000,difference,0.017888,1,17887.839,3,1,ok
+Hash (m=10),aleatorio8,10000,insert,0.046775,10000,4.678,3,1,ok
+Hash (m=10),aleatorio8,10000,member_si,0.004789,1000,4.789,3,1,ok
+Hash (m=10),aleatorio8,10000,member_no,0.008991,1000,8.991,3,1,ok
+Hash (m=10),aleatorio8,10000,delete,0.002689,300,8.962,3,1,ok
+Hash (m=10),aleatorio8,10000,print,0.001917,1,1917.446,3,1,ok
+Hash (m=10),aleatorio8,10000,union,0.134935,1,134934.519,3,1,ok
+Hash (m=10),aleatorio8,10000,intersection,0.081104,1,81103.871,3,1,ok
+Hash (m=10),aleatorio8,10000,difference,0.080328,1,80328.174,3,1,ok
+Hash (m=10),aleatorio8,50000,insert,2.120815,50000,42.416,1,1,ok
+Hash (m=10),aleatorio8,50000,member_si,0.087102,1000,87.102,1,1,ok
+Hash (m=10),aleatorio8,50000,member_no,0.174143,1000,174.143,1,1,ok
+Hash (m=10),aleatorio8,50000,delete,0.019577,300,65.258,1,1,ok
+Hash (m=10),aleatorio8,50000,print,0.009311,1,9311.132,1,1,ok
+Hash (m=10),aleatorio8,50000,union,2.628793,1,2628793.473,1,1,ok
+Hash (m=10),aleatorio8,50000,intersection,1.746351,1,1746351.337,1,1,ok
+Hash (m=10),aleatorio8,50000,difference,2.065407,1,2065406.581,1,1,ok
+Hash (m=N) ref.,aleatorio8,10,insert,0.000011,10,1.126,5,1,ok
+Hash (m=N) ref.,aleatorio8,10,member_si,0.000012,10,1.154,5,1,ok
+Hash (m=N) ref.,aleatorio8,10,member_no,0.000009,5,1.856,5,1,ok
+Hash (m=N) ref.,aleatorio8,10,delete,0.000013,10,1.321,5,1,ok
+Hash (m=N) ref.,aleatorio8,10,print,0.000016,1,15.849,5,1,ok
+Hash (m=N) ref.,aleatorio8,10,union,0.000021,1,21.173,5,1,ok
+Hash (m=N) ref.,aleatorio8,10,intersection,0.000018,1,18.336,5,1,ok
+Hash (m=N) ref.,aleatorio8,10,difference,0.000018,1,18.183,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,insert,0.000016,20,0.804,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,member_si,0.000015,20,0.763,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,member_no,0.000011,10,1.118,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,delete,0.000018,20,0.882,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,print,0.000024,1,24.090,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,union,0.000033,1,32.530,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,intersection,0.000025,1,25.328,5,1,ok
+Hash (m=N) ref.,aleatorio8,20,difference,0.000025,1,25.410,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,insert,0.000020,30,0.667,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,member_si,0.000020,30,0.676,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,member_no,0.000014,15,0.903,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,delete,0.000023,30,0.767,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,print,0.000031,1,31.000,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,union,0.000041,1,41.272,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,intersection,0.000032,1,31.930,5,1,ok
+Hash (m=N) ref.,aleatorio8,30,difference,0.000032,1,31.582,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,insert,0.000031,50,0.617,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,member_si,0.000028,50,0.564,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,member_no,0.000017,25,0.698,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,delete,0.000032,50,0.641,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,print,0.000042,1,42.495,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,union,0.000062,1,61.735,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,intersection,0.000046,1,45.500,5,1,ok
+Hash (m=N) ref.,aleatorio8,50,difference,0.000046,1,46.150,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,insert,0.000051,100,0.508,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,member_si,0.000049,100,0.486,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,member_no,0.000027,50,0.546,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,delete,0.000056,100,0.560,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,print,0.000072,1,71.663,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,union,0.000118,1,118.192,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,intersection,0.000086,1,85.640,5,1,ok
+Hash (m=N) ref.,aleatorio8,100,difference,0.000084,1,83.969,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,insert,0.000093,200,0.464,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,member_si,0.000091,200,0.453,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,member_no,0.000049,100,0.487,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,delete,0.000100,200,0.498,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,print,0.000123,1,122.966,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,union,0.000215,1,214.653,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,intersection,0.000155,1,154.822,5,1,ok
+Hash (m=N) ref.,aleatorio8,200,difference,0.000154,1,154.086,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,insert,0.000223,500,0.447,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,member_si,0.000212,500,0.425,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,member_no,0.000113,250,0.451,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,delete,0.000160,300,0.533,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,print,0.000281,1,280.670,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,union,0.000563,1,563.166,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,intersection,0.000369,1,368.853,5,1,ok
+Hash (m=N) ref.,aleatorio8,500,difference,0.000399,1,398.860,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,insert,0.000508,1000,0.508,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,member_si,0.000505,1000,0.505,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,member_no,0.000229,500,0.457,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,delete,0.000266,300,0.888,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,print,0.000618,1,618.413,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,union,0.001767,1,1766.895,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,intersection,0.001294,1,1293.732,5,1,ok
+Hash (m=N) ref.,aleatorio8,1000,difference,0.001331,1,1331.092,5,1,ok
+Hash (m=N) ref.,aleatorio8,5000,insert,0.002598,5000,0.520,3,1,ok
+Hash (m=N) ref.,aleatorio8,5000,member_si,0.000632,1000,0.632,3,1,ok
+Hash (m=N) ref.,aleatorio8,5000,member_no,0.000697,1000,0.697,3,1,ok
+Hash (m=N) ref.,aleatorio8,5000,delete,0.000227,300,0.756,3,1,ok
+Hash (m=N) ref.,aleatorio8,5000,print,0.003264,1,3264.221,3,1,ok
+Hash (m=N) ref.,aleatorio8,5000,union,0.006309,1,6309.272,3,1,ok
+Hash (m=N) ref.,aleatorio8,5000,intersection,0.004557,1,4557.103,3,1,ok
+Hash (m=N) ref.,aleatorio8,5000,difference,0.004611,1,4610.842,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,insert,0.005562,10000,0.556,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,member_si,0.000614,1000,0.614,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,member_no,0.000599,1000,0.599,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,delete,0.000211,300,0.704,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,print,0.006281,1,6280.880,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,union,0.012118,1,12118.000,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,intersection,0.008967,1,8966.939,3,1,ok
+Hash (m=N) ref.,aleatorio8,10000,difference,0.008823,1,8823.297,3,1,ok
+Hash (m=N) ref.,aleatorio8,50000,insert,0.034719,50000,0.694,1,1,ok
+Hash (m=N) ref.,aleatorio8,50000,member_si,0.001017,1000,1.017,1,1,ok
+Hash (m=N) ref.,aleatorio8,50000,member_no,0.000873,1000,0.873,1,1,ok
+Hash (m=N) ref.,aleatorio8,50000,delete,0.000310,300,1.032,1,1,ok
+Hash (m=N) ref.,aleatorio8,50000,print,0.036484,1,36483.610,1,1,ok
+Hash (m=N) ref.,aleatorio8,50000,union,0.071443,1,71442.716,1,1,ok
+Hash (m=N) ref.,aleatorio8,50000,intersection,0.050629,1,50628.643,1,1,ok
+Hash (m=N) ref.,aleatorio8,50000,difference,0.050670,1,50669.964,1,1,ok
+ABB punteros,aleatorio8,10,insert,0.000011,10,1.142,5,1,ok
+ABB punteros,aleatorio8,10,member_si,0.000008,10,0.835,5,1,ok
+ABB punteros,aleatorio8,10,member_no,0.000007,5,1.437,5,1,ok
+ABB punteros,aleatorio8,10,delete,0.000011,10,1.094,5,1,ok
+ABB punteros,aleatorio8,10,print,0.000018,1,18.377,5,1,ok
+ABB punteros,aleatorio8,10,union,0.000032,1,32.376,5,1,ok
+ABB punteros,aleatorio8,10,intersection,0.000028,1,27.912,5,1,ok
+ABB punteros,aleatorio8,10,difference,0.000026,1,26.471,5,1,ok
+ABB punteros,aleatorio8,20,insert,0.000014,20,0.723,5,1,ok
+ABB punteros,aleatorio8,20,member_si,0.000011,20,0.536,5,1,ok
+ABB punteros,aleatorio8,20,member_no,0.000009,10,0.904,5,1,ok
+ABB punteros,aleatorio8,20,delete,0.000014,20,0.696,5,1,ok
+ABB punteros,aleatorio8,20,print,0.000022,1,22.078,5,1,ok
+ABB punteros,aleatorio8,20,union,0.000047,1,47.301,5,1,ok
+ABB punteros,aleatorio8,20,intersection,0.000040,1,39.557,5,1,ok
+ABB punteros,aleatorio8,20,difference,0.000039,1,38.556,5,1,ok
+ABB punteros,aleatorio8,30,insert,0.000020,30,0.663,5,1,ok
+ABB punteros,aleatorio8,30,member_si,0.000014,30,0.473,5,1,ok
+ABB punteros,aleatorio8,30,member_no,0.000011,15,0.709,5,1,ok
+ABB punteros,aleatorio8,30,delete,0.000018,30,0.613,5,1,ok
+ABB punteros,aleatorio8,30,print,0.000027,1,27.214,5,1,ok
+ABB punteros,aleatorio8,30,union,0.000062,1,62.445,5,1,ok
+ABB punteros,aleatorio8,30,intersection,0.000051,1,51.453,5,1,ok
+ABB punteros,aleatorio8,30,difference,0.000051,1,50.605,5,1,ok
+ABB punteros,aleatorio8,50,insert,0.000028,50,0.568,5,1,ok
+ABB punteros,aleatorio8,50,member_si,0.000020,50,0.403,5,1,ok
+ABB punteros,aleatorio8,50,member_no,0.000015,25,0.606,5,1,ok
+ABB punteros,aleatorio8,50,delete,0.000026,50,0.527,5,1,ok
+ABB punteros,aleatorio8,50,print,0.000035,1,34.935,5,1,ok
+ABB punteros,aleatorio8,50,union,0.000092,1,92.175,5,1,ok
+ABB punteros,aleatorio8,50,intersection,0.000077,1,76.675,5,1,ok
+ABB punteros,aleatorio8,50,difference,0.000084,1,83.898,5,1,ok
+ABB punteros,aleatorio8,100,insert,0.000054,100,0.543,5,1,ok
+ABB punteros,aleatorio8,100,member_si,0.000040,100,0.404,5,1,ok
+ABB punteros,aleatorio8,100,member_no,0.000027,50,0.547,5,1,ok
+ABB punteros,aleatorio8,100,delete,0.000050,100,0.502,5,1,ok
+ABB punteros,aleatorio8,100,print,0.000070,1,70.388,5,1,ok
+ABB punteros,aleatorio8,100,union,0.000168,1,168.371,5,1,ok
+ABB punteros,aleatorio8,100,intersection,0.000142,1,141.961,5,1,ok
+ABB punteros,aleatorio8,100,difference,0.000147,1,146.609,5,1,ok
+ABB punteros,aleatorio8,200,insert,0.000108,200,0.542,5,1,ok
+ABB punteros,aleatorio8,200,member_si,0.000084,200,0.421,5,1,ok
+ABB punteros,aleatorio8,200,member_no,0.000053,100,0.529,5,1,ok
+ABB punteros,aleatorio8,200,delete,0.000095,200,0.474,5,1,ok
+ABB punteros,aleatorio8,200,print,0.000093,1,92.778,5,1,ok
+ABB punteros,aleatorio8,200,union,0.000366,1,365.942,5,1,ok
+ABB punteros,aleatorio8,200,intersection,0.000297,1,296.655,5,1,ok
+ABB punteros,aleatorio8,200,difference,0.000326,1,325.941,5,1,ok
+ABB punteros,aleatorio8,500,insert,0.000307,500,0.613,5,1,ok
+ABB punteros,aleatorio8,500,member_si,0.000219,500,0.439,5,1,ok
+ABB punteros,aleatorio8,500,member_no,0.000170,250,0.681,5,1,ok
+ABB punteros,aleatorio8,500,delete,0.000217,300,0.725,5,1,ok
+ABB punteros,aleatorio8,500,print,0.000211,1,210.633,5,1,ok
+ABB punteros,aleatorio8,500,union,0.000836,1,836.100,5,1,ok
+ABB punteros,aleatorio8,500,intersection,0.000629,1,629.416,5,1,ok
+ABB punteros,aleatorio8,500,difference,0.000676,1,675.860,5,1,ok
+ABB punteros,aleatorio8,1000,insert,0.000773,1000,0.773,5,1,ok
+ABB punteros,aleatorio8,1000,member_si,0.000579,1000,0.579,5,1,ok
+ABB punteros,aleatorio8,1000,member_no,0.000349,500,0.697,5,1,ok
+ABB punteros,aleatorio8,1000,delete,0.000218,300,0.727,5,1,ok
+ABB punteros,aleatorio8,1000,print,0.000387,1,387.344,5,1,ok
+ABB punteros,aleatorio8,1000,union,0.001625,1,1624.938,5,1,ok
+ABB punteros,aleatorio8,1000,intersection,0.001343,1,1343.146,5,1,ok
+ABB punteros,aleatorio8,1000,difference,0.001328,1,1327.581,5,1,ok
+ABB punteros,aleatorio8,5000,insert,0.003421,5000,0.684,3,1,ok
+ABB punteros,aleatorio8,5000,member_si,0.000694,1000,0.694,3,1,ok
+ABB punteros,aleatorio8,5000,member_no,0.000808,1000,0.808,3,1,ok
+ABB punteros,aleatorio8,5000,delete,0.000333,300,1.109,3,1,ok
+ABB punteros,aleatorio8,5000,print,0.001719,1,1719.256,3,1,ok
+ABB punteros,aleatorio8,5000,union,0.007849,1,7848.712,3,1,ok
+ABB punteros,aleatorio8,5000,intersection,0.005485,1,5484.566,3,1,ok
+ABB punteros,aleatorio8,5000,difference,0.005859,1,5858.919,3,1,ok
+ABB punteros,aleatorio8,10000,insert,0.007717,10000,0.772,3,1,ok
+ABB punteros,aleatorio8,10000,member_si,0.000860,1000,0.860,3,1,ok
+ABB punteros,aleatorio8,10000,member_no,0.001043,1000,1.043,3,1,ok
+ABB punteros,aleatorio8,10000,delete,0.000478,300,1.593,3,1,ok
+ABB punteros,aleatorio8,10000,print,0.003435,1,3434.509,3,1,ok
+ABB punteros,aleatorio8,10000,union,0.015912,1,15912.140,3,1,ok
+ABB punteros,aleatorio8,10000,intersection,0.012679,1,12679.381,3,1,ok
+ABB punteros,aleatorio8,10000,difference,0.012775,1,12774.743,3,1,ok
+ABB punteros,aleatorio8,50000,insert,0.079069,50000,1.581,1,1,ok
+ABB punteros,aleatorio8,50000,member_si,0.001828,1000,1.828,1,1,ok
+ABB punteros,aleatorio8,50000,member_no,0.001775,1000,1.775,1,1,ok
+ABB punteros,aleatorio8,50000,delete,0.000831,300,2.770,1,1,ok
+ABB punteros,aleatorio8,50000,print,0.020220,1,20220.469,1,1,ok
+ABB punteros,aleatorio8,50000,union,0.094995,1,94995.069,1,1,ok
+ABB punteros,aleatorio8,50000,intersection,0.092735,1,92735.223,1,1,ok
+ABB punteros,aleatorio8,50000,difference,0.096569,1,96568.653,1,1,ok
+ABB heap,aleatorio8,10,insert,0.000027,10,2.731,5,1,ok
+ABB heap,aleatorio8,10,member_si,0.000023,10,2.293,5,1,ok
+ABB heap,aleatorio8,10,member_no,0.000017,5,3.485,5,1,ok
+ABB heap,aleatorio8,10,delete,0.000035,10,3.496,5,1,ok
+ABB heap,aleatorio8,10,print,0.000014,1,14.225,5,1,ok
+ABB heap,aleatorio8,10,union,0.000060,1,59.951,5,1,ok
+ABB heap,aleatorio8,10,intersection,0.000038,1,37.590,5,1,ok
+ABB heap,aleatorio8,10,difference,0.000036,1,35.905,5,1,ok
+ABB heap,aleatorio8,20,union,,20,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,20,insert,0.000050,20,2.494,5,1,ok
+ABB heap,aleatorio8,20,member_si,0.000039,20,1.942,5,1,ok
+ABB heap,aleatorio8,20,member_no,0.000028,10,2.750,5,1,ok
+ABB heap,aleatorio8,20,delete,0.000086,20,4.295,5,1,ok
+ABB heap,aleatorio8,20,print,0.000016,1,16.230,5,1,ok
+ABB heap,aleatorio8,20,intersection,0.000072,1,71.803,5,1,ok
+ABB heap,aleatorio8,20,difference,0.000070,1,69.778,5,1,ok
+ABB heap,aleatorio8,30,union,,30,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,30,insert,0.000066,30,2.211,5,1,ok
+ABB heap,aleatorio8,30,member_si,0.000054,30,1.804,5,1,ok
+ABB heap,aleatorio8,30,member_no,0.000034,15,2.276,5,1,ok
+ABB heap,aleatorio8,30,delete,0.000186,30,6.202,5,1,ok
+ABB heap,aleatorio8,30,print,0.000018,1,18.413,5,1,ok
+ABB heap,aleatorio8,30,intersection,0.000213,1,213.461,5,1,ok
+ABB heap,aleatorio8,30,difference,0.000225,1,224.525,5,1,ok
+ABB heap,aleatorio8,50,union,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,50,intersection,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,50,difference,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,50,insert,0.000108,50,2.153,5,1,ok
+ABB heap,aleatorio8,50,member_si,0.000083,50,1.656,5,1,ok
+ABB heap,aleatorio8,50,member_no,0.000053,25,2.134,5,1,ok
+ABB heap,aleatorio8,50,delete,0.000235,50,4.691,5,1,ok
+ABB heap,aleatorio8,50,print,0.000023,1,23.102,5,1,ok
+ABB heap,aleatorio8,100,union,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,100,intersection,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,100,difference,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,100,insert,0.000397,100,3.971,5,1,ok
+ABB heap,aleatorio8,100,member_si,0.000174,100,1.741,5,1,ok
+ABB heap,aleatorio8,100,member_no,0.000104,50,2.075,5,1,ok
+ABB heap,aleatorio8,100,delete,0.002275,100,22.750,5,1,ok
+ABB heap,aleatorio8,100,print,0.000039,1,38.706,5,1,ok
+ABB heap,aleatorio8,200,union,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,200,intersection,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,200,difference,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,200,insert,0.000541,200,2.703,5,1,ok
+ABB heap,aleatorio8,200,member_si,0.000346,200,1.729,5,1,ok
+ABB heap,aleatorio8,200,member_no,0.000197,100,1.971,5,1,ok
+ABB heap,aleatorio8,200,delete,0.002340,200,11.700,5,1,ok
+ABB heap,aleatorio8,200,print,0.000062,1,62.492,5,1,ok
+ABB heap,aleatorio8,500,union,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,500,intersection,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,500,difference,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,aleatorio8,500,insert,0.001234,500,2.467,5,1,ok
+ABB heap,aleatorio8,500,member_si,0.000977,500,1.954,5,1,ok
+ABB heap,aleatorio8,500,member_no,0.000548,250,2.192,5,1,ok
+ABB heap,aleatorio8,500,delete,0.002434,300,8.113,5,1,ok
+ABB heap,aleatorio8,500,print,0.000146,1,146.378,5,1,ok
+ABB heap,aleatorio8,1000,insert,,1000,,0,,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,aleatorio8,10,insert,0.000043,10,4.344,5,1,ok
+Trie punteros,aleatorio8,10,member_si,0.000026,10,2.637,5,1,ok
+Trie punteros,aleatorio8,10,member_no,0.000014,5,2.797,5,1,ok
+Trie punteros,aleatorio8,10,delete,0.000109,10,10.870,5,1,ok
+Trie punteros,aleatorio8,10,print,0.000076,1,76.125,5,1,ok
+Trie punteros,aleatorio8,10,union,0.000213,1,212.965,5,1,ok
+Trie punteros,aleatorio8,10,intersection,0.000109,1,108.553,5,1,ok
+Trie punteros,aleatorio8,10,difference,0.000120,1,120.066,5,1,ok
+Trie punteros,aleatorio8,20,insert,0.000075,20,3.754,5,1,ok
+Trie punteros,aleatorio8,20,member_si,0.000043,20,2.133,5,1,ok
+Trie punteros,aleatorio8,20,member_no,0.000019,10,1.921,5,1,ok
+Trie punteros,aleatorio8,20,delete,0.000211,20,10.571,5,1,ok
+Trie punteros,aleatorio8,20,print,0.000134,1,134.373,5,1,ok
+Trie punteros,aleatorio8,20,union,0.000364,1,364.147,5,1,ok
+Trie punteros,aleatorio8,20,intersection,0.000197,1,196.989,5,1,ok
+Trie punteros,aleatorio8,20,difference,0.000205,1,205.046,5,1,ok
+Trie punteros,aleatorio8,30,insert,0.000147,30,4.901,5,1,ok
+Trie punteros,aleatorio8,30,member_si,0.000058,30,1.928,5,1,ok
+Trie punteros,aleatorio8,30,member_no,0.000023,15,1.556,5,1,ok
+Trie punteros,aleatorio8,30,delete,0.000318,30,10.602,5,1,ok
+Trie punteros,aleatorio8,30,print,0.000179,1,179.000,5,1,ok
+Trie punteros,aleatorio8,30,union,0.000527,1,526.966,5,1,ok
+Trie punteros,aleatorio8,30,intersection,0.000269,1,268.984,5,1,ok
+Trie punteros,aleatorio8,30,difference,0.000270,1,269.797,5,1,ok
+Trie punteros,aleatorio8,50,insert,0.000157,50,3.134,5,1,ok
+Trie punteros,aleatorio8,50,member_si,0.000093,50,1.856,5,1,ok
+Trie punteros,aleatorio8,50,member_no,0.000033,25,1.331,5,1,ok
+Trie punteros,aleatorio8,50,delete,0.000500,50,9.999,5,1,ok
+Trie punteros,aleatorio8,50,print,0.000294,1,294.064,5,1,ok
+Trie punteros,aleatorio8,50,union,0.000886,1,885.738,5,1,ok
+Trie punteros,aleatorio8,50,intersection,0.000433,1,432.879,5,1,ok
+Trie punteros,aleatorio8,50,difference,0.000466,1,466.492,5,1,ok
+Trie punteros,aleatorio8,100,insert,0.000330,100,3.299,5,1,ok
+Trie punteros,aleatorio8,100,member_si,0.000176,100,1.760,5,1,ok
+Trie punteros,aleatorio8,100,member_no,0.000060,50,1.192,5,1,ok
+Trie punteros,aleatorio8,100,delete,0.000888,100,8.883,5,1,ok
+Trie punteros,aleatorio8,100,print,0.000561,1,561.296,5,1,ok
+Trie punteros,aleatorio8,100,union,0.001611,1,1610.576,5,1,ok
+Trie punteros,aleatorio8,100,intersection,0.000903,1,902.875,5,1,ok
+Trie punteros,aleatorio8,100,difference,0.000865,1,865.476,5,1,ok
+Trie punteros,aleatorio8,200,insert,0.000583,200,2.914,5,1,ok
+Trie punteros,aleatorio8,200,member_si,0.000385,200,1.924,5,1,ok
+Trie punteros,aleatorio8,200,member_no,0.000117,100,1.174,5,1,ok
+Trie punteros,aleatorio8,200,delete,0.001835,200,9.174,5,1,ok
+Trie punteros,aleatorio8,200,print,0.001103,1,1103.016,5,1,ok
+Trie punteros,aleatorio8,200,union,0.003232,1,3232.065,5,1,ok
+Trie punteros,aleatorio8,200,intersection,0.001686,1,1686.486,5,1,ok
+Trie punteros,aleatorio8,200,difference,0.001658,1,1657.968,5,1,ok
+Trie punteros,aleatorio8,500,insert,0.001457,500,2.913,5,1,ok
+Trie punteros,aleatorio8,500,member_si,0.000918,500,1.836,5,1,ok
+Trie punteros,aleatorio8,500,member_no,0.000332,250,1.327,5,1,ok
+Trie punteros,aleatorio8,500,delete,0.002628,300,8.760,5,1,ok
+Trie punteros,aleatorio8,500,print,0.002550,1,2550.297,5,1,ok
+Trie punteros,aleatorio8,500,union,0.008130,1,8129.894,5,1,ok
+Trie punteros,aleatorio8,500,intersection,0.003983,1,3982.689,5,1,ok
+Trie punteros,aleatorio8,500,difference,0.004042,1,4041.535,5,1,ok
+Trie punteros,aleatorio8,1000,insert,0.002785,1000,2.785,5,1,ok
+Trie punteros,aleatorio8,1000,member_si,0.001806,1000,1.806,5,1,ok
+Trie punteros,aleatorio8,1000,member_no,0.000566,500,1.131,5,1,ok
+Trie punteros,aleatorio8,1000,delete,0.002755,300,9.183,5,1,ok
+Trie punteros,aleatorio8,1000,print,0.005003,1,5003.220,5,1,ok
+Trie punteros,aleatorio8,1000,union,0.015943,1,15943.022,5,1,ok
+Trie punteros,aleatorio8,1000,intersection,0.007911,1,7910.787,5,1,ok
+Trie punteros,aleatorio8,1000,difference,0.008687,1,8686.830,5,1,ok
+Trie punteros,aleatorio8,5000,insert,0.016912,5000,3.382,3,1,ok
+Trie punteros,aleatorio8,5000,member_si,0.002698,1000,2.698,3,1,ok
+Trie punteros,aleatorio8,5000,member_no,0.001523,1000,1.523,3,1,ok
+Trie punteros,aleatorio8,5000,delete,0.003062,300,10.207,3,1,ok
+Trie punteros,aleatorio8,5000,print,0.027049,1,27049.324,3,1,ok
+Trie punteros,aleatorio8,5000,union,0.092502,1,92501.777,3,1,ok
+Trie punteros,aleatorio8,5000,intersection,0.046858,1,46858.430,3,1,ok
+Trie punteros,aleatorio8,5000,difference,0.054407,1,54407.282,3,1,ok
+Trie punteros,aleatorio8,10000,insert,0.037574,10000,3.757,3,1,ok
+Trie punteros,aleatorio8,10000,member_si,0.002860,1000,2.860,3,1,ok
+Trie punteros,aleatorio8,10000,member_no,0.001677,1000,1.677,3,1,ok
+Trie punteros,aleatorio8,10000,delete,0.002992,300,9.973,3,1,ok
+Trie punteros,aleatorio8,10000,print,0.041941,1,41940.994,3,1,ok
+Trie punteros,aleatorio8,10000,union,0.146331,1,146330.859,3,1,ok
+Trie punteros,aleatorio8,10000,intersection,0.092172,1,92172.234,3,1,ok
+Trie punteros,aleatorio8,10000,difference,0.093940,1,93939.545,3,1,ok
+Trie arreglos,aleatorio8,10,insert,0.000043,10,4.291,5,1,ok
+Trie arreglos,aleatorio8,10,member_si,0.000022,10,2.237,5,1,ok
+Trie arreglos,aleatorio8,10,member_no,0.000012,5,2.397,5,1,ok
+Trie arreglos,aleatorio8,10,delete,0.000057,10,5.675,5,1,ok
+Trie arreglos,aleatorio8,10,print,0.000080,1,80.062,5,1,ok
+Trie arreglos,aleatorio8,10,union,0.000236,1,236.273,5,1,ok
+Trie arreglos,aleatorio8,10,intersection,0.000097,1,96.870,5,1,ok
+Trie arreglos,aleatorio8,10,difference,0.000167,1,166.826,5,1,ok
+Trie arreglos,aleatorio8,20,insert,0.000070,20,3.524,5,1,ok
+Trie arreglos,aleatorio8,20,member_si,0.000038,20,1.897,5,1,ok
+Trie arreglos,aleatorio8,20,member_no,0.000016,10,1.596,5,1,ok
+Trie arreglos,aleatorio8,20,delete,0.000101,20,5.051,5,1,ok
+Trie arreglos,aleatorio8,20,print,0.000113,1,113.097,5,1,ok
+Trie arreglos,aleatorio8,20,union,0.000501,1,500.759,5,1,ok
+Trie arreglos,aleatorio8,20,intersection,0.000167,1,166.885,5,1,ok
+Trie arreglos,aleatorio8,20,difference,0.000297,1,296.896,5,1,ok
+Trie arreglos,aleatorio8,30,insert,0.000130,30,4.335,5,1,ok
+Trie arreglos,aleatorio8,30,member_si,0.000049,30,1.636,5,1,ok
+Trie arreglos,aleatorio8,30,member_no,0.000019,15,1.277,5,1,ok
+Trie arreglos,aleatorio8,30,delete,0.000158,30,5.252,5,1,ok
+Trie arreglos,aleatorio8,30,print,0.000163,1,162.631,5,1,ok
+Trie arreglos,aleatorio8,30,union,0.000724,1,723.927,5,1,ok
+Trie arreglos,aleatorio8,30,intersection,0.000262,1,262.410,5,1,ok
+Trie arreglos,aleatorio8,30,difference,0.000485,1,484.797,5,1,ok
+Trie arreglos,aleatorio8,50,insert,0.000160,50,3.206,5,1,ok
+Trie arreglos,aleatorio8,50,member_si,0.000078,50,1.560,5,1,ok
+Trie arreglos,aleatorio8,50,member_no,0.000028,25,1.108,5,1,ok
+Trie arreglos,aleatorio8,50,delete,0.000251,50,5.012,5,1,ok
+Trie arreglos,aleatorio8,50,print,0.000266,1,266.302,5,1,ok
+Trie arreglos,aleatorio8,50,union,0.001169,1,1168.619,5,1,ok
+Trie arreglos,aleatorio8,50,intersection,0.000525,1,525.170,5,1,ok
+Trie arreglos,aleatorio8,50,difference,0.000839,1,839.153,5,1,ok
+Trie arreglos,aleatorio8,100,insert,0.000308,100,3.081,5,1,ok
+Trie arreglos,aleatorio8,100,member_si,0.000167,100,1.668,5,1,ok
+Trie arreglos,aleatorio8,100,member_no,0.000045,50,0.898,5,1,ok
+Trie arreglos,aleatorio8,100,delete,0.000458,100,4.579,5,1,ok
+Trie arreglos,aleatorio8,100,print,0.000528,1,527.999,5,1,ok
+Trie arreglos,aleatorio8,100,union,0.002333,1,2333.403,5,1,ok
+Trie arreglos,aleatorio8,100,intersection,0.000957,1,956.582,5,1,ok
+Trie arreglos,aleatorio8,100,difference,0.001503,1,1502.656,5,1,ok
+Trie arreglos,aleatorio8,200,insert,0.000599,200,2.995,5,1,ok
+Trie arreglos,aleatorio8,200,member_si,0.000377,200,1.887,5,1,ok
+Trie arreglos,aleatorio8,200,member_no,0.000095,100,0.952,5,1,ok
+Trie arreglos,aleatorio8,200,delete,0.000951,200,4.755,5,1,ok
+Trie arreglos,aleatorio8,200,print,0.000974,1,974.449,5,1,ok
+Trie arreglos,aleatorio8,200,union,0.004341,1,4340.875,5,1,ok
+Trie arreglos,aleatorio8,200,intersection,0.001667,1,1666.902,5,1,ok
+Trie arreglos,aleatorio8,200,difference,0.002929,1,2929.358,5,1,ok
+Trie arreglos,aleatorio8,500,insert,0.001425,500,2.850,5,1,ok
+Trie arreglos,aleatorio8,500,member_si,0.000907,500,1.814,5,1,ok
+Trie arreglos,aleatorio8,500,member_no,0.000219,250,0.875,5,1,ok
+Trie arreglos,aleatorio8,500,delete,0.001595,300,5.317,5,1,ok
+Trie arreglos,aleatorio8,500,print,0.002577,1,2577.489,5,1,ok
+Trie arreglos,aleatorio8,500,union,0.011323,1,11323.256,5,1,ok
+Trie arreglos,aleatorio8,500,intersection,0.003988,1,3988.434,5,1,ok
+Trie arreglos,aleatorio8,500,difference,0.007402,1,7402.281,5,1,ok
+Trie arreglos,aleatorio8,1000,insert,0.002542,1000,2.542,5,1,ok
+Trie arreglos,aleatorio8,1000,member_si,0.001629,1000,1.629,5,1,ok
+Trie arreglos,aleatorio8,1000,member_no,0.000429,500,0.857,5,1,ok
+Trie arreglos,aleatorio8,1000,delete,0.001589,300,5.297,5,1,ok
+Trie arreglos,aleatorio8,1000,print,0.004343,1,4342.503,5,1,ok
+Trie arreglos,aleatorio8,1000,union,0.020884,1,20884.074,5,1,ok
+Trie arreglos,aleatorio8,1000,intersection,0.007547,1,7546.778,5,1,ok
+Trie arreglos,aleatorio8,1000,difference,0.013714,1,13713.739,5,1,ok
+Trie arreglos,aleatorio8,5000,insert,0.016026,5000,3.205,3,1,ok
+Trie arreglos,aleatorio8,5000,member_si,0.002748,1000,2.748,3,1,ok
+Trie arreglos,aleatorio8,5000,member_no,0.001108,1000,1.108,3,1,ok
+Trie arreglos,aleatorio8,5000,delete,0.001946,300,6.486,3,1,ok
+Trie arreglos,aleatorio8,5000,print,0.022301,1,22300.882,3,1,ok
+Trie arreglos,aleatorio8,5000,union,0.101651,1,101651.409,3,1,ok
+Trie arreglos,aleatorio8,5000,intersection,0.040778,1,40777.970,3,1,ok
+Trie arreglos,aleatorio8,5000,difference,0.074746,1,74746.237,3,1,ok
+Trie arreglos,aleatorio8,10000,insert,0.032131,10000,3.213,3,1,ok
+Trie arreglos,aleatorio8,10000,member_si,0.002690,1000,2.690,3,1,ok
+Trie arreglos,aleatorio8,10000,member_no,0.001434,1000,1.434,3,1,ok
+Trie arreglos,aleatorio8,10000,delete,0.002189,300,7.298,3,1,ok
+Trie arreglos,aleatorio8,10000,print,0.044295,1,44295.291,3,1,ok
+Trie arreglos,aleatorio8,10000,union,0.209255,1,209254.603,3,1,ok
+Trie arreglos,aleatorio8,10000,intersection,0.080870,1,80869.579,3,1,ok
+Trie arreglos,aleatorio8,10000,difference,0.136561,1,136561.473,3,1,ok
+Lista punteros,max20,10,insert,0.000011,10,1.086,5,1,ok
+Lista punteros,max20,10,member_si,0.000008,10,0.784,5,1,ok
+Lista punteros,max20,10,member_no,0.000006,5,1.291,5,1,ok
+Lista punteros,max20,10,delete,0.000009,10,0.860,5,1,ok
+Lista punteros,max20,10,print,0.000013,1,13.066,5,1,ok
+Lista punteros,max20,10,union,0.000018,1,18.440,5,1,ok
+Lista punteros,max20,10,intersection,0.000013,1,12.655,5,1,ok
+Lista punteros,max20,10,difference,0.000012,1,12.490,5,1,ok
+Lista punteros,max20,20,insert,0.000014,20,0.688,5,1,ok
+Lista punteros,max20,20,member_si,0.000015,20,0.750,5,1,ok
+Lista punteros,max20,20,member_no,0.000009,10,0.946,5,1,ok
+Lista punteros,max20,20,delete,0.000011,20,0.535,5,1,ok
+Lista punteros,max20,20,print,0.000016,1,15.726,5,1,ok
+Lista punteros,max20,20,union,0.000032,1,31.682,5,1,ok
+Lista punteros,max20,20,intersection,0.000020,1,20.478,5,1,ok
+Lista punteros,max20,20,difference,0.000020,1,19.735,5,1,ok
+Lista punteros,max20,30,insert,0.000019,30,0.618,5,1,ok
+Lista punteros,max20,30,member_si,0.000022,30,0.741,5,1,ok
+Lista punteros,max20,30,member_no,0.000011,15,0.716,5,1,ok
+Lista punteros,max20,30,delete,0.000016,30,0.519,5,1,ok
+Lista punteros,max20,30,print,0.000019,1,19.185,5,1,ok
+Lista punteros,max20,30,union,0.000053,1,52.819,5,1,ok
+Lista punteros,max20,30,intersection,0.000036,1,36.061,5,1,ok
+Lista punteros,max20,30,difference,0.000035,1,35.386,5,1,ok
+Lista punteros,max20,50,insert,0.000041,50,0.819,5,1,ok
+Lista punteros,max20,50,member_si,0.000060,50,1.192,5,1,ok
+Lista punteros,max20,50,member_no,0.000035,25,1.380,5,1,ok
+Lista punteros,max20,50,delete,0.000029,50,0.580,5,1,ok
+Lista punteros,max20,50,print,0.000028,1,28.381,5,1,ok
+Lista punteros,max20,50,union,0.000121,1,120.671,5,1,ok
+Lista punteros,max20,50,intersection,0.000064,1,64.496,5,1,ok
+Lista punteros,max20,50,difference,0.000064,1,64.322,5,1,ok
+Lista punteros,max20,100,insert,0.000100,100,1.003,5,1,ok
+Lista punteros,max20,100,member_si,0.000176,100,1.763,5,1,ok
+Lista punteros,max20,100,member_no,0.000106,50,2.113,5,1,ok
+Lista punteros,max20,100,delete,0.000089,100,0.891,5,1,ok
+Lista punteros,max20,100,print,0.000040,1,39.515,5,1,ok
+Lista punteros,max20,100,union,0.000421,1,420.901,5,1,ok
+Lista punteros,max20,100,intersection,0.000228,1,227.737,5,1,ok
+Lista punteros,max20,100,difference,0.000238,1,238.473,5,1,ok
+Lista punteros,max20,200,insert,0.000371,200,1.855,5,1,ok
+Lista punteros,max20,200,member_si,0.000694,200,3.470,5,1,ok
+Lista punteros,max20,200,member_no,0.000412,100,4.119,5,1,ok
+Lista punteros,max20,200,delete,0.000349,200,1.747,5,1,ok
+Lista punteros,max20,200,print,0.000062,1,61.560,5,1,ok
+Lista punteros,max20,200,union,0.001527,1,1527.481,5,1,ok
+Lista punteros,max20,200,intersection,0.000974,1,974.068,5,1,ok
+Lista punteros,max20,200,difference,0.001013,1,1013.475,5,1,ok
+Lista punteros,max20,500,insert,0.001995,500,3.990,5,1,ok
+Lista punteros,max20,500,member_si,0.004710,500,9.420,5,1,ok
+Lista punteros,max20,500,member_no,0.002417,250,9.670,5,1,ok
+Lista punteros,max20,500,delete,0.001474,300,4.913,5,1,ok
+Lista punteros,max20,500,print,0.000113,1,113.278,5,1,ok
+Lista punteros,max20,500,union,0.008827,1,8827.293,5,1,ok
+Lista punteros,max20,500,intersection,0.005915,1,5915.318,5,1,ok
+Lista punteros,max20,500,difference,0.005759,1,5758.833,5,1,ok
+Lista punteros,max20,1000,insert,0.006741,1000,6.741,5,1,ok
+Lista punteros,max20,1000,member_si,0.017809,1000,17.809,5,1,ok
+Lista punteros,max20,1000,member_no,0.009840,500,19.680,5,1,ok
+Lista punteros,max20,1000,delete,0.003704,300,12.346,5,1,ok
+Lista punteros,max20,1000,print,0.000222,1,221.502,5,1,ok
+Lista punteros,max20,1000,union,0.035760,1,35759.664,5,1,ok
+Lista punteros,max20,1000,intersection,0.021890,1,21890.305,5,1,ok
+Lista punteros,max20,1000,difference,0.021915,1,21915.294,5,1,ok
+Lista punteros,max20,5000,insert,0.184837,5000,36.967,3,1,ok
+Lista punteros,max20,5000,member_si,0.104756,1000,104.756,3,1,ok
+Lista punteros,max20,5000,member_no,0.100178,1000,100.178,3,1,ok
+Lista punteros,max20,5000,delete,0.020488,300,68.292,3,1,ok
+Lista punteros,max20,5000,print,0.001223,1,1223.167,3,1,ok
+Lista punteros,max20,5000,union,0.874336,1,874336.091,3,1,ok
+Lista punteros,max20,5000,intersection,0.596851,1,596850.612,3,1,ok
+Lista punteros,max20,5000,difference,0.548975,1,548975.122,3,1,ok
+Lista punteros,max20,10000,insert,0.743270,10000,74.327,2,1,ok
+Lista punteros,max20,10000,member_si,0.222451,1000,222.451,2,1,ok
+Lista punteros,max20,10000,member_no,0.231705,1000,231.705,2,1,ok
+Lista punteros,max20,10000,delete,0.045865,300,152.883,2,1,ok
+Lista punteros,max20,10000,print,0.002625,1,2624.824,2,1,ok
+Lista punteros,max20,10000,union,4.003876,1,4003875.720,2,1,ok
+Lista punteros,max20,10000,intersection,2.880165,1,2880164.538,2,1,ok
+Lista punteros,max20,10000,difference,3.315737,1,3315736.723,2,1,ok
+Lista punteros,max20,50000,insert,,,,0,,omitido: tiempo estimado 19s > 15.0s
+Lista punteros,max20,50000,intersection,,,,0,,omitido: tiempo estimado 72s > 15.0s
+Lista punteros,max20,50000,difference,,,,0,,omitido: tiempo estimado 83s > 15.0s
+Lista punteros,max20,50000,union,,,,0,,omitido: tiempo estimado 100s > 15.0s
+Lista arreglo,max20,10,insert,0.000010,10,1.041,5,1,ok
+Lista arreglo,max20,10,member_si,0.000008,10,0.756,5,1,ok
+Lista arreglo,max20,10,member_no,0.000007,5,1.344,5,1,ok
+Lista arreglo,max20,10,delete,0.000010,10,1.045,5,1,ok
+Lista arreglo,max20,10,print,0.000014,1,14.271,5,1,ok
+Lista arreglo,max20,10,union,0.000018,1,18.214,5,1,ok
+Lista arreglo,max20,10,intersection,0.000013,1,12.628,5,1,ok
+Lista arreglo,max20,10,difference,0.000013,1,12.937,5,1,ok
+Lista arreglo,max20,20,insert,0.000015,20,0.756,5,1,ok
+Lista arreglo,max20,20,member_si,0.000012,20,0.577,5,1,ok
+Lista arreglo,max20,20,member_no,0.000009,10,0.924,5,1,ok
+Lista arreglo,max20,20,delete,0.000015,20,0.740,5,1,ok
+Lista arreglo,max20,20,print,0.000016,1,16.352,5,1,ok
+Lista arreglo,max20,20,union,0.000035,1,35.246,5,1,ok
+Lista arreglo,max20,20,intersection,0.000020,1,20.464,5,1,ok
+Lista arreglo,max20,20,difference,0.000019,1,19.313,5,1,ok
+Lista arreglo,max20,30,insert,0.000019,30,0.642,5,1,ok
+Lista arreglo,max20,30,member_si,0.000018,30,0.594,5,1,ok
+Lista arreglo,max20,30,member_no,0.000010,15,0.674,5,1,ok
+Lista arreglo,max20,30,delete,0.000019,30,0.649,5,1,ok
+Lista arreglo,max20,30,print,0.000019,1,19.119,5,1,ok
+Lista arreglo,max20,30,union,0.000058,1,57.916,5,1,ok
+Lista arreglo,max20,30,intersection,0.000032,1,31.926,5,1,ok
+Lista arreglo,max20,30,difference,0.000031,1,31.288,5,1,ok
+Lista arreglo,max20,50,insert,0.000041,50,0.818,5,1,ok
+Lista arreglo,max20,50,member_si,0.000038,50,0.762,5,1,ok
+Lista arreglo,max20,50,member_no,0.000025,25,0.983,5,1,ok
+Lista arreglo,max20,50,delete,0.000034,50,0.684,5,1,ok
+Lista arreglo,max20,50,print,0.000024,1,24.493,5,1,ok
+Lista arreglo,max20,50,union,0.000143,1,142.558,5,1,ok
+Lista arreglo,max20,50,intersection,0.000056,1,56.029,5,1,ok
+Lista arreglo,max20,50,difference,0.000056,1,55.755,5,1,ok
+Lista arreglo,max20,100,insert,0.000116,100,1.156,5,1,ok
+Lista arreglo,max20,100,member_si,0.000136,100,1.364,5,1,ok
+Lista arreglo,max20,100,member_no,0.000071,50,1.421,5,1,ok
+Lista arreglo,max20,100,delete,0.000106,100,1.056,5,1,ok
+Lista arreglo,max20,100,print,0.000034,1,34.440,5,1,ok
+Lista arreglo,max20,100,union,0.000537,1,537.146,5,1,ok
+Lista arreglo,max20,100,intersection,0.000180,1,180.298,5,1,ok
+Lista arreglo,max20,100,difference,0.000191,1,191.008,5,1,ok
+Lista arreglo,max20,200,insert,0.000468,200,2.341,5,1,ok
+Lista arreglo,max20,200,member_si,0.000497,200,2.483,5,1,ok
+Lista arreglo,max20,200,member_no,0.000244,100,2.435,5,1,ok
+Lista arreglo,max20,200,delete,0.000354,200,1.769,5,1,ok
+Lista arreglo,max20,200,print,0.000053,1,53.462,5,1,ok
+Lista arreglo,max20,200,union,0.002054,1,2053.504,5,1,ok
+Lista arreglo,max20,200,intersection,0.000787,1,787.136,5,1,ok
+Lista arreglo,max20,200,difference,0.000756,1,755.624,5,1,ok
+Lista arreglo,max20,500,insert,0.002896,500,5.792,5,1,ok
+Lista arreglo,max20,500,member_si,0.003042,500,6.084,5,1,ok
+Lista arreglo,max20,500,member_no,0.001508,250,6.034,5,1,ok
+Lista arreglo,max20,500,delete,0.001763,300,5.876,5,1,ok
+Lista arreglo,max20,500,print,0.000110,1,109.710,5,1,ok
+Lista arreglo,max20,500,union,0.014915,1,14914.709,5,1,ok
+Lista arreglo,max20,500,intersection,0.004256,1,4255.671,5,1,ok
+Lista arreglo,max20,500,difference,0.004269,1,4269.303,5,1,ok
+Lista arreglo,max20,1000,insert,0.011974,1000,11.974,5,1,ok
+Lista arreglo,max20,1000,member_si,0.012327,1000,12.327,5,1,ok
+Lista arreglo,max20,1000,member_no,0.006453,500,12.907,5,1,ok
+Lista arreglo,max20,1000,delete,0.004386,300,14.621,5,1,ok
+Lista arreglo,max20,1000,print,0.000219,1,218.776,5,1,ok
+Lista arreglo,max20,1000,union,0.063308,1,63308.417,5,1,ok
+Lista arreglo,max20,1000,intersection,0.018108,1,18107.773,5,1,ok
+Lista arreglo,max20,1000,difference,0.018356,1,18355.598,5,1,ok
+Lista arreglo,max20,5000,insert,0.365859,5000,73.172,3,1,ok
+Lista arreglo,max20,5000,member_si,0.059438,1000,59.438,3,1,ok
+Lista arreglo,max20,5000,member_no,0.060395,1000,60.395,3,1,ok
+Lista arreglo,max20,5000,delete,0.019163,300,63.878,3,1,ok
+Lista arreglo,max20,5000,print,0.000979,1,978.687,3,1,ok
+Lista arreglo,max20,5000,union,1.721281,1,1721280.870,3,1,ok
+Lista arreglo,max20,5000,intersection,0.504354,1,504354.158,3,1,ok
+Lista arreglo,max20,5000,difference,0.505790,1,505789.538,3,1,ok
+Lista arreglo,max20,10000,insert,1.382207,10000,138.221,2,1,ok
+Lista arreglo,max20,10000,member_si,0.138495,1000,138.495,2,1,ok
+Lista arreglo,max20,10000,member_no,0.147505,1000,147.505,2,1,ok
+Lista arreglo,max20,10000,delete,0.067116,300,223.719,2,1,ok
+Lista arreglo,max20,10000,print,0.001870,1,1870.249,2,1,ok
+Lista arreglo,max20,10000,union,7.123980,1,7123979.986,2,1,ok
+Lista arreglo,max20,10000,intersection,2.015289,1,2015289.375,2,1,ok
+Lista arreglo,max20,10000,difference,2.107162,1,2107161.812,2,1,ok
+Lista arreglo,max20,50000,insert,,,,0,,omitido: tiempo estimado 35s > 15.0s
+Lista arreglo,max20,50000,intersection,,,,0,,omitido: tiempo estimado 50s > 15.0s
+Lista arreglo,max20,50000,difference,,,,0,,omitido: tiempo estimado 53s > 15.0s
+Lista arreglo,max20,50000,union,,,,0,,omitido: tiempo estimado 178s > 15.0s
+Hash (m=10),max20,10,insert,0.000023,10,2.293,5,1,ok
+Hash (m=10),max20,10,member_si,0.000021,10,2.112,5,1,ok
+Hash (m=10),max20,10,member_no,0.000016,5,3.115,5,1,ok
+Hash (m=10),max20,10,delete,0.000024,10,2.375,5,1,ok
+Hash (m=10),max20,10,print,0.000022,1,22.160,5,1,ok
+Hash (m=10),max20,10,union,0.000041,1,40.648,5,1,ok
+Hash (m=10),max20,10,intersection,0.000051,1,51.210,5,1,ok
+Hash (m=10),max20,10,difference,0.000053,1,53.293,5,1,ok
+Hash (m=10),max20,20,insert,0.000053,20,2.634,5,1,ok
+Hash (m=10),max20,20,member_si,0.000050,20,2.492,5,1,ok
+Hash (m=10),max20,20,member_no,0.000030,10,3.002,5,1,ok
+Hash (m=10),max20,20,delete,0.000059,20,2.970,5,1,ok
+Hash (m=10),max20,20,print,0.000036,1,35.781,5,1,ok
+Hash (m=10),max20,20,union,0.000090,1,90.349,5,1,ok
+Hash (m=10),max20,20,intersection,0.000081,1,81.055,5,1,ok
+Hash (m=10),max20,20,difference,0.000069,1,69.288,5,1,ok
+Hash (m=10),max20,30,insert,0.000045,30,1.493,5,1,ok
+Hash (m=10),max20,30,member_si,0.000044,30,1.465,5,1,ok
+Hash (m=10),max20,30,member_no,0.000027,15,1.794,5,1,ok
+Hash (m=10),max20,30,delete,0.000048,30,1.591,5,1,ok
+Hash (m=10),max20,30,print,0.000028,1,28.133,5,1,ok
+Hash (m=10),max20,30,union,0.000085,1,84.721,5,1,ok
+Hash (m=10),max20,30,intersection,0.000067,1,67.288,5,1,ok
+Hash (m=10),max20,30,difference,0.000067,1,66.908,5,1,ok
+Hash (m=10),max20,50,insert,0.000070,50,1.395,5,1,ok
+Hash (m=10),max20,50,member_si,0.000069,50,1.373,5,1,ok
+Hash (m=10),max20,50,member_no,0.000039,25,1.560,5,1,ok
+Hash (m=10),max20,50,delete,0.000073,50,1.468,5,1,ok
+Hash (m=10),max20,50,print,0.000034,1,33.977,5,1,ok
+Hash (m=10),max20,50,union,0.000141,1,141.207,5,1,ok
+Hash (m=10),max20,50,intersection,0.000105,1,105.442,5,1,ok
+Hash (m=10),max20,50,difference,0.000102,1,102.094,5,1,ok
+Hash (m=10),max20,100,insert,0.000130,100,1.299,5,1,ok
+Hash (m=10),max20,100,member_si,0.000125,100,1.249,5,1,ok
+Hash (m=10),max20,100,member_no,0.000071,50,1.413,5,1,ok
+Hash (m=10),max20,100,delete,0.000138,100,1.382,5,1,ok
+Hash (m=10),max20,100,print,0.000045,1,44.638,5,1,ok
+Hash (m=10),max20,100,union,0.000262,1,262.164,5,1,ok
+Hash (m=10),max20,100,intersection,0.000193,1,192.599,5,1,ok
+Hash (m=10),max20,100,difference,0.000194,1,194.262,5,1,ok
+Hash (m=10),max20,200,insert,0.000294,200,1.472,5,1,ok
+Hash (m=10),max20,200,member_si,0.000253,200,1.264,5,1,ok
+Hash (m=10),max20,200,member_no,0.000141,100,1.407,5,1,ok
+Hash (m=10),max20,200,delete,0.000267,200,1.337,5,1,ok
+Hash (m=10),max20,200,print,0.000066,1,65.930,5,1,ok
+Hash (m=10),max20,200,union,0.000565,1,564.897,5,1,ok
+Hash (m=10),max20,200,intersection,0.000424,1,424.488,5,1,ok
+Hash (m=10),max20,200,difference,0.000386,1,386.267,5,1,ok
+Hash (m=10),max20,500,insert,0.000764,500,1.529,5,1,ok
+Hash (m=10),max20,500,member_si,0.000708,500,1.415,5,1,ok
+Hash (m=10),max20,500,member_no,0.000379,250,1.517,5,1,ok
+Hash (m=10),max20,500,delete,0.000493,300,1.643,5,1,ok
+Hash (m=10),max20,500,print,0.000121,1,121.299,5,1,ok
+Hash (m=10),max20,500,union,0.001528,1,1528.159,5,1,ok
+Hash (m=10),max20,500,intersection,0.001096,1,1096.142,5,1,ok
+Hash (m=10),max20,500,difference,0.001077,1,1077.395,5,1,ok
+Hash (m=10),max20,1000,insert,0.001650,1000,1.650,5,1,ok
+Hash (m=10),max20,1000,member_si,0.001638,1000,1.638,5,1,ok
+Hash (m=10),max20,1000,member_no,0.001013,500,2.025,5,1,ok
+Hash (m=10),max20,1000,delete,0.000637,300,2.124,5,1,ok
+Hash (m=10),max20,1000,print,0.000255,1,255.095,5,1,ok
+Hash (m=10),max20,1000,union,0.005406,1,5405.775,5,1,ok
+Hash (m=10),max20,1000,intersection,0.002559,1,2559.196,5,1,ok
+Hash (m=10),max20,1000,difference,0.002578,1,2578.396,5,1,ok
+Hash (m=10),max20,5000,insert,0.016939,5000,3.388,3,1,ok
+Hash (m=10),max20,5000,member_si,0.003362,1000,3.362,3,1,ok
+Hash (m=10),max20,5000,member_no,0.007137,1000,7.137,3,1,ok
+Hash (m=10),max20,5000,delete,0.001544,300,5.147,3,1,ok
+Hash (m=10),max20,5000,print,0.000974,1,973.529,3,1,ok
+Hash (m=10),max20,5000,union,0.042318,1,42317.800,3,1,ok
+Hash (m=10),max20,5000,intersection,0.028489,1,28488.588,3,1,ok
+Hash (m=10),max20,5000,difference,0.027809,1,27809.263,3,1,ok
+Hash (m=10),max20,10000,insert,0.053859,10000,5.386,3,1,ok
+Hash (m=10),max20,10000,member_si,0.005810,1000,5.810,3,1,ok
+Hash (m=10),max20,10000,member_no,0.009941,1000,9.941,3,1,ok
+Hash (m=10),max20,10000,delete,0.003022,300,10.075,3,1,ok
+Hash (m=10),max20,10000,print,0.002031,1,2030.515,3,1,ok
+Hash (m=10),max20,10000,union,0.139961,1,139960.938,3,1,ok
+Hash (m=10),max20,10000,intersection,0.092629,1,92628.543,3,1,ok
+Hash (m=10),max20,10000,difference,0.092342,1,92341.538,3,1,ok
+Hash (m=10),max20,50000,insert,2.172416,50000,43.448,1,1,ok
+Hash (m=10),max20,50000,member_si,0.043315,1000,43.315,1,1,ok
+Hash (m=10),max20,50000,member_no,0.088915,1000,88.915,1,1,ok
+Hash (m=10),max20,50000,delete,0.019572,300,65.239,1,1,ok
+Hash (m=10),max20,50000,print,0.008430,1,8430.408,1,1,ok
+Hash (m=10),max20,50000,union,3.544571,1,3544570.547,1,1,ok
+Hash (m=10),max20,50000,intersection,2.178748,1,2178748.387,1,1,ok
+Hash (m=10),max20,50000,difference,2.198194,1,2198194.269,1,1,ok
+Hash (m=N) ref.,max20,10,insert,0.000021,10,2.128,5,1,ok
+Hash (m=N) ref.,max20,10,member_si,0.000020,10,1.963,5,1,ok
+Hash (m=N) ref.,max20,10,member_no,0.000014,5,2.883,5,1,ok
+Hash (m=N) ref.,max20,10,delete,0.000022,10,2.231,5,1,ok
+Hash (m=N) ref.,max20,10,print,0.000021,1,20.930,5,1,ok
+Hash (m=N) ref.,max20,10,union,0.000041,1,40.874,5,1,ok
+Hash (m=N) ref.,max20,10,intersection,0.000031,1,31.274,5,1,ok
+Hash (m=N) ref.,max20,10,difference,0.000032,1,31.989,5,1,ok
+Hash (m=N) ref.,max20,20,insert,0.000033,20,1.631,5,1,ok
+Hash (m=N) ref.,max20,20,member_si,0.000033,20,1.640,5,1,ok
+Hash (m=N) ref.,max20,20,member_no,0.000020,10,1.972,5,1,ok
+Hash (m=N) ref.,max20,20,delete,0.000035,20,1.726,5,1,ok
+Hash (m=N) ref.,max20,20,print,0.000029,1,28.617,5,1,ok
+Hash (m=N) ref.,max20,20,union,0.000063,1,63.039,5,1,ok
+Hash (m=N) ref.,max20,20,intersection,0.000049,1,48.796,5,1,ok
+Hash (m=N) ref.,max20,20,difference,0.000049,1,48.522,5,1,ok
+Hash (m=N) ref.,max20,30,insert,0.000046,30,1.519,5,1,ok
+Hash (m=N) ref.,max20,30,member_si,0.000045,30,1.488,5,1,ok
+Hash (m=N) ref.,max20,30,member_no,0.000025,15,1.682,5,1,ok
+Hash (m=N) ref.,max20,30,delete,0.000046,30,1.547,5,1,ok
+Hash (m=N) ref.,max20,30,print,0.000035,1,35.461,5,1,ok
+Hash (m=N) ref.,max20,30,union,0.000090,1,90.471,5,1,ok
+Hash (m=N) ref.,max20,30,intersection,0.000068,1,67.870,5,1,ok
+Hash (m=N) ref.,max20,30,difference,0.000067,1,67.104,5,1,ok
+Hash (m=N) ref.,max20,50,insert,0.000068,50,1.360,5,1,ok
+Hash (m=N) ref.,max20,50,member_si,0.000066,50,1.322,5,1,ok
+Hash (m=N) ref.,max20,50,member_no,0.000038,25,1.537,5,1,ok
+Hash (m=N) ref.,max20,50,delete,0.000069,50,1.390,5,1,ok
+Hash (m=N) ref.,max20,50,print,0.000051,1,50.606,5,1,ok
+Hash (m=N) ref.,max20,50,union,0.000140,1,139.740,5,1,ok
+Hash (m=N) ref.,max20,50,intersection,0.000104,1,104.102,5,1,ok
+Hash (m=N) ref.,max20,50,difference,0.000102,1,101.864,5,1,ok
+Hash (m=N) ref.,max20,100,insert,0.000124,100,1.238,5,1,ok
+Hash (m=N) ref.,max20,100,member_si,0.000126,100,1.262,5,1,ok
+Hash (m=N) ref.,max20,100,member_no,0.000065,50,1.301,5,1,ok
+Hash (m=N) ref.,max20,100,delete,0.000128,100,1.282,5,1,ok
+Hash (m=N) ref.,max20,100,print,0.000080,1,80.398,5,1,ok
+Hash (m=N) ref.,max20,100,union,0.000306,1,305.859,5,1,ok
+Hash (m=N) ref.,max20,100,intersection,0.000202,1,202.109,5,1,ok
+Hash (m=N) ref.,max20,100,difference,0.000244,1,244.114,5,1,ok
+Hash (m=N) ref.,max20,200,insert,0.000243,200,1.214,5,1,ok
+Hash (m=N) ref.,max20,200,member_si,0.000325,200,1.624,5,1,ok
+Hash (m=N) ref.,max20,200,member_no,0.000123,100,1.227,5,1,ok
+Hash (m=N) ref.,max20,200,delete,0.000253,200,1.264,5,1,ok
+Hash (m=N) ref.,max20,200,print,0.000144,1,143.697,5,1,ok
+Hash (m=N) ref.,max20,200,union,0.000554,1,553.832,5,1,ok
+Hash (m=N) ref.,max20,200,intersection,0.000376,1,376.355,5,1,ok
+Hash (m=N) ref.,max20,200,difference,0.000402,1,402.436,5,1,ok
+Hash (m=N) ref.,max20,500,insert,0.000619,500,1.238,5,1,ok
+Hash (m=N) ref.,max20,500,member_si,0.000635,500,1.270,5,1,ok
+Hash (m=N) ref.,max20,500,member_no,0.000305,250,1.221,5,1,ok
+Hash (m=N) ref.,max20,500,delete,0.000383,300,1.278,5,1,ok
+Hash (m=N) ref.,max20,500,print,0.000366,1,366.136,5,1,ok
+Hash (m=N) ref.,max20,500,union,0.001315,1,1315.302,5,1,ok
+Hash (m=N) ref.,max20,500,intersection,0.000975,1,974.705,5,1,ok
+Hash (m=N) ref.,max20,500,difference,0.000961,1,960.852,5,1,ok
+Hash (m=N) ref.,max20,1000,insert,0.001697,1000,1.697,5,1,ok
+Hash (m=N) ref.,max20,1000,member_si,0.001256,1000,1.256,5,1,ok
+Hash (m=N) ref.,max20,1000,member_no,0.001040,500,2.080,5,1,ok
+Hash (m=N) ref.,max20,1000,delete,0.000675,300,2.249,5,1,ok
+Hash (m=N) ref.,max20,1000,print,0.001125,1,1124.938,5,1,ok
+Hash (m=N) ref.,max20,1000,union,0.004418,1,4418.489,5,1,ok
+Hash (m=N) ref.,max20,1000,intersection,0.003178,1,3178.356,5,1,ok
+Hash (m=N) ref.,max20,1000,difference,0.003267,1,3267.173,5,1,ok
+Hash (m=N) ref.,max20,5000,insert,0.005930,5000,1.186,3,1,ok
+Hash (m=N) ref.,max20,5000,member_si,0.001260,1000,1.260,3,1,ok
+Hash (m=N) ref.,max20,5000,member_no,0.001246,1000,1.246,3,1,ok
+Hash (m=N) ref.,max20,5000,delete,0.000438,300,1.461,3,1,ok
+Hash (m=N) ref.,max20,5000,print,0.003121,1,3120.503,3,1,ok
+Hash (m=N) ref.,max20,5000,union,0.012556,1,12555.882,3,1,ok
+Hash (m=N) ref.,max20,5000,intersection,0.009231,1,9230.868,3,1,ok
+Hash (m=N) ref.,max20,5000,difference,0.009100,1,9100.348,3,1,ok
+Hash (m=N) ref.,max20,10000,insert,0.011806,10000,1.181,3,1,ok
+Hash (m=N) ref.,max20,10000,member_si,0.001282,1000,1.282,3,1,ok
+Hash (m=N) ref.,max20,10000,member_no,0.001314,1000,1.314,3,1,ok
+Hash (m=N) ref.,max20,10000,delete,0.000433,300,1.444,3,1,ok
+Hash (m=N) ref.,max20,10000,print,0.006168,1,6168.050,3,1,ok
+Hash (m=N) ref.,max20,10000,union,0.025515,1,25515.185,3,1,ok
+Hash (m=N) ref.,max20,10000,intersection,0.018512,1,18511.726,3,1,ok
+Hash (m=N) ref.,max20,10000,difference,0.019198,1,19197.521,3,1,ok
+Hash (m=N) ref.,max20,50000,insert,0.073341,50000,1.467,1,1,ok
+Hash (m=N) ref.,max20,50000,member_si,0.001510,1000,1.510,1,1,ok
+Hash (m=N) ref.,max20,50000,member_no,0.001540,1000,1.540,1,1,ok
+Hash (m=N) ref.,max20,50000,delete,0.000529,300,1.764,1,1,ok
+Hash (m=N) ref.,max20,50000,print,0.035610,1,35610.344,1,1,ok
+Hash (m=N) ref.,max20,50000,union,0.147236,1,147235.589,1,1,ok
+Hash (m=N) ref.,max20,50000,intersection,0.111948,1,111948.497,1,1,ok
+Hash (m=N) ref.,max20,50000,difference,0.110359,1,110358.742,1,1,ok
+ABB punteros,max20,10,insert,0.000010,10,0.960,5,1,ok
+ABB punteros,max20,10,member_si,0.000007,10,0.691,5,1,ok
+ABB punteros,max20,10,member_no,0.000007,5,1.327,5,1,ok
+ABB punteros,max20,10,delete,0.000009,10,0.940,5,1,ok
+ABB punteros,max20,10,print,0.000017,1,17.009,5,1,ok
+ABB punteros,max20,10,union,0.000026,1,26.446,5,1,ok
+ABB punteros,max20,10,intersection,0.000024,1,23.755,5,1,ok
+ABB punteros,max20,10,difference,0.000021,1,20.625,5,1,ok
+ABB punteros,max20,20,insert,0.000013,20,0.654,5,1,ok
+ABB punteros,max20,20,member_si,0.000010,20,0.482,5,1,ok
+ABB punteros,max20,20,member_no,0.000009,10,0.873,5,1,ok
+ABB punteros,max20,20,delete,0.000013,20,0.632,5,1,ok
+ABB punteros,max20,20,print,0.000022,1,22.017,5,1,ok
+ABB punteros,max20,20,union,0.000040,1,39.606,5,1,ok
+ABB punteros,max20,20,intersection,0.000034,1,34.179,5,1,ok
+ABB punteros,max20,20,difference,0.000033,1,32.515,5,1,ok
+ABB punteros,max20,30,insert,0.000017,30,0.566,5,1,ok
+ABB punteros,max20,30,member_si,0.000011,30,0.383,5,1,ok
+ABB punteros,max20,30,member_no,0.000009,15,0.631,5,1,ok
+ABB punteros,max20,30,delete,0.000015,30,0.494,5,1,ok
+ABB punteros,max20,30,print,0.000027,1,26.870,5,1,ok
+ABB punteros,max20,30,union,0.000051,1,50.865,5,1,ok
+ABB punteros,max20,30,intersection,0.000044,1,43.525,5,1,ok
+ABB punteros,max20,30,difference,0.000042,1,42.096,5,1,ok
+ABB punteros,max20,50,insert,0.000025,50,0.495,5,1,ok
+ABB punteros,max20,50,member_si,0.000017,50,0.338,5,1,ok
+ABB punteros,max20,50,member_no,0.000014,25,0.551,5,1,ok
+ABB punteros,max20,50,delete,0.000022,50,0.436,5,1,ok
+ABB punteros,max20,50,print,0.000035,1,34.615,5,1,ok
+ABB punteros,max20,50,union,0.000076,1,76.492,5,1,ok
+ABB punteros,max20,50,intersection,0.000062,1,62.278,5,1,ok
+ABB punteros,max20,50,difference,0.000061,1,60.540,5,1,ok
+ABB punteros,max20,100,insert,0.000045,100,0.445,5,1,ok
+ABB punteros,max20,100,member_si,0.000031,100,0.305,5,1,ok
+ABB punteros,max20,100,member_no,0.000022,50,0.439,5,1,ok
+ABB punteros,max20,100,delete,0.000038,100,0.382,5,1,ok
+ABB punteros,max20,100,print,0.000051,1,50.817,5,1,ok
+ABB punteros,max20,100,union,0.000152,1,151.623,5,1,ok
+ABB punteros,max20,100,intersection,0.000113,1,113.112,5,1,ok
+ABB punteros,max20,100,difference,0.000119,1,119.264,5,1,ok
+ABB punteros,max20,200,insert,0.000120,200,0.602,5,1,ok
+ABB punteros,max20,200,member_si,0.000083,200,0.414,5,1,ok
+ABB punteros,max20,200,member_no,0.000051,100,0.508,5,1,ok
+ABB punteros,max20,200,delete,0.000098,200,0.491,5,1,ok
+ABB punteros,max20,200,print,0.000091,1,91.378,5,1,ok
+ABB punteros,max20,200,union,0.000308,1,308.306,5,1,ok
+ABB punteros,max20,200,intersection,0.000250,1,249.882,5,1,ok
+ABB punteros,max20,200,difference,0.000244,1,244.049,5,1,ok
+ABB punteros,max20,500,insert,0.000294,500,0.589,5,1,ok
+ABB punteros,max20,500,member_si,0.000233,500,0.466,5,1,ok
+ABB punteros,max20,500,member_no,0.000137,250,0.548,5,1,ok
+ABB punteros,max20,500,delete,0.000175,300,0.584,5,1,ok
+ABB punteros,max20,500,print,0.000257,1,256.771,5,1,ok
+ABB punteros,max20,500,union,0.000766,1,765.545,5,1,ok
+ABB punteros,max20,500,intersection,0.000612,1,612.327,5,1,ok
+ABB punteros,max20,500,difference,0.000627,1,627.253,5,1,ok
+ABB punteros,max20,1000,insert,0.000719,1000,0.719,5,1,ok
+ABB punteros,max20,1000,member_si,0.000578,1000,0.578,5,1,ok
+ABB punteros,max20,1000,member_no,0.000331,500,0.662,5,1,ok
+ABB punteros,max20,1000,delete,0.000248,300,0.828,5,1,ok
+ABB punteros,max20,1000,print,0.000410,1,410.208,5,1,ok
+ABB punteros,max20,1000,union,0.001605,1,1604.580,5,1,ok
+ABB punteros,max20,1000,intersection,0.001291,1,1290.649,5,1,ok
+ABB punteros,max20,1000,difference,0.001328,1,1327.604,5,1,ok
+ABB punteros,max20,5000,insert,0.004186,5000,0.837,3,1,ok
+ABB punteros,max20,5000,member_si,0.000805,1000,0.805,3,1,ok
+ABB punteros,max20,5000,member_no,0.000930,1000,0.930,3,1,ok
+ABB punteros,max20,5000,delete,0.000380,300,1.268,3,1,ok
+ABB punteros,max20,5000,print,0.002120,1,2120.472,3,1,ok
+ABB punteros,max20,5000,union,0.008389,1,8388.560,3,1,ok
+ABB punteros,max20,5000,intersection,0.006616,1,6615.644,3,1,ok
+ABB punteros,max20,5000,difference,0.006510,1,6509.503,3,1,ok
+ABB punteros,max20,10000,insert,0.009604,10000,0.960,3,1,ok
+ABB punteros,max20,10000,member_si,0.000967,1000,0.967,3,1,ok
+ABB punteros,max20,10000,member_no,0.001131,1000,1.131,3,1,ok
+ABB punteros,max20,10000,delete,0.000489,300,1.630,3,1,ok
+ABB punteros,max20,10000,print,0.004161,1,4161.017,3,1,ok
+ABB punteros,max20,10000,union,0.018785,1,18784.952,3,1,ok
+ABB punteros,max20,10000,intersection,0.014971,1,14970.635,3,1,ok
+ABB punteros,max20,10000,difference,0.014525,1,14525.384,3,1,ok
+ABB punteros,max20,50000,insert,0.084461,50000,1.689,1,1,ok
+ABB punteros,max20,50000,member_si,0.001733,1000,1.733,1,1,ok
+ABB punteros,max20,50000,member_no,0.002115,1000,2.115,1,1,ok
+ABB punteros,max20,50000,delete,0.000723,300,2.409,1,1,ok
+ABB punteros,max20,50000,print,0.024062,1,24062.400,1,1,ok
+ABB punteros,max20,50000,union,0.110458,1,110458.187,1,1,ok
+ABB punteros,max20,50000,intersection,0.090613,1,90613.076,1,1,ok
+ABB punteros,max20,50000,difference,0.088759,1,88758.838,1,1,ok
+ABB heap,max20,10,insert,0.000033,10,3.330,5,1,ok
+ABB heap,max20,10,member_si,0.000029,10,2.875,5,1,ok
+ABB heap,max20,10,member_no,0.000020,5,4.045,5,1,ok
+ABB heap,max20,10,delete,0.000040,10,3.954,5,1,ok
+ABB heap,max20,10,print,0.000012,1,12.251,5,1,ok
+ABB heap,max20,10,union,0.000074,1,74.484,5,1,ok
+ABB heap,max20,10,intersection,0.000045,1,44.931,5,1,ok
+ABB heap,max20,10,difference,0.000045,1,45.201,5,1,ok
+ABB heap,max20,20,union,,20,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,20,insert,0.000057,20,2.828,5,1,ok
+ABB heap,max20,20,member_si,0.000049,20,2.459,5,1,ok
+ABB heap,max20,20,member_no,0.000033,10,3.269,5,1,ok
+ABB heap,max20,20,delete,0.000071,20,3.527,5,1,ok
+ABB heap,max20,20,print,0.000014,1,14.150,5,1,ok
+ABB heap,max20,20,intersection,0.000088,1,88.292,5,1,ok
+ABB heap,max20,20,difference,0.000086,1,86.286,5,1,ok
+ABB heap,max20,30,union,,30,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,30,insert,0.000078,30,2.589,5,1,ok
+ABB heap,max20,30,member_si,0.000069,30,2.304,5,1,ok
+ABB heap,max20,30,member_no,0.000042,15,2.832,5,1,ok
+ABB heap,max20,30,delete,0.000097,30,3.219,5,1,ok
+ABB heap,max20,30,print,0.000017,1,17.013,5,1,ok
+ABB heap,max20,30,intersection,0.000208,1,208.307,5,1,ok
+ABB heap,max20,30,difference,0.000232,1,232.067,5,1,ok
+ABB heap,max20,50,union,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,50,intersection,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,50,difference,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,50,insert,0.000138,50,2.756,5,1,ok
+ABB heap,max20,50,member_si,0.000116,50,2.317,5,1,ok
+ABB heap,max20,50,member_no,0.000068,25,2.719,5,1,ok
+ABB heap,max20,50,delete,0.000307,50,6.135,5,1,ok
+ABB heap,max20,50,print,0.000023,1,23.064,5,1,ok
+ABB heap,max20,100,union,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,100,intersection,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,100,difference,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,100,insert,0.000262,100,2.617,5,1,ok
+ABB heap,max20,100,member_si,0.000239,100,2.394,5,1,ok
+ABB heap,max20,100,member_no,0.000139,50,2.785,5,1,ok
+ABB heap,max20,100,delete,0.000445,100,4.452,5,1,ok
+ABB heap,max20,100,print,0.000036,1,35.563,5,1,ok
+ABB heap,max20,200,union,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,200,intersection,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,200,difference,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,200,insert,0.002668,200,13.342,5,1,ok
+ABB heap,max20,200,member_si,0.000522,200,2.608,5,1,ok
+ABB heap,max20,200,member_no,0.000290,100,2.899,5,1,ok
+ABB heap,max20,200,delete,0.017171,200,85.853,5,1,ok
+ABB heap,max20,200,print,0.000068,1,67.938,5,1,ok
+ABB heap,max20,500,union,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,500,intersection,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,500,difference,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,max20,500,insert,0.017342,500,34.685,5,1,ok
+ABB heap,max20,500,member_si,0.001367,500,2.734,5,1,ok
+ABB heap,max20,500,member_no,0.000760,250,3.042,5,1,ok
+ABB heap,max20,500,delete,0.065223,300,217.409,5,1,ok
+ABB heap,max20,500,print,0.000154,1,153.960,5,1,ok
+ABB heap,max20,1000,insert,,1000,,0,,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,max20,10,insert,0.000128,10,12.768,5,1,ok
+Trie punteros,max20,10,member_si,0.000051,10,5.095,5,1,ok
+Trie punteros,max20,10,member_no,0.000018,5,3.538,5,1,ok
+Trie punteros,max20,10,delete,0.000253,10,25.255,5,1,ok
+Trie punteros,max20,10,print,0.000159,1,159.079,5,1,ok
+Trie punteros,max20,10,union,0.000484,1,483.556,5,1,ok
+Trie punteros,max20,10,intersection,0.000240,1,240.277,5,1,ok
+Trie punteros,max20,10,difference,0.000265,1,264.524,5,1,ok
+Trie punteros,max20,20,insert,0.000187,20,9.352,5,1,ok
+Trie punteros,max20,20,member_si,0.000089,20,4.425,5,1,ok
+Trie punteros,max20,20,member_no,0.000030,10,2.963,5,1,ok
+Trie punteros,max20,20,delete,0.000484,20,24.182,5,1,ok
+Trie punteros,max20,20,print,0.000338,1,337.540,5,1,ok
+Trie punteros,max20,20,union,0.000924,1,924.325,5,1,ok
+Trie punteros,max20,20,intersection,0.000493,1,492.894,5,1,ok
+Trie punteros,max20,20,difference,0.000513,1,513.283,5,1,ok
+Trie punteros,max20,30,insert,0.000263,30,8.767,5,1,ok
+Trie punteros,max20,30,member_si,0.000143,30,4.774,5,1,ok
+Trie punteros,max20,30,member_no,0.000040,15,2.644,5,1,ok
+Trie punteros,max20,30,delete,0.000704,30,23.475,5,1,ok
+Trie punteros,max20,30,print,0.000492,1,492.296,5,1,ok
+Trie punteros,max20,30,union,0.001334,1,1334.288,5,1,ok
+Trie punteros,max20,30,intersection,0.000714,1,714.429,5,1,ok
+Trie punteros,max20,30,difference,0.000700,1,699.954,5,1,ok
+Trie punteros,max20,50,insert,0.000373,50,7.462,5,1,ok
+Trie punteros,max20,50,member_si,0.000223,50,4.450,5,1,ok
+Trie punteros,max20,50,member_no,0.000063,25,2.530,5,1,ok
+Trie punteros,max20,50,delete,0.001252,50,25.040,5,1,ok
+Trie punteros,max20,50,print,0.000769,1,769.071,5,1,ok
+Trie punteros,max20,50,union,0.002218,1,2218.164,5,1,ok
+Trie punteros,max20,50,intersection,0.001119,1,1118.922,5,1,ok
+Trie punteros,max20,50,difference,0.001122,1,1122.304,5,1,ok
+Trie punteros,max20,100,insert,0.000791,100,7.906,5,1,ok
+Trie punteros,max20,100,member_si,0.000449,100,4.495,5,1,ok
+Trie punteros,max20,100,member_no,0.000113,50,2.262,5,1,ok
+Trie punteros,max20,100,delete,0.002375,100,23.750,5,1,ok
+Trie punteros,max20,100,print,0.001445,1,1445.377,5,1,ok
+Trie punteros,max20,100,union,0.004309,1,4309.241,5,1,ok
+Trie punteros,max20,100,intersection,0.002170,1,2170.211,5,1,ok
+Trie punteros,max20,100,difference,0.002177,1,2177.085,5,1,ok
+Trie punteros,max20,200,insert,0.001182,200,5.908,5,1,ok
+Trie punteros,max20,200,member_si,0.000813,200,4.067,5,1,ok
+Trie punteros,max20,200,member_no,0.000181,100,1.813,5,1,ok
+Trie punteros,max20,200,delete,0.003739,200,18.693,5,1,ok
+Trie punteros,max20,200,print,0.002276,1,2276.426,5,1,ok
+Trie punteros,max20,200,union,0.007187,1,7186.547,5,1,ok
+Trie punteros,max20,200,intersection,0.003491,1,3490.616,5,1,ok
+Trie punteros,max20,200,difference,0.003500,1,3499.772,5,1,ok
+Trie punteros,max20,500,insert,0.002946,500,5.892,5,1,ok
+Trie punteros,max20,500,member_si,0.001971,500,3.943,5,1,ok
+Trie punteros,max20,500,member_no,0.000485,250,1.940,5,1,ok
+Trie punteros,max20,500,delete,0.005563,300,18.542,5,1,ok
+Trie punteros,max20,500,print,0.005782,1,5781.938,5,1,ok
+Trie punteros,max20,500,union,0.018693,1,18693.065,5,1,ok
+Trie punteros,max20,500,intersection,0.008919,1,8919.107,5,1,ok
+Trie punteros,max20,500,difference,0.008755,1,8755.194,5,1,ok
+Trie punteros,max20,1000,insert,0.005847,1000,5.847,5,1,ok
+Trie punteros,max20,1000,member_si,0.003727,1000,3.727,5,1,ok
+Trie punteros,max20,1000,member_no,0.000959,500,1.917,5,1,ok
+Trie punteros,max20,1000,delete,0.005625,300,18.751,5,1,ok
+Trie punteros,max20,1000,print,0.011041,1,11040.660,5,1,ok
+Trie punteros,max20,1000,union,0.037373,1,37373.246,5,1,ok
+Trie punteros,max20,1000,intersection,0.018156,1,18156.455,5,1,ok
+Trie punteros,max20,1000,difference,0.018034,1,18034.080,5,1,ok
+Trie punteros,max20,5000,insert,0.043268,5000,8.654,3,1,ok
+Trie punteros,max20,5000,member_si,0.006016,1000,6.016,3,1,ok
+Trie punteros,max20,5000,member_no,0.002672,1000,2.672,3,1,ok
+Trie punteros,max20,5000,delete,0.007558,300,25.194,3,1,ok
+Trie punteros,max20,5000,print,0.068090,1,68089.803,3,1,ok
+Trie punteros,max20,5000,union,0.235550,1,235550.104,3,1,ok
+Trie punteros,max20,5000,intersection,0.109715,1,109714.676,3,1,ok
+Trie punteros,max20,5000,difference,0.118123,1,118123.485,3,1,ok
+Trie punteros,max20,10000,insert,0.098831,10000,9.883,3,1,ok
+Trie punteros,max20,10000,member_si,0.007161,1000,7.161,3,1,ok
+Trie punteros,max20,10000,member_no,0.003039,1000,3.039,3,1,ok
+Trie punteros,max20,10000,delete,0.007635,300,25.450,3,1,ok
+Trie punteros,max20,10000,print,0.141936,1,141936.020,3,1,ok
+Trie punteros,max20,10000,union,0.490737,1,490737.230,3,1,ok
+Trie punteros,max20,10000,intersection,0.215227,1,215227.208,3,1,ok
+Trie punteros,max20,10000,difference,0.237368,1,237368.111,3,1,ok
+Trie arreglos,max20,10,insert,0.000080,10,7.960,5,1,ok
+Trie arreglos,max20,10,member_si,0.000039,10,3.946,5,1,ok
+Trie arreglos,max20,10,member_no,0.000013,5,2.642,5,1,ok
+Trie arreglos,max20,10,delete,0.000115,10,11.534,5,1,ok
+Trie arreglos,max20,10,print,0.000175,1,175.175,5,1,ok
+Trie arreglos,max20,10,union,0.000616,1,615.808,5,1,ok
+Trie arreglos,max20,10,intersection,0.000224,1,224.454,5,1,ok
+Trie arreglos,max20,10,difference,0.000418,1,418.237,5,1,ok
+Trie arreglos,max20,20,insert,0.000143,20,7.128,5,1,ok
+Trie arreglos,max20,20,member_si,0.000068,20,3.379,5,1,ok
+Trie arreglos,max20,20,member_no,0.000020,10,2.004,5,1,ok
+Trie arreglos,max20,20,delete,0.000224,20,11.194,5,1,ok
+Trie arreglos,max20,20,print,0.000256,1,255.524,5,1,ok
+Trie arreglos,max20,20,union,0.001198,1,1197.758,5,1,ok
+Trie arreglos,max20,20,intersection,0.000430,1,430.051,5,1,ok
+Trie arreglos,max20,20,difference,0.000753,1,752.787,5,1,ok
+Trie arreglos,max20,30,insert,0.000219,30,7.288,5,1,ok
+Trie arreglos,max20,30,member_si,0.000100,30,3.342,5,1,ok
+Trie arreglos,max20,30,member_no,0.000027,15,1.832,5,1,ok
+Trie arreglos,max20,30,delete,0.000355,30,11.831,5,1,ok
+Trie arreglos,max20,30,print,0.000374,1,374.063,5,1,ok
+Trie arreglos,max20,30,union,0.001777,1,1777.211,5,1,ok
+Trie arreglos,max20,30,intersection,0.000650,1,649.692,5,1,ok
+Trie arreglos,max20,30,difference,0.001169,1,1169.464,5,1,ok
+Trie arreglos,max20,50,insert,0.000343,50,6.865,5,1,ok
+Trie arreglos,max20,50,member_si,0.000180,50,3.591,5,1,ok
+Trie arreglos,max20,50,member_no,0.000040,25,1.595,5,1,ok
+Trie arreglos,max20,50,delete,0.000559,50,11.177,5,1,ok
+Trie arreglos,max20,50,print,0.000636,1,635.866,5,1,ok
+Trie arreglos,max20,50,union,0.002912,1,2912.373,5,1,ok
+Trie arreglos,max20,50,intersection,0.001094,1,1093.704,5,1,ok
+Trie arreglos,max20,50,difference,0.001918,1,1918.418,5,1,ok
+Trie arreglos,max20,100,insert,0.000687,100,6.872,5,1,ok
+Trie arreglos,max20,100,member_si,0.000438,100,4.384,5,1,ok
+Trie arreglos,max20,100,member_no,0.000070,50,1.405,5,1,ok
+Trie arreglos,max20,100,delete,0.001167,100,11.668,5,1,ok
+Trie arreglos,max20,100,print,0.001259,1,1259.198,5,1,ok
+Trie arreglos,max20,100,union,0.006110,1,6110.014,5,1,ok
+Trie arreglos,max20,100,intersection,0.002187,1,2186.691,5,1,ok
+Trie arreglos,max20,100,difference,0.003778,1,3777.606,5,1,ok
+Trie arreglos,max20,200,insert,0.001371,200,6.857,5,1,ok
+Trie arreglos,max20,200,member_si,0.000834,200,4.172,5,1,ok
+Trie arreglos,max20,200,member_no,0.000134,100,1.342,5,1,ok
+Trie arreglos,max20,200,delete,0.002308,200,11.540,5,1,ok
+Trie arreglos,max20,200,print,0.002416,1,2415.647,5,1,ok
+Trie arreglos,max20,200,union,0.012188,1,12187.837,5,1,ok
+Trie arreglos,max20,200,intersection,0.004155,1,4155.255,5,1,ok
+Trie arreglos,max20,200,difference,0.007376,1,7375.798,5,1,ok
+Trie arreglos,max20,500,insert,0.003172,500,6.344,5,1,ok
+Trie arreglos,max20,500,member_si,0.002004,500,4.008,5,1,ok
+Trie arreglos,max20,500,member_no,0.000364,250,1.454,5,1,ok
+Trie arreglos,max20,500,delete,0.003296,300,10.985,5,1,ok
+Trie arreglos,max20,500,print,0.005972,1,5972.464,5,1,ok
+Trie arreglos,max20,500,union,0.029903,1,29903.284,5,1,ok
+Trie arreglos,max20,500,intersection,0.010435,1,10434.749,5,1,ok
+Trie arreglos,max20,500,difference,0.018132,1,18132.355,5,1,ok
+Trie arreglos,max20,1000,insert,0.006704,1000,6.704,5,1,ok
+Trie arreglos,max20,1000,member_si,0.004212,1000,4.212,5,1,ok
+Trie arreglos,max20,1000,member_no,0.000732,500,1.464,5,1,ok
+Trie arreglos,max20,1000,delete,0.003856,300,12.853,5,1,ok
+Trie arreglos,max20,1000,print,0.012027,1,12027.015,5,1,ok
+Trie arreglos,max20,1000,union,0.060606,1,60606.357,5,1,ok
+Trie arreglos,max20,1000,intersection,0.021685,1,21684.934,5,1,ok
+Trie arreglos,max20,1000,difference,0.038295,1,38295.183,5,1,ok
+Trie arreglos,max20,5000,insert,0.042736,5000,8.547,3,1,ok
+Trie arreglos,max20,5000,member_si,0.005952,1000,5.952,3,1,ok
+Trie arreglos,max20,5000,member_no,0.001905,1000,1.905,3,1,ok
+Trie arreglos,max20,5000,delete,0.004450,300,14.835,3,1,ok
+Trie arreglos,max20,5000,print,0.059479,1,59479.419,3,1,ok
+Trie arreglos,max20,5000,union,0.305968,1,305967.676,3,1,ok
+Trie arreglos,max20,5000,intersection,0.103738,1,103737.823,3,1,ok
+Trie arreglos,max20,5000,difference,0.183450,1,183450.258,3,1,ok
+Trie arreglos,max20,10000,insert,0.091459,10000,9.146,3,1,ok
+Trie arreglos,max20,10000,member_si,0.006454,1000,6.454,3,1,ok
+Trie arreglos,max20,10000,member_no,0.002098,1000,2.098,3,1,ok
+Trie arreglos,max20,10000,delete,0.005578,300,18.592,3,1,ok
+Trie arreglos,max20,10000,print,0.120060,1,120060.363,3,1,ok
+Trie arreglos,max20,10000,union,0.632105,1,632104.852,3,1,ok
+Trie arreglos,max20,10000,intersection,0.245483,1,245482.958,3,1,ok
+Trie arreglos,max20,10000,difference,0.376375,1,376375.246,3,1,ok
+Lista punteros,prefijo,10,insert,0.000011,10,1.100,5,1,ok
+Lista punteros,prefijo,10,member_si,0.000008,10,0.797,5,1,ok
+Lista punteros,prefijo,10,member_no,0.000008,5,1.519,5,1,ok
+Lista punteros,prefijo,10,delete,0.000009,10,0.911,5,1,ok
+Lista punteros,prefijo,10,print,0.000014,1,13.705,5,1,ok
+Lista punteros,prefijo,10,union,0.000019,1,18.924,5,1,ok
+Lista punteros,prefijo,10,intersection,0.000029,1,28.797,5,1,ok
+Lista punteros,prefijo,10,difference,0.000015,1,14.809,5,1,ok
+Lista punteros,prefijo,20,insert,0.000014,20,0.717,5,1,ok
+Lista punteros,prefijo,20,member_si,0.000012,20,0.624,5,1,ok
+Lista punteros,prefijo,20,member_no,0.000010,10,1.023,5,1,ok
+Lista punteros,prefijo,20,delete,0.000011,20,0.545,5,1,ok
+Lista punteros,prefijo,20,print,0.000016,1,15.816,5,1,ok
+Lista punteros,prefijo,20,union,0.000033,1,33.104,5,1,ok
+Lista punteros,prefijo,20,intersection,0.000021,1,21.393,5,1,ok
+Lista punteros,prefijo,20,difference,0.000022,1,22.411,5,1,ok
+Lista punteros,prefijo,30,insert,0.000021,30,0.689,5,1,ok
+Lista punteros,prefijo,30,member_si,0.000021,30,0.709,5,1,ok
+Lista punteros,prefijo,30,member_no,0.000016,15,1.079,5,1,ok
+Lista punteros,prefijo,30,delete,0.000016,30,0.521,5,1,ok
+Lista punteros,prefijo,30,print,0.000021,1,20.851,5,1,ok
+Lista punteros,prefijo,30,union,0.000064,1,64.415,5,1,ok
+Lista punteros,prefijo,30,intersection,0.000033,1,32.683,5,1,ok
+Lista punteros,prefijo,30,difference,0.000032,1,31.675,5,1,ok
+Lista punteros,prefijo,50,insert,0.000054,50,1.070,5,1,ok
+Lista punteros,prefijo,50,member_si,0.000069,50,1.373,5,1,ok
+Lista punteros,prefijo,50,member_no,0.000029,25,1.148,5,1,ok
+Lista punteros,prefijo,50,delete,0.000043,50,0.854,5,1,ok
+Lista punteros,prefijo,50,print,0.000038,1,38.460,5,1,ok
+Lista punteros,prefijo,50,union,0.000160,1,159.898,5,1,ok
+Lista punteros,prefijo,50,intersection,0.000110,1,110.448,5,1,ok
+Lista punteros,prefijo,50,difference,0.000108,1,108.208,5,1,ok
+Lista punteros,prefijo,100,insert,0.000153,100,1.528,5,1,ok
+Lista punteros,prefijo,100,member_si,0.000179,100,1.792,5,1,ok
+Lista punteros,prefijo,100,member_no,0.000093,50,1.862,5,1,ok
+Lista punteros,prefijo,100,delete,0.000092,100,0.923,5,1,ok
+Lista punteros,prefijo,100,print,0.000040,1,40.326,5,1,ok
+Lista punteros,prefijo,100,union,0.000466,1,465.648,5,1,ok
+Lista punteros,prefijo,100,intersection,0.000303,1,302.675,5,1,ok
+Lista punteros,prefijo,100,difference,0.000265,1,264.644,5,1,ok
+Lista punteros,prefijo,200,insert,0.000379,200,1.896,5,1,ok
+Lista punteros,prefijo,200,member_si,0.000771,200,3.854,5,1,ok
+Lista punteros,prefijo,200,member_no,0.000417,100,4.170,5,1,ok
+Lista punteros,prefijo,200,delete,0.000338,200,1.691,5,1,ok
+Lista punteros,prefijo,200,print,0.000066,1,65.920,5,1,ok
+Lista punteros,prefijo,200,union,0.001639,1,1638.626,5,1,ok
+Lista punteros,prefijo,200,intersection,0.000920,1,919.829,5,1,ok
+Lista punteros,prefijo,200,difference,0.000948,1,947.927,5,1,ok
+Lista punteros,prefijo,500,insert,0.001998,500,3.995,5,1,ok
+Lista punteros,prefijo,500,member_si,0.004752,500,9.504,5,1,ok
+Lista punteros,prefijo,500,member_no,0.002261,250,9.045,5,1,ok
+Lista punteros,prefijo,500,delete,0.001620,300,5.398,5,1,ok
+Lista punteros,prefijo,500,print,0.000130,1,129.606,5,1,ok
+Lista punteros,prefijo,500,union,0.009069,1,9068.914,5,1,ok
+Lista punteros,prefijo,500,intersection,0.005908,1,5908.286,5,1,ok
+Lista punteros,prefijo,500,difference,0.006011,1,6011.410,5,1,ok
+Lista punteros,prefijo,1000,insert,0.007202,1000,7.202,5,1,ok
+Lista punteros,prefijo,1000,member_si,0.018864,1000,18.864,5,1,ok
+Lista punteros,prefijo,1000,member_no,0.009162,500,18.324,5,1,ok
+Lista punteros,prefijo,1000,delete,0.003709,300,12.362,5,1,ok
+Lista punteros,prefijo,1000,print,0.000256,1,255.800,5,1,ok
+Lista punteros,prefijo,1000,union,0.034810,1,34810.053,5,1,ok
+Lista punteros,prefijo,1000,intersection,0.022446,1,22446.172,5,1,ok
+Lista punteros,prefijo,1000,difference,0.022993,1,22992.987,5,1,ok
+Lista punteros,prefijo,5000,insert,0.191009,5000,38.202,3,1,ok
+Lista punteros,prefijo,5000,member_si,0.096078,1000,96.078,3,1,ok
+Lista punteros,prefijo,5000,member_no,0.099143,1000,99.143,3,1,ok
+Lista punteros,prefijo,5000,delete,0.020940,300,69.800,3,1,ok
+Lista punteros,prefijo,5000,print,0.001246,1,1245.618,3,1,ok
+Lista punteros,prefijo,5000,union,0.938894,1,938893.752,3,1,ok
+Lista punteros,prefijo,5000,intersection,0.660940,1,660940.262,3,1,ok
+Lista punteros,prefijo,5000,difference,0.581117,1,581117.121,3,1,ok
+Lista punteros,prefijo,10000,insert,0.764892,10000,76.489,2,1,ok
+Lista punteros,prefijo,10000,member_si,0.191881,1000,191.881,2,1,ok
+Lista punteros,prefijo,10000,member_no,0.194796,1000,194.796,2,1,ok
+Lista punteros,prefijo,10000,delete,0.080917,300,269.724,2,1,ok
+Lista punteros,prefijo,10000,print,0.002560,1,2559.839,2,1,ok
+Lista punteros,prefijo,10000,union,3.825126,1,3825125.970,2,1,ok
+Lista punteros,prefijo,10000,intersection,2.975959,1,2975959.011,2,1,ok
+Lista punteros,prefijo,10000,difference,3.345770,1,3345769.864,2,1,ok
+Lista punteros,prefijo,50000,insert,,,,0,,omitido: tiempo estimado 19s > 15.0s
+Lista punteros,prefijo,50000,intersection,,,,0,,omitido: tiempo estimado 74s > 15.0s
+Lista punteros,prefijo,50000,difference,,,,0,,omitido: tiempo estimado 84s > 15.0s
+Lista punteros,prefijo,50000,union,,,,0,,omitido: tiempo estimado 96s > 15.0s
+Lista arreglo,prefijo,10,insert,0.000009,10,0.903,5,1,ok
+Lista arreglo,prefijo,10,member_si,0.000007,10,0.683,5,1,ok
+Lista arreglo,prefijo,10,member_no,0.000006,5,1.198,5,1,ok
+Lista arreglo,prefijo,10,delete,0.000010,10,0.977,5,1,ok
+Lista arreglo,prefijo,10,print,0.000013,1,12.551,5,1,ok
+Lista arreglo,prefijo,10,union,0.000016,1,16.252,5,1,ok
+Lista arreglo,prefijo,10,intersection,0.000012,1,11.984,5,1,ok
+Lista arreglo,prefijo,10,difference,0.000011,1,11.367,5,1,ok
+Lista arreglo,prefijo,20,insert,0.000017,20,0.832,5,1,ok
+Lista arreglo,prefijo,20,member_si,0.000012,20,0.580,5,1,ok
+Lista arreglo,prefijo,20,member_no,0.000010,10,1.015,5,1,ok
+Lista arreglo,prefijo,20,delete,0.000014,20,0.715,5,1,ok
+Lista arreglo,prefijo,20,print,0.000016,1,15.715,5,1,ok
+Lista arreglo,prefijo,20,union,0.000034,1,33.534,5,1,ok
+Lista arreglo,prefijo,20,intersection,0.000021,1,21.241,5,1,ok
+Lista arreglo,prefijo,20,difference,0.000020,1,19.552,5,1,ok
+Lista arreglo,prefijo,30,insert,0.000027,30,0.885,5,1,ok
+Lista arreglo,prefijo,30,member_si,0.000026,30,0.871,5,1,ok
+Lista arreglo,prefijo,30,member_no,0.000020,15,1.317,5,1,ok
+Lista arreglo,prefijo,30,delete,0.000024,30,0.792,5,1,ok
+Lista arreglo,prefijo,30,print,0.000026,1,26.138,5,1,ok
+Lista arreglo,prefijo,30,union,0.000061,1,60.519,5,1,ok
+Lista arreglo,prefijo,30,intersection,0.000030,1,29.982,5,1,ok
+Lista arreglo,prefijo,30,difference,0.000029,1,29.322,5,1,ok
+Lista arreglo,prefijo,50,insert,0.000042,50,0.847,5,1,ok
+Lista arreglo,prefijo,50,member_si,0.000036,50,0.723,5,1,ok
+Lista arreglo,prefijo,50,member_no,0.000015,25,0.610,5,1,ok
+Lista arreglo,prefijo,50,delete,0.000033,50,0.656,5,1,ok
+Lista arreglo,prefijo,50,print,0.000026,1,25.592,5,1,ok
+Lista arreglo,prefijo,50,union,0.000136,1,136.131,5,1,ok
+Lista arreglo,prefijo,50,intersection,0.000069,1,69.158,5,1,ok
+Lista arreglo,prefijo,50,difference,0.000060,1,59.883,5,1,ok
+Lista arreglo,prefijo,100,insert,0.000127,100,1.269,5,1,ok
+Lista arreglo,prefijo,100,member_si,0.000127,100,1.273,5,1,ok
+Lista arreglo,prefijo,100,member_no,0.000066,50,1.325,5,1,ok
+Lista arreglo,prefijo,100,delete,0.000107,100,1.066,5,1,ok
+Lista arreglo,prefijo,100,print,0.000039,1,39.366,5,1,ok
+Lista arreglo,prefijo,100,union,0.000499,1,499.461,5,1,ok
+Lista arreglo,prefijo,100,intersection,0.000198,1,198.134,5,1,ok
+Lista arreglo,prefijo,100,difference,0.000224,1,224.094,5,1,ok
+Lista arreglo,prefijo,200,insert,0.000463,200,2.314,5,1,ok
+Lista arreglo,prefijo,200,member_si,0.000532,200,2.662,5,1,ok
+Lista arreglo,prefijo,200,member_no,0.000246,100,2.462,5,1,ok
+Lista arreglo,prefijo,200,delete,0.000349,200,1.745,5,1,ok
+Lista arreglo,prefijo,200,print,0.000061,1,60.643,5,1,ok
+Lista arreglo,prefijo,200,union,0.002181,1,2180.810,5,1,ok
+Lista arreglo,prefijo,200,intersection,0.000750,1,750.247,5,1,ok
+Lista arreglo,prefijo,200,difference,0.000741,1,740.645,5,1,ok
+Lista arreglo,prefijo,500,insert,0.002978,500,5.956,5,1,ok
+Lista arreglo,prefijo,500,member_si,0.003116,500,6.231,5,1,ok
+Lista arreglo,prefijo,500,member_no,0.001461,250,5.846,5,1,ok
+Lista arreglo,prefijo,500,delete,0.001857,300,6.189,5,1,ok
+Lista arreglo,prefijo,500,print,0.000122,1,121.519,5,1,ok
+Lista arreglo,prefijo,500,union,0.014881,1,14881.084,5,1,ok
+Lista arreglo,prefijo,500,intersection,0.004497,1,4497.140,5,1,ok
+Lista arreglo,prefijo,500,difference,0.004517,1,4516.769,5,1,ok
+Lista arreglo,prefijo,1000,insert,0.012812,1000,12.812,5,1,ok
+Lista arreglo,prefijo,1000,member_si,0.012638,1000,12.638,5,1,ok
+Lista arreglo,prefijo,1000,member_no,0.006142,500,12.284,5,1,ok
+Lista arreglo,prefijo,1000,delete,0.004315,300,14.384,5,1,ok
+Lista arreglo,prefijo,1000,print,0.000235,1,235.135,5,1,ok
+Lista arreglo,prefijo,1000,union,0.067565,1,67565.141,5,1,ok
+Lista arreglo,prefijo,1000,intersection,0.018878,1,18877.762,5,1,ok
+Lista arreglo,prefijo,1000,difference,0.018879,1,18879.009,5,1,ok
+Lista arreglo,prefijo,5000,insert,0.331603,5000,66.321,3,1,ok
+Lista arreglo,prefijo,5000,member_si,0.062800,1000,62.800,3,1,ok
+Lista arreglo,prefijo,5000,member_no,0.060864,1000,60.864,3,1,ok
+Lista arreglo,prefijo,5000,delete,0.024985,300,83.285,3,1,ok
+Lista arreglo,prefijo,5000,print,0.000940,1,939.635,3,1,ok
+Lista arreglo,prefijo,5000,union,1.680879,1,1680878.702,3,1,ok
+Lista arreglo,prefijo,5000,intersection,0.506092,1,506091.900,3,1,ok
+Lista arreglo,prefijo,5000,difference,0.489078,1,489077.621,3,1,ok
+Lista arreglo,prefijo,10000,insert,1.324009,10000,132.401,2,1,ok
+Lista arreglo,prefijo,10000,member_si,0.121405,1000,121.405,2,1,ok
+Lista arreglo,prefijo,10000,member_no,0.126156,1000,126.156,2,1,ok
+Lista arreglo,prefijo,10000,delete,0.051342,300,171.141,2,1,ok
+Lista arreglo,prefijo,10000,print,0.001909,1,1909.151,2,1,ok
+Lista arreglo,prefijo,10000,union,6.725776,1,6725776.235,2,1,ok
+Lista arreglo,prefijo,10000,intersection,2.015472,1,2015471.531,2,1,ok
+Lista arreglo,prefijo,10000,difference,1.777142,1,1777141.839,2,1,ok
+Lista arreglo,prefijo,50000,insert,,,,0,,omitido: tiempo estimado 33s > 15.0s
+Lista arreglo,prefijo,50000,intersection,,,,0,,omitido: tiempo estimado 50s > 15.0s
+Lista arreglo,prefijo,50000,difference,,,,0,,omitido: tiempo estimado 44s > 15.0s
+Lista arreglo,prefijo,50000,union,,,,0,,omitido: tiempo estimado 168s > 15.0s
+Hash (m=10),prefijo,10,insert,0.000018,10,1.825,5,1,ok
+Hash (m=10),prefijo,10,member_si,0.000018,10,1.790,5,1,ok
+Hash (m=10),prefijo,10,member_no,0.000012,5,2.478,5,1,ok
+Hash (m=10),prefijo,10,delete,0.000021,10,2.058,5,1,ok
+Hash (m=10),prefijo,10,print,0.000019,1,18.950,5,1,ok
+Hash (m=10),prefijo,10,union,0.000035,1,35.393,5,1,ok
+Hash (m=10),prefijo,10,intersection,0.000028,1,28.128,5,1,ok
+Hash (m=10),prefijo,10,difference,0.000028,1,28.483,5,1,ok
+Hash (m=10),prefijo,20,insert,0.000028,20,1.382,5,1,ok
+Hash (m=10),prefijo,20,member_si,0.000028,20,1.404,5,1,ok
+Hash (m=10),prefijo,20,member_no,0.000018,10,1.823,5,1,ok
+Hash (m=10),prefijo,20,delete,0.000031,20,1.547,5,1,ok
+Hash (m=10),prefijo,20,print,0.000021,1,20.731,5,1,ok
+Hash (m=10),prefijo,20,union,0.000059,1,58.857,5,1,ok
+Hash (m=10),prefijo,20,intersection,0.000043,1,43.124,5,1,ok
+Hash (m=10),prefijo,20,difference,0.000044,1,43.795,5,1,ok
+Hash (m=10),prefijo,30,insert,0.000038,30,1.258,5,1,ok
+Hash (m=10),prefijo,30,member_si,0.000038,30,1.260,5,1,ok
+Hash (m=10),prefijo,30,member_no,0.000023,15,1.544,5,1,ok
+Hash (m=10),prefijo,30,delete,0.000041,30,1.365,5,1,ok
+Hash (m=10),prefijo,30,print,0.000025,1,24.876,5,1,ok
+Hash (m=10),prefijo,30,union,0.000074,1,74.031,5,1,ok
+Hash (m=10),prefijo,30,intersection,0.000059,1,59.099,5,1,ok
+Hash (m=10),prefijo,30,difference,0.000058,1,57.628,5,1,ok
+Hash (m=10),prefijo,50,insert,0.000064,50,1.272,5,1,ok
+Hash (m=10),prefijo,50,member_si,0.000064,50,1.276,5,1,ok
+Hash (m=10),prefijo,50,member_no,0.000036,25,1.445,5,1,ok
+Hash (m=10),prefijo,50,delete,0.000070,50,1.391,5,1,ok
+Hash (m=10),prefijo,50,print,0.000031,1,31.374,5,1,ok
+Hash (m=10),prefijo,50,union,0.000131,1,131.081,5,1,ok
+Hash (m=10),prefijo,50,intersection,0.000096,1,96.243,5,1,ok
+Hash (m=10),prefijo,50,difference,0.000095,1,95.462,5,1,ok
+Hash (m=10),prefijo,100,insert,0.000148,100,1.477,5,1,ok
+Hash (m=10),prefijo,100,member_si,0.000121,100,1.208,5,1,ok
+Hash (m=10),prefijo,100,member_no,0.000067,50,1.332,5,1,ok
+Hash (m=10),prefijo,100,delete,0.000137,100,1.365,5,1,ok
+Hash (m=10),prefijo,100,print,0.000043,1,42.609,5,1,ok
+Hash (m=10),prefijo,100,union,0.000242,1,242.046,5,1,ok
+Hash (m=10),prefijo,100,intersection,0.000179,1,178.769,5,1,ok
+Hash (m=10),prefijo,100,difference,0.000189,1,189.379,5,1,ok
+Hash (m=10),prefijo,200,insert,0.000260,200,1.298,5,1,ok
+Hash (m=10),prefijo,200,member_si,0.000252,200,1.261,5,1,ok
+Hash (m=10),prefijo,200,member_no,0.000132,100,1.321,5,1,ok
+Hash (m=10),prefijo,200,delete,0.000273,200,1.364,5,1,ok
+Hash (m=10),prefijo,200,print,0.000061,1,61.269,5,1,ok
+Hash (m=10),prefijo,200,union,0.000504,1,504.058,5,1,ok
+Hash (m=10),prefijo,200,intersection,0.000381,1,380.642,5,1,ok
+Hash (m=10),prefijo,200,difference,0.000377,1,376.785,5,1,ok
+Hash (m=10),prefijo,500,insert,0.000692,500,1.385,5,1,ok
+Hash (m=10),prefijo,500,member_si,0.000691,500,1.381,5,1,ok
+Hash (m=10),prefijo,500,member_no,0.000382,250,1.527,5,1,ok
+Hash (m=10),prefijo,500,delete,0.000446,300,1.486,5,1,ok
+Hash (m=10),prefijo,500,print,0.000129,1,129.463,5,1,ok
+Hash (m=10),prefijo,500,union,0.001465,1,1464.911,5,1,ok
+Hash (m=10),prefijo,500,intersection,0.001045,1,1044.967,5,1,ok
+Hash (m=10),prefijo,500,difference,0.001024,1,1023.638,5,1,ok
+Hash (m=10),prefijo,1000,insert,0.001589,1000,1.589,5,1,ok
+Hash (m=10),prefijo,1000,member_si,0.001592,1000,1.592,5,1,ok
+Hash (m=10),prefijo,1000,member_no,0.000985,500,1.969,5,1,ok
+Hash (m=10),prefijo,1000,delete,0.000584,300,1.946,5,1,ok
+Hash (m=10),prefijo,1000,print,0.000212,1,211.602,5,1,ok
+Hash (m=10),prefijo,1000,union,0.003483,1,3483.024,5,1,ok
+Hash (m=10),prefijo,1000,intersection,0.002519,1,2518.795,5,1,ok
+Hash (m=10),prefijo,1000,difference,0.002433,1,2433.437,5,1,ok
+Hash (m=10),prefijo,5000,insert,0.016595,5000,3.319,3,1,ok
+Hash (m=10),prefijo,5000,member_si,0.003343,1000,3.343,3,1,ok
+Hash (m=10),prefijo,5000,member_no,0.005380,1000,5.380,3,1,ok
+Hash (m=10),prefijo,5000,delete,0.001665,300,5.550,3,1,ok
+Hash (m=10),prefijo,5000,print,0.000992,1,992.124,3,1,ok
+Hash (m=10),prefijo,5000,union,0.040921,1,40921.206,3,1,ok
+Hash (m=10),prefijo,5000,intersection,0.027571,1,27571.010,3,1,ok
+Hash (m=10),prefijo,5000,difference,0.027151,1,27150.807,3,1,ok
+Hash (m=10),prefijo,10000,insert,0.061830,10000,6.183,3,1,ok
+Hash (m=10),prefijo,10000,member_si,0.005706,1000,5.706,3,1,ok
+Hash (m=10),prefijo,10000,member_no,0.009882,1000,9.882,3,1,ok
+Hash (m=10),prefijo,10000,delete,0.004247,300,14.156,3,1,ok
+Hash (m=10),prefijo,10000,print,0.002368,1,2368.013,3,1,ok
+Hash (m=10),prefijo,10000,union,0.140542,1,140541.857,3,1,ok
+Hash (m=10),prefijo,10000,intersection,0.091023,1,91023.046,3,1,ok
+Hash (m=10),prefijo,10000,difference,0.105836,1,105836.499,3,1,ok
+Hash (m=10),prefijo,50000,insert,2.205927,50000,44.119,1,1,ok
+Hash (m=10),prefijo,50000,member_si,0.040998,1000,40.998,1,1,ok
+Hash (m=10),prefijo,50000,member_no,0.082773,1000,82.773,1,1,ok
+Hash (m=10),prefijo,50000,delete,0.021111,300,70.369,1,1,ok
+Hash (m=10),prefijo,50000,print,0.007503,1,7502.804,1,1,ok
+Hash (m=10),prefijo,50000,union,3.360252,1,3360252.248,1,1,ok
+Hash (m=10),prefijo,50000,intersection,1.941666,1,1941665.764,1,1,ok
+Hash (m=10),prefijo,50000,difference,2.182918,1,2182918.340,1,1,ok
+Hash (m=N) ref.,prefijo,10,insert,0.000019,10,1.904,5,1,ok
+Hash (m=N) ref.,prefijo,10,member_si,0.000019,10,1.911,5,1,ok
+Hash (m=N) ref.,prefijo,10,member_no,0.000013,5,2.593,5,1,ok
+Hash (m=N) ref.,prefijo,10,delete,0.000021,10,2.094,5,1,ok
+Hash (m=N) ref.,prefijo,10,print,0.000020,1,19.809,5,1,ok
+Hash (m=N) ref.,prefijo,10,union,0.000038,1,38.042,5,1,ok
+Hash (m=N) ref.,prefijo,10,intersection,0.000031,1,30.990,5,1,ok
+Hash (m=N) ref.,prefijo,10,difference,0.000030,1,30.484,5,1,ok
+Hash (m=N) ref.,prefijo,20,insert,0.000030,20,1.485,5,1,ok
+Hash (m=N) ref.,prefijo,20,member_si,0.000031,20,1.532,5,1,ok
+Hash (m=N) ref.,prefijo,20,member_no,0.000018,10,1.813,5,1,ok
+Hash (m=N) ref.,prefijo,20,delete,0.000032,20,1.611,5,1,ok
+Hash (m=N) ref.,prefijo,20,print,0.000028,1,27.920,5,1,ok
+Hash (m=N) ref.,prefijo,20,union,0.000062,1,62.076,5,1,ok
+Hash (m=N) ref.,prefijo,20,intersection,0.000049,1,48.737,5,1,ok
+Hash (m=N) ref.,prefijo,20,difference,0.000048,1,47.602,5,1,ok
+Hash (m=N) ref.,prefijo,30,insert,0.000042,30,1.388,5,1,ok
+Hash (m=N) ref.,prefijo,30,member_si,0.000041,30,1.363,5,1,ok
+Hash (m=N) ref.,prefijo,30,member_no,0.000024,15,1.619,5,1,ok
+Hash (m=N) ref.,prefijo,30,delete,0.000045,30,1.494,5,1,ok
+Hash (m=N) ref.,prefijo,30,print,0.000035,1,34.914,5,1,ok
+Hash (m=N) ref.,prefijo,30,union,0.000086,1,85.879,5,1,ok
+Hash (m=N) ref.,prefijo,30,intersection,0.000068,1,67.861,5,1,ok
+Hash (m=N) ref.,prefijo,30,difference,0.000066,1,65.739,5,1,ok
+Hash (m=N) ref.,prefijo,50,insert,0.000064,50,1.282,5,1,ok
+Hash (m=N) ref.,prefijo,50,member_si,0.000064,50,1.282,5,1,ok
+Hash (m=N) ref.,prefijo,50,member_no,0.000035,25,1.406,5,1,ok
+Hash (m=N) ref.,prefijo,50,delete,0.000068,50,1.363,5,1,ok
+Hash (m=N) ref.,prefijo,50,print,0.000048,1,48.399,5,1,ok
+Hash (m=N) ref.,prefijo,50,union,0.000141,1,141.081,5,1,ok
+Hash (m=N) ref.,prefijo,50,intersection,0.000102,1,102.409,5,1,ok
+Hash (m=N) ref.,prefijo,50,difference,0.000104,1,104.488,5,1,ok
+Hash (m=N) ref.,prefijo,100,insert,0.000124,100,1.244,5,1,ok
+Hash (m=N) ref.,prefijo,100,member_si,0.000127,100,1.267,5,1,ok
+Hash (m=N) ref.,prefijo,100,member_no,0.000064,50,1.281,5,1,ok
+Hash (m=N) ref.,prefijo,100,delete,0.000126,100,1.264,5,1,ok
+Hash (m=N) ref.,prefijo,100,print,0.000082,1,82.419,5,1,ok
+Hash (m=N) ref.,prefijo,100,union,0.000268,1,267.799,5,1,ok
+Hash (m=N) ref.,prefijo,100,intersection,0.000209,1,209.430,5,1,ok
+Hash (m=N) ref.,prefijo,100,difference,0.000200,1,200.151,5,1,ok
+Hash (m=N) ref.,prefijo,200,insert,0.000246,200,1.230,5,1,ok
+Hash (m=N) ref.,prefijo,200,member_si,0.000236,200,1.181,5,1,ok
+Hash (m=N) ref.,prefijo,200,member_no,0.000129,100,1.288,5,1,ok
+Hash (m=N) ref.,prefijo,200,delete,0.000258,200,1.291,5,1,ok
+Hash (m=N) ref.,prefijo,200,print,0.000145,1,144.947,5,1,ok
+Hash (m=N) ref.,prefijo,200,union,0.000527,1,527.457,5,1,ok
+Hash (m=N) ref.,prefijo,200,intersection,0.000408,1,407.852,5,1,ok
+Hash (m=N) ref.,prefijo,200,difference,0.000398,1,397.796,5,1,ok
+Hash (m=N) ref.,prefijo,500,insert,0.000609,500,1.218,5,1,ok
+Hash (m=N) ref.,prefijo,500,member_si,0.000628,500,1.256,5,1,ok
+Hash (m=N) ref.,prefijo,500,member_no,0.000306,250,1.223,5,1,ok
+Hash (m=N) ref.,prefijo,500,delete,0.000400,300,1.334,5,1,ok
+Hash (m=N) ref.,prefijo,500,print,0.000335,1,334.913,5,1,ok
+Hash (m=N) ref.,prefijo,500,union,0.001347,1,1346.818,5,1,ok
+Hash (m=N) ref.,prefijo,500,intersection,0.001013,1,1013.208,5,1,ok
+Hash (m=N) ref.,prefijo,500,difference,0.001027,1,1026.809,5,1,ok
+Hash (m=N) ref.,prefijo,1000,insert,0.001232,1000,1.232,5,1,ok
+Hash (m=N) ref.,prefijo,1000,member_si,0.001274,1000,1.274,5,1,ok
+Hash (m=N) ref.,prefijo,1000,member_no,0.000618,500,1.237,5,1,ok
+Hash (m=N) ref.,prefijo,1000,delete,0.000412,300,1.372,5,1,ok
+Hash (m=N) ref.,prefijo,1000,print,0.000660,1,659.880,5,1,ok
+Hash (m=N) ref.,prefijo,1000,union,0.002706,1,2705.933,5,1,ok
+Hash (m=N) ref.,prefijo,1000,intersection,0.002026,1,2026.226,5,1,ok
+Hash (m=N) ref.,prefijo,1000,difference,0.002009,1,2009.323,5,1,ok
+Hash (m=N) ref.,prefijo,5000,insert,0.006129,5000,1.226,3,1,ok
+Hash (m=N) ref.,prefijo,5000,member_si,0.001329,1000,1.329,3,1,ok
+Hash (m=N) ref.,prefijo,5000,member_no,0.001355,1000,1.355,3,1,ok
+Hash (m=N) ref.,prefijo,5000,delete,0.000468,300,1.561,3,1,ok
+Hash (m=N) ref.,prefijo,5000,print,0.003287,1,3287.293,3,1,ok
+Hash (m=N) ref.,prefijo,5000,union,0.013373,1,13373.345,3,1,ok
+Hash (m=N) ref.,prefijo,5000,intersection,0.010025,1,10024.820,3,1,ok
+Hash (m=N) ref.,prefijo,5000,difference,0.009943,1,9943.456,3,1,ok
+Hash (m=N) ref.,prefijo,10000,insert,0.012171,10000,1.217,3,1,ok
+Hash (m=N) ref.,prefijo,10000,member_si,0.001332,1000,1.332,3,1,ok
+Hash (m=N) ref.,prefijo,10000,member_no,0.001345,1000,1.345,3,1,ok
+Hash (m=N) ref.,prefijo,10000,delete,0.000446,300,1.488,3,1,ok
+Hash (m=N) ref.,prefijo,10000,print,0.006608,1,6607.884,3,1,ok
+Hash (m=N) ref.,prefijo,10000,union,0.026921,1,26921.163,3,1,ok
+Hash (m=N) ref.,prefijo,10000,intersection,0.020345,1,20345.143,3,1,ok
+Hash (m=N) ref.,prefijo,10000,difference,0.020189,1,20188.944,3,1,ok
+Hash (m=N) ref.,prefijo,50000,insert,0.060181,50000,1.204,1,1,ok
+Hash (m=N) ref.,prefijo,50000,member_si,0.001583,1000,1.583,1,1,ok
+Hash (m=N) ref.,prefijo,50000,member_no,0.001529,1000,1.529,1,1,ok
+Hash (m=N) ref.,prefijo,50000,delete,0.000505,300,1.684,1,1,ok
+Hash (m=N) ref.,prefijo,50000,print,0.030607,1,30607.329,1,1,ok
+Hash (m=N) ref.,prefijo,50000,union,0.120692,1,120692.143,1,1,ok
+Hash (m=N) ref.,prefijo,50000,intersection,0.089016,1,89016.311,1,1,ok
+Hash (m=N) ref.,prefijo,50000,difference,0.093120,1,93120.285,1,1,ok
+ABB punteros,prefijo,10,insert,0.000010,10,0.965,5,1,ok
+ABB punteros,prefijo,10,member_si,0.000007,10,0.672,5,1,ok
+ABB punteros,prefijo,10,member_no,0.000007,5,1.334,5,1,ok
+ABB punteros,prefijo,10,delete,0.000009,10,0.897,5,1,ok
+ABB punteros,prefijo,10,print,0.000017,1,17.118,5,1,ok
+ABB punteros,prefijo,10,union,0.000027,1,26.879,5,1,ok
+ABB punteros,prefijo,10,intersection,0.000023,1,23.396,5,1,ok
+ABB punteros,prefijo,10,difference,0.000023,1,22.619,5,1,ok
+ABB punteros,prefijo,20,insert,0.000013,20,0.633,5,1,ok
+ABB punteros,prefijo,20,member_si,0.000008,20,0.404,5,1,ok
+ABB punteros,prefijo,20,member_no,0.000008,10,0.806,5,1,ok
+ABB punteros,prefijo,20,delete,0.000012,20,0.576,5,1,ok
+ABB punteros,prefijo,20,print,0.000021,1,21.164,5,1,ok
+ABB punteros,prefijo,20,union,0.000038,1,38.442,5,1,ok
+ABB punteros,prefijo,20,intersection,0.000033,1,33.405,5,1,ok
+ABB punteros,prefijo,20,difference,0.000032,1,32.059,5,1,ok
+ABB punteros,prefijo,30,insert,0.000017,30,0.554,5,1,ok
+ABB punteros,prefijo,30,member_si,0.000011,30,0.383,5,1,ok
+ABB punteros,prefijo,30,member_no,0.000009,15,0.617,5,1,ok
+ABB punteros,prefijo,30,delete,0.000015,30,0.514,5,1,ok
+ABB punteros,prefijo,30,print,0.000026,1,25.632,5,1,ok
+ABB punteros,prefijo,30,union,0.000050,1,49.864,5,1,ok
+ABB punteros,prefijo,30,intersection,0.000042,1,41.928,5,1,ok
+ABB punteros,prefijo,30,difference,0.000043,1,42.599,5,1,ok
+ABB punteros,prefijo,50,insert,0.000022,50,0.449,5,1,ok
+ABB punteros,prefijo,50,member_si,0.000015,50,0.305,5,1,ok
+ABB punteros,prefijo,50,member_no,0.000012,25,0.478,5,1,ok
+ABB punteros,prefijo,50,delete,0.000021,50,0.422,5,1,ok
+ABB punteros,prefijo,50,print,0.000034,1,34.479,5,1,ok
+ABB punteros,prefijo,50,union,0.000077,1,77.480,5,1,ok
+ABB punteros,prefijo,50,intersection,0.000063,1,62.941,5,1,ok
+ABB punteros,prefijo,50,difference,0.000063,1,62.602,5,1,ok
+ABB punteros,prefijo,100,insert,0.000045,100,0.453,5,1,ok
+ABB punteros,prefijo,100,member_si,0.000032,100,0.325,5,1,ok
+ABB punteros,prefijo,100,member_no,0.000022,50,0.437,5,1,ok
+ABB punteros,prefijo,100,delete,0.000042,100,0.421,5,1,ok
+ABB punteros,prefijo,100,print,0.000050,1,49.956,5,1,ok
+ABB punteros,prefijo,100,union,0.000138,1,138.039,5,1,ok
+ABB punteros,prefijo,100,intersection,0.000113,1,113.414,5,1,ok
+ABB punteros,prefijo,100,difference,0.000122,1,122.393,5,1,ok
+ABB punteros,prefijo,200,insert,0.000086,200,0.431,5,1,ok
+ABB punteros,prefijo,200,member_si,0.000067,200,0.335,5,1,ok
+ABB punteros,prefijo,200,member_no,0.000043,100,0.427,5,1,ok
+ABB punteros,prefijo,200,delete,0.000075,200,0.377,5,1,ok
+ABB punteros,prefijo,200,print,0.000095,1,95.225,5,1,ok
+ABB punteros,prefijo,200,union,0.000253,1,252.748,5,1,ok
+ABB punteros,prefijo,200,intersection,0.000251,1,250.758,5,1,ok
+ABB punteros,prefijo,200,difference,0.000208,1,208.214,5,1,ok
+ABB punteros,prefijo,500,insert,0.000243,500,0.485,5,1,ok
+ABB punteros,prefijo,500,member_si,0.000196,500,0.393,5,1,ok
+ABB punteros,prefijo,500,member_no,0.000114,250,0.457,5,1,ok
+ABB punteros,prefijo,500,delete,0.000152,300,0.508,5,1,ok
+ABB punteros,prefijo,500,print,0.000172,1,171.740,5,1,ok
+ABB punteros,prefijo,500,union,0.000671,1,670.549,5,1,ok
+ABB punteros,prefijo,500,intersection,0.000559,1,559.351,5,1,ok
+ABB punteros,prefijo,500,difference,0.000521,1,521.197,5,1,ok
+ABB punteros,prefijo,1000,insert,0.000624,1000,0.624,5,1,ok
+ABB punteros,prefijo,1000,member_si,0.000466,1000,0.466,5,1,ok
+ABB punteros,prefijo,1000,member_no,0.000272,500,0.544,5,1,ok
+ABB punteros,prefijo,1000,delete,0.000228,300,0.761,5,1,ok
+ABB punteros,prefijo,1000,print,0.000405,1,405.043,5,1,ok
+ABB punteros,prefijo,1000,union,0.001486,1,1486.215,5,1,ok
+ABB punteros,prefijo,1000,intersection,0.001191,1,1190.833,5,1,ok
+ABB punteros,prefijo,1000,difference,0.001208,1,1208.357,5,1,ok
+ABB punteros,prefijo,5000,insert,0.003849,5000,0.770,3,1,ok
+ABB punteros,prefijo,5000,member_si,0.000748,1000,0.748,3,1,ok
+ABB punteros,prefijo,5000,member_no,0.000883,1000,0.883,3,1,ok
+ABB punteros,prefijo,5000,delete,0.000317,300,1.058,3,1,ok
+ABB punteros,prefijo,5000,print,0.002006,1,2006.436,3,1,ok
+ABB punteros,prefijo,5000,union,0.007724,1,7723.619,3,1,ok
+ABB punteros,prefijo,5000,intersection,0.006271,1,6271.478,3,1,ok
+ABB punteros,prefijo,5000,difference,0.005927,1,5926.516,3,1,ok
+ABB punteros,prefijo,10000,insert,0.009179,10000,0.918,3,1,ok
+ABB punteros,prefijo,10000,member_si,0.000967,1000,0.967,3,1,ok
+ABB punteros,prefijo,10000,member_no,0.001098,1000,1.098,3,1,ok
+ABB punteros,prefijo,10000,delete,0.000436,300,1.454,3,1,ok
+ABB punteros,prefijo,10000,print,0.004170,1,4169.767,3,1,ok
+ABB punteros,prefijo,10000,union,0.017815,1,17815.410,3,1,ok
+ABB punteros,prefijo,10000,intersection,0.014165,1,14165.396,3,1,ok
+ABB punteros,prefijo,10000,difference,0.014184,1,14184.470,3,1,ok
+ABB punteros,prefijo,50000,insert,0.080730,50000,1.615,1,1,ok
+ABB punteros,prefijo,50000,member_si,0.002124,1000,2.124,1,1,ok
+ABB punteros,prefijo,50000,member_no,0.001967,1000,1.967,1,1,ok
+ABB punteros,prefijo,50000,delete,0.000802,300,2.673,1,1,ok
+ABB punteros,prefijo,50000,print,0.022997,1,22997.190,1,1,ok
+ABB punteros,prefijo,50000,union,0.109287,1,109286.898,1,1,ok
+ABB punteros,prefijo,50000,intersection,0.093162,1,93162.115,1,1,ok
+ABB punteros,prefijo,50000,difference,0.100069,1,100069.449,1,1,ok
+ABB heap,prefijo,10,insert,0.000033,10,3.334,5,1,ok
+ABB heap,prefijo,10,member_si,0.000030,10,3.012,5,1,ok
+ABB heap,prefijo,10,member_no,0.000021,5,4.166,5,1,ok
+ABB heap,prefijo,10,delete,0.000039,10,3.932,5,1,ok
+ABB heap,prefijo,10,print,0.000015,1,14.771,5,1,ok
+ABB heap,prefijo,10,union,0.000092,1,92.056,5,1,ok
+ABB heap,prefijo,10,intersection,0.000047,1,47.209,5,1,ok
+ABB heap,prefijo,10,difference,0.000046,1,46.355,5,1,ok
+ABB heap,prefijo,20,union,,20,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,20,insert,0.000053,20,2.673,5,1,ok
+ABB heap,prefijo,20,member_si,0.000046,20,2.318,5,1,ok
+ABB heap,prefijo,20,member_no,0.000032,10,3.151,5,1,ok
+ABB heap,prefijo,20,delete,0.000063,20,3.151,5,1,ok
+ABB heap,prefijo,20,print,0.000016,1,15.712,5,1,ok
+ABB heap,prefijo,20,intersection,0.000087,1,87.410,5,1,ok
+ABB heap,prefijo,20,difference,0.000087,1,86.952,5,1,ok
+ABB heap,prefijo,30,union,,30,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,30,insert,0.000085,30,2.825,5,1,ok
+ABB heap,prefijo,30,member_si,0.000071,30,2.358,5,1,ok
+ABB heap,prefijo,30,member_no,0.000043,15,2.864,5,1,ok
+ABB heap,prefijo,30,delete,0.000119,30,3.962,5,1,ok
+ABB heap,prefijo,30,print,0.000020,1,19.552,5,1,ok
+ABB heap,prefijo,30,intersection,0.000273,1,273.105,5,1,ok
+ABB heap,prefijo,30,difference,0.000259,1,259.042,5,1,ok
+ABB heap,prefijo,50,union,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,50,intersection,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,50,difference,,50,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,50,insert,0.000113,50,2.268,5,1,ok
+ABB heap,prefijo,50,member_si,0.000118,50,2.357,5,1,ok
+ABB heap,prefijo,50,member_no,0.000062,25,2.479,5,1,ok
+ABB heap,prefijo,50,delete,0.000141,50,2.820,5,1,ok
+ABB heap,prefijo,50,print,0.000023,1,22.543,5,1,ok
+ABB heap,prefijo,100,union,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,100,intersection,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,100,difference,,100,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,100,insert,0.000335,100,3.349,5,1,ok
+ABB heap,prefijo,100,member_si,0.000231,100,2.311,5,1,ok
+ABB heap,prefijo,100,member_no,0.000144,50,2.887,5,1,ok
+ABB heap,prefijo,100,delete,0.000834,100,8.339,5,1,ok
+ABB heap,prefijo,100,print,0.000038,1,37.986,5,1,ok
+ABB heap,prefijo,200,union,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,200,intersection,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,200,difference,,200,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,200,insert,0.000648,200,3.239,5,1,ok
+ABB heap,prefijo,200,member_si,0.000507,200,2.533,5,1,ok
+ABB heap,prefijo,200,member_no,0.000273,100,2.734,5,1,ok
+ABB heap,prefijo,200,delete,0.001399,200,6.993,5,1,ok
+ABB heap,prefijo,200,print,0.000070,1,69.525,5,1,ok
+ABB heap,prefijo,500,union,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,500,intersection,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,500,difference,,500,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,prefijo,500,insert,0.003972,500,7.944,5,1,ok
+ABB heap,prefijo,500,member_si,0.001324,500,2.648,5,1,ok
+ABB heap,prefijo,500,member_no,0.000745,250,2.979,5,1,ok
+ABB heap,prefijo,500,delete,0.015332,300,51.106,5,1,ok
+ABB heap,prefijo,500,print,0.000159,1,159.433,5,1,ok
+ABB heap,prefijo,1000,insert,,1000,,0,,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,prefijo,10,insert,0.000066,10,6.568,5,1,ok
+Trie punteros,prefijo,10,member_si,0.000047,10,4.708,5,1,ok
+Trie punteros,prefijo,10,member_no,0.000026,5,5.283,5,1,ok
+Trie punteros,prefijo,10,delete,0.000128,10,12.784,5,1,ok
+Trie punteros,prefijo,10,print,0.000066,1,66.059,5,1,ok
+Trie punteros,prefijo,10,union,0.000214,1,213.557,5,1,ok
+Trie punteros,prefijo,10,intersection,0.000146,1,145.761,5,1,ok
+Trie punteros,prefijo,10,difference,0.000130,1,130.432,5,1,ok
+Trie punteros,prefijo,20,insert,0.000113,20,5.660,5,1,ok
+Trie punteros,prefijo,20,member_si,0.000081,20,4.072,5,1,ok
+Trie punteros,prefijo,20,member_no,0.000042,10,4.240,5,1,ok
+Trie punteros,prefijo,20,delete,0.000217,20,10.849,5,1,ok
+Trie punteros,prefijo,20,print,0.000101,1,100.968,5,1,ok
+Trie punteros,prefijo,20,union,0.000411,1,411.107,5,1,ok
+Trie punteros,prefijo,20,intersection,0.000223,1,223.364,5,1,ok
+Trie punteros,prefijo,20,difference,0.000235,1,235.396,5,1,ok
+Trie punteros,prefijo,30,insert,0.000156,30,5.215,5,1,ok
+Trie punteros,prefijo,30,member_si,0.000118,30,3.944,5,1,ok
+Trie punteros,prefijo,30,member_no,0.000060,15,3.969,5,1,ok
+Trie punteros,prefijo,30,delete,0.000347,30,11.569,5,1,ok
+Trie punteros,prefijo,30,print,0.000143,1,142.983,5,1,ok
+Trie punteros,prefijo,30,union,0.000580,1,579.773,5,1,ok
+Trie punteros,prefijo,30,intersection,0.000357,1,356.802,5,1,ok
+Trie punteros,prefijo,30,difference,0.000348,1,347.855,5,1,ok
+Trie punteros,prefijo,50,insert,0.000251,50,5.029,5,1,ok
+Trie punteros,prefijo,50,member_si,0.000195,50,3.900,5,1,ok
+Trie punteros,prefijo,50,member_no,0.000092,25,3.693,5,1,ok
+Trie punteros,prefijo,50,delete,0.000495,50,9.910,5,1,ok
+Trie punteros,prefijo,50,print,0.000205,1,204.575,5,1,ok
+Trie punteros,prefijo,50,union,0.000896,1,895.620,5,1,ok
+Trie punteros,prefijo,50,intersection,0.000552,1,552.169,5,1,ok
+Trie punteros,prefijo,50,difference,0.000493,1,492.598,5,1,ok
+Trie punteros,prefijo,100,insert,0.000483,100,4.831,5,1,ok
+Trie punteros,prefijo,100,member_si,0.000430,100,4.299,5,1,ok
+Trie punteros,prefijo,100,member_no,0.000184,50,3.677,5,1,ok
+Trie punteros,prefijo,100,delete,0.000986,100,9.860,5,1,ok
+Trie punteros,prefijo,100,print,0.000369,1,368.864,5,1,ok
+Trie punteros,prefijo,100,union,0.001682,1,1681.906,5,1,ok
+Trie punteros,prefijo,100,intersection,0.001004,1,1004.330,5,1,ok
+Trie punteros,prefijo,100,difference,0.000997,1,997.150,5,1,ok
+Trie punteros,prefijo,200,insert,0.001001,200,5.004,5,1,ok
+Trie punteros,prefijo,200,member_si,0.000803,200,4.015,5,1,ok
+Trie punteros,prefijo,200,member_no,0.000352,100,3.524,5,1,ok
+Trie punteros,prefijo,200,delete,0.001898,200,9.489,5,1,ok
+Trie punteros,prefijo,200,print,0.000722,1,721.958,5,1,ok
+Trie punteros,prefijo,200,union,0.003218,1,3218.012,5,1,ok
+Trie punteros,prefijo,200,intersection,0.001943,1,1943.387,5,1,ok
+Trie punteros,prefijo,200,difference,0.001942,1,1942.307,5,1,ok
+Trie punteros,prefijo,500,insert,0.002436,500,4.873,5,1,ok
+Trie punteros,prefijo,500,member_si,0.001990,500,3.981,5,1,ok
+Trie punteros,prefijo,500,member_no,0.000924,250,3.694,5,1,ok
+Trie punteros,prefijo,500,delete,0.002699,300,8.995,5,1,ok
+Trie punteros,prefijo,500,print,0.001648,1,1648.446,5,1,ok
+Trie punteros,prefijo,500,union,0.007752,1,7752.375,5,1,ok
+Trie punteros,prefijo,500,intersection,0.004739,1,4738.740,5,1,ok
+Trie punteros,prefijo,500,difference,0.004714,1,4713.551,5,1,ok
+Trie punteros,prefijo,1000,insert,0.004783,1000,4.783,5,1,ok
+Trie punteros,prefijo,1000,member_si,0.003907,1000,3.907,5,1,ok
+Trie punteros,prefijo,1000,member_no,0.001849,500,3.699,5,1,ok
+Trie punteros,prefijo,1000,delete,0.002743,300,9.144,5,1,ok
+Trie punteros,prefijo,1000,print,0.003095,1,3094.640,5,1,ok
+Trie punteros,prefijo,1000,union,0.015807,1,15806.800,5,1,ok
+Trie punteros,prefijo,1000,intersection,0.009331,1,9330.615,5,1,ok
+Trie punteros,prefijo,1000,difference,0.009326,1,9326.223,5,1,ok
+Trie punteros,prefijo,5000,insert,0.025305,5000,5.061,3,1,ok
+Trie punteros,prefijo,5000,member_si,0.004496,1000,4.496,3,1,ok
+Trie punteros,prefijo,5000,member_no,0.003926,1000,3.926,3,1,ok
+Trie punteros,prefijo,5000,delete,0.002896,300,9.654,3,1,ok
+Trie punteros,prefijo,5000,print,0.014264,1,14263.947,3,1,ok
+Trie punteros,prefijo,5000,union,0.081139,1,81139.262,3,1,ok
+Trie punteros,prefijo,5000,intersection,0.048052,1,48051.720,3,1,ok
+Trie punteros,prefijo,5000,difference,0.050927,1,50926.756,3,1,ok
+Trie punteros,prefijo,10000,insert,0.053653,10000,5.365,3,1,ok
+Trie punteros,prefijo,10000,member_si,0.004663,1000,4.663,3,1,ok
+Trie punteros,prefijo,10000,member_no,0.004088,1000,4.088,3,1,ok
+Trie punteros,prefijo,10000,delete,0.003126,300,10.421,3,1,ok
+Trie punteros,prefijo,10000,print,0.028101,1,28101.185,3,1,ok
+Trie punteros,prefijo,10000,union,0.175769,1,175768.804,3,1,ok
+Trie punteros,prefijo,10000,intersection,0.114951,1,114951.011,3,1,ok
+Trie punteros,prefijo,10000,difference,0.096303,1,96303.376,3,1,ok
+Trie arreglos,prefijo,10,insert,0.000053,10,5.324,5,1,ok
+Trie arreglos,prefijo,10,member_si,0.000034,10,3.364,5,1,ok
+Trie arreglos,prefijo,10,member_no,0.000019,5,3.788,5,1,ok
+Trie arreglos,prefijo,10,delete,0.000085,10,8.500,5,1,ok
+Trie arreglos,prefijo,10,print,0.000053,1,53.363,5,1,ok
+Trie arreglos,prefijo,10,union,0.000185,1,185.245,5,1,ok
+Trie arreglos,prefijo,10,intersection,0.000093,1,92.770,5,1,ok
+Trie arreglos,prefijo,10,difference,0.000130,1,130.468,5,1,ok
+Trie arreglos,prefijo,20,insert,0.000089,20,4.454,5,1,ok
+Trie arreglos,prefijo,20,member_si,0.000057,20,2.863,5,1,ok
+Trie arreglos,prefijo,20,member_no,0.000030,10,2.973,5,1,ok
+Trie arreglos,prefijo,20,delete,0.000155,20,7.760,5,1,ok
+Trie arreglos,prefijo,20,print,0.000079,1,79.320,5,1,ok
+Trie arreglos,prefijo,20,union,0.000357,1,356.720,5,1,ok
+Trie arreglos,prefijo,20,intersection,0.000140,1,140.366,5,1,ok
+Trie arreglos,prefijo,20,difference,0.000213,1,212.957,5,1,ok
+Trie arreglos,prefijo,30,insert,0.000127,30,4.230,5,1,ok
+Trie arreglos,prefijo,30,member_si,0.000085,30,2.828,5,1,ok
+Trie arreglos,prefijo,30,member_no,0.000042,15,2.773,5,1,ok
+Trie arreglos,prefijo,30,delete,0.000228,30,7.600,5,1,ok
+Trie arreglos,prefijo,30,print,0.000159,1,159.196,5,1,ok
+Trie arreglos,prefijo,30,union,0.000472,1,471.984,5,1,ok
+Trie arreglos,prefijo,30,intersection,0.000192,1,191.857,5,1,ok
+Trie arreglos,prefijo,30,difference,0.000352,1,351.959,5,1,ok
+Trie arreglos,prefijo,50,insert,0.000202,50,4.041,5,1,ok
+Trie arreglos,prefijo,50,member_si,0.000139,50,2.779,5,1,ok
+Trie arreglos,prefijo,50,member_no,0.000066,25,2.627,5,1,ok
+Trie arreglos,prefijo,50,delete,0.000440,50,8.795,5,1,ok
+Trie arreglos,prefijo,50,print,0.000168,1,167.812,5,1,ok
+Trie arreglos,prefijo,50,union,0.000726,1,726.361,5,1,ok
+Trie arreglos,prefijo,50,intersection,0.000278,1,278.126,5,1,ok
+Trie arreglos,prefijo,50,difference,0.000496,1,496.116,5,1,ok
+Trie arreglos,prefijo,100,insert,0.000441,100,4.415,5,1,ok
+Trie arreglos,prefijo,100,member_si,0.000334,100,3.336,5,1,ok
+Trie arreglos,prefijo,100,member_no,0.000168,50,3.366,5,1,ok
+Trie arreglos,prefijo,100,delete,0.000840,100,8.396,5,1,ok
+Trie arreglos,prefijo,100,print,0.000347,1,346.814,5,1,ok
+Trie arreglos,prefijo,100,union,0.001528,1,1528.174,5,1,ok
+Trie arreglos,prefijo,100,intersection,0.000652,1,651.993,5,1,ok
+Trie arreglos,prefijo,100,difference,0.000925,1,924.972,5,1,ok
+Trie arreglos,prefijo,200,insert,0.000794,200,3.971,5,1,ok
+Trie arreglos,prefijo,200,member_si,0.000560,200,2.801,5,1,ok
+Trie arreglos,prefijo,200,member_no,0.000237,100,2.371,5,1,ok
+Trie arreglos,prefijo,200,delete,0.001509,200,7.546,5,1,ok
+Trie arreglos,prefijo,200,print,0.000557,1,556.767,5,1,ok
+Trie arreglos,prefijo,200,union,0.002475,1,2475.199,5,1,ok
+Trie arreglos,prefijo,200,intersection,0.000965,1,964.614,5,1,ok
+Trie arreglos,prefijo,200,difference,0.001601,1,1600.812,5,1,ok
+Trie arreglos,prefijo,500,insert,0.001835,500,3.670,5,1,ok
+Trie arreglos,prefijo,500,member_si,0.001447,500,2.893,5,1,ok
+Trie arreglos,prefijo,500,member_no,0.000584,250,2.337,5,1,ok
+Trie arreglos,prefijo,500,delete,0.002235,300,7.450,5,1,ok
+Trie arreglos,prefijo,500,print,0.001343,1,1343.075,5,1,ok
+Trie arreglos,prefijo,500,union,0.005871,1,5871.090,5,1,ok
+Trie arreglos,prefijo,500,intersection,0.002302,1,2302.014,5,1,ok
+Trie arreglos,prefijo,500,difference,0.003910,1,3909.534,5,1,ok
+Trie arreglos,prefijo,1000,insert,0.003644,1000,3.644,5,1,ok
+Trie arreglos,prefijo,1000,member_si,0.002808,1000,2.808,5,1,ok
+Trie arreglos,prefijo,1000,member_no,0.001232,500,2.464,5,1,ok
+Trie arreglos,prefijo,1000,delete,0.002309,300,7.695,5,1,ok
+Trie arreglos,prefijo,1000,print,0.002716,1,2716.024,5,1,ok
+Trie arreglos,prefijo,1000,union,0.011864,1,11864.179,5,1,ok
+Trie arreglos,prefijo,1000,intersection,0.004451,1,4451.448,5,1,ok
+Trie arreglos,prefijo,1000,difference,0.007484,1,7483.844,5,1,ok
+Trie arreglos,prefijo,5000,insert,0.019200,5000,3.840,3,1,ok
+Trie arreglos,prefijo,5000,member_si,0.002959,1000,2.959,3,1,ok
+Trie arreglos,prefijo,5000,member_no,0.002581,1000,2.581,3,1,ok
+Trie arreglos,prefijo,5000,delete,0.002430,300,8.100,3,1,ok
+Trie arreglos,prefijo,5000,print,0.012179,1,12179.429,3,1,ok
+Trie arreglos,prefijo,5000,union,0.053178,1,53178.434,3,1,ok
+Trie arreglos,prefijo,5000,intersection,0.023048,1,23048.344,3,1,ok
+Trie arreglos,prefijo,5000,difference,0.036767,1,36766.566,3,1,ok
+Trie arreglos,prefijo,10000,insert,0.039378,10000,3.938,3,1,ok
+Trie arreglos,prefijo,10000,member_si,0.003623,1000,3.623,3,1,ok
+Trie arreglos,prefijo,10000,member_no,0.002916,1000,2.916,3,1,ok
+Trie arreglos,prefijo,10000,delete,0.002761,300,9.205,3,1,ok
+Trie arreglos,prefijo,10000,print,0.026360,1,26359.880,3,1,ok
+Trie arreglos,prefijo,10000,union,0.108280,1,108279.925,3,1,ok
+Trie arreglos,prefijo,10000,intersection,0.042892,1,42892.063,3,1,ok
+Trie arreglos,prefijo,10000,difference,0.095952,1,95952.042,3,1,ok
+Lista punteros,ordenado,10,insert,0.000012,10,1.150,5,1,ok
+Lista punteros,ordenado,10,member_si,0.000009,10,0.867,5,1,ok
+Lista punteros,ordenado,10,member_no,0.000007,5,1.494,5,1,ok
+Lista punteros,ordenado,10,delete,0.000009,10,0.909,5,1,ok
+Lista punteros,ordenado,10,print,0.000014,1,13.734,5,1,ok
+Lista punteros,ordenado,10,union,0.000018,1,18.169,5,1,ok
+Lista punteros,ordenado,10,intersection,0.000014,1,13.948,5,1,ok
+Lista punteros,ordenado,10,difference,0.000014,1,13.851,5,1,ok
+Lista punteros,ordenado,20,insert,0.000017,20,0.831,5,1,ok
+Lista punteros,ordenado,20,member_si,0.000014,20,0.676,5,1,ok
+Lista punteros,ordenado,20,member_no,0.000010,10,0.956,5,1,ok
+Lista punteros,ordenado,20,delete,0.000012,20,0.604,5,1,ok
+Lista punteros,ordenado,20,print,0.000015,1,15.463,5,1,ok
+Lista punteros,ordenado,20,union,0.000033,1,32.680,5,1,ok
+Lista punteros,ordenado,20,intersection,0.000023,1,22.602,5,1,ok
+Lista punteros,ordenado,20,difference,0.000022,1,22.481,5,1,ok
+Lista punteros,ordenado,30,insert,0.000026,30,0.863,5,1,ok
+Lista punteros,ordenado,30,member_si,0.000022,30,0.745,5,1,ok
+Lista punteros,ordenado,30,member_no,0.000014,15,0.964,5,1,ok
+Lista punteros,ordenado,30,delete,0.000017,30,0.553,5,1,ok
+Lista punteros,ordenado,30,print,0.000018,1,17.650,5,1,ok
+Lista punteros,ordenado,30,union,0.000054,1,54.025,5,1,ok
+Lista punteros,ordenado,30,intersection,0.000034,1,34.322,5,1,ok
+Lista punteros,ordenado,30,difference,0.000036,1,35.669,5,1,ok
+Lista punteros,ordenado,50,insert,0.000052,50,1.034,5,1,ok
+Lista punteros,ordenado,50,member_si,0.000050,50,0.994,5,1,ok
+Lista punteros,ordenado,50,member_no,0.000026,25,1.029,5,1,ok
+Lista punteros,ordenado,50,delete,0.000030,50,0.592,5,1,ok
+Lista punteros,ordenado,50,print,0.000023,1,22.918,5,1,ok
+Lista punteros,ordenado,50,union,0.000117,1,116.598,5,1,ok
+Lista punteros,ordenado,50,intersection,0.000072,1,71.801,5,1,ok
+Lista punteros,ordenado,50,difference,0.000072,1,72.109,5,1,ok
+Lista punteros,ordenado,100,insert,0.000172,100,1.720,5,1,ok
+Lista punteros,ordenado,100,member_si,0.000184,100,1.838,5,1,ok
+Lista punteros,ordenado,100,member_no,0.000117,50,2.340,5,1,ok
+Lista punteros,ordenado,100,delete,0.000092,100,0.917,5,1,ok
+Lista punteros,ordenado,100,print,0.000037,1,37.317,5,1,ok
+Lista punteros,ordenado,100,union,0.000427,1,427.409,5,1,ok
+Lista punteros,ordenado,100,intersection,0.000238,1,237.725,5,1,ok
+Lista punteros,ordenado,100,difference,0.000228,1,228.408,5,1,ok
+Lista punteros,ordenado,200,insert,0.000616,200,3.079,5,1,ok
+Lista punteros,ordenado,200,member_si,0.000734,200,3.669,5,1,ok
+Lista punteros,ordenado,200,member_no,0.000385,100,3.851,5,1,ok
+Lista punteros,ordenado,200,delete,0.000316,200,1.578,5,1,ok
+Lista punteros,ordenado,200,print,0.000060,1,60.055,5,1,ok
+Lista punteros,ordenado,200,union,0.001518,1,1517.568,5,1,ok
+Lista punteros,ordenado,200,intersection,0.000925,1,924.702,5,1,ok
+Lista punteros,ordenado,200,difference,0.000919,1,918.791,5,1,ok
+Lista punteros,ordenado,500,insert,0.003615,500,7.230,5,1,ok
+Lista punteros,ordenado,500,member_si,0.004590,500,9.180,5,1,ok
+Lista punteros,ordenado,500,member_no,0.002451,250,9.803,5,1,ok
+Lista punteros,ordenado,500,delete,0.001639,300,5.464,5,1,ok
+Lista punteros,ordenado,500,print,0.000115,1,115.371,5,1,ok
+Lista punteros,ordenado,500,union,0.008975,1,8974.647,5,1,ok
+Lista punteros,ordenado,500,intersection,0.005615,1,5615.231,5,1,ok
+Lista punteros,ordenado,500,difference,0.005626,1,5626.364,5,1,ok
+Lista punteros,ordenado,1000,insert,0.014112,1000,14.112,5,1,ok
+Lista punteros,ordenado,1000,member_si,0.018395,1000,18.395,5,1,ok
+Lista punteros,ordenado,1000,member_no,0.009249,500,18.499,5,1,ok
+Lista punteros,ordenado,1000,delete,0.003717,300,12.391,5,1,ok
+Lista punteros,ordenado,1000,print,0.000212,1,212.364,5,1,ok
+Lista punteros,ordenado,1000,union,0.035486,1,35485.836,5,1,ok
+Lista punteros,ordenado,1000,intersection,0.021643,1,21643.038,5,1,ok
+Lista punteros,ordenado,1000,difference,0.022059,1,22058.663,5,1,ok
+Lista punteros,ordenado,5000,insert,0.336045,5000,67.209,3,1,ok
+Lista punteros,ordenado,5000,member_si,0.097285,1000,97.285,3,1,ok
+Lista punteros,ordenado,5000,member_no,0.096421,1000,96.421,3,1,ok
+Lista punteros,ordenado,5000,delete,0.020468,300,68.225,3,1,ok
+Lista punteros,ordenado,5000,print,0.001109,1,1108.822,3,1,ok
+Lista punteros,ordenado,5000,union,0.878392,1,878391.583,3,1,ok
+Lista punteros,ordenado,5000,intersection,0.543753,1,543753.366,3,1,ok
+Lista punteros,ordenado,5000,difference,0.580813,1,580812.650,3,1,ok
+Lista punteros,ordenado,10000,insert,1.360194,10000,136.019,2,1,ok
+Lista punteros,ordenado,10000,member_si,0.164579,1000,164.579,2,1,ok
+Lista punteros,ordenado,10000,member_no,0.158931,1000,158.931,2,1,ok
+Lista punteros,ordenado,10000,delete,0.040000,300,133.334,2,1,ok
+Lista punteros,ordenado,10000,print,0.001702,1,1701.580,2,1,ok
+Lista punteros,ordenado,10000,union,4.105312,1,4105312.196,2,1,ok
+Lista punteros,ordenado,10000,intersection,2.319818,1,2319817.580,2,1,ok
+Lista punteros,ordenado,10000,difference,2.381448,1,2381447.510,2,1,ok
+Lista punteros,ordenado,50000,insert,,,,0,,omitido: tiempo estimado 34s > 15.0s
+Lista punteros,ordenado,50000,intersection,,,,0,,omitido: tiempo estimado 58s > 15.0s
+Lista punteros,ordenado,50000,difference,,,,0,,omitido: tiempo estimado 60s > 15.0s
+Lista punteros,ordenado,50000,union,,,,0,,omitido: tiempo estimado 103s > 15.0s
+Lista arreglo,ordenado,10,insert,0.000010,10,1.031,5,1,ok
+Lista arreglo,ordenado,10,member_si,0.000008,10,0.804,5,1,ok
+Lista arreglo,ordenado,10,member_no,0.000007,5,1.464,5,1,ok
+Lista arreglo,ordenado,10,delete,0.000011,10,1.100,5,1,ok
+Lista arreglo,ordenado,10,print,0.000013,1,13.109,5,1,ok
+Lista arreglo,ordenado,10,union,0.000018,1,17.571,5,1,ok
+Lista arreglo,ordenado,10,intersection,0.000014,1,13.667,5,1,ok
+Lista arreglo,ordenado,10,difference,0.000013,1,13.425,5,1,ok
+Lista arreglo,ordenado,20,insert,0.000017,20,0.859,5,1,ok
+Lista arreglo,ordenado,20,member_si,0.000012,20,0.592,5,1,ok
+Lista arreglo,ordenado,20,member_no,0.000009,10,0.882,5,1,ok
+Lista arreglo,ordenado,20,delete,0.000014,20,0.716,5,1,ok
+Lista arreglo,ordenado,20,print,0.000014,1,14.134,5,1,ok
+Lista arreglo,ordenado,20,union,0.000034,1,34.104,5,1,ok
+Lista arreglo,ordenado,20,intersection,0.000020,1,20.394,5,1,ok
+Lista arreglo,ordenado,20,difference,0.000020,1,19.887,5,1,ok
+Lista arreglo,ordenado,30,insert,0.000028,30,0.923,5,1,ok
+Lista arreglo,ordenado,30,member_si,0.000018,30,0.598,5,1,ok
+Lista arreglo,ordenado,30,member_no,0.000012,15,0.821,5,1,ok
+Lista arreglo,ordenado,30,delete,0.000020,30,0.661,5,1,ok
+Lista arreglo,ordenado,30,print,0.000017,1,16.766,5,1,ok
+Lista arreglo,ordenado,30,union,0.000062,1,61.832,5,1,ok
+Lista arreglo,ordenado,30,intersection,0.000032,1,32.390,5,1,ok
+Lista arreglo,ordenado,30,difference,0.000030,1,30.104,5,1,ok
+Lista arreglo,ordenado,50,insert,0.000060,50,1.206,5,1,ok
+Lista arreglo,ordenado,50,member_si,0.000038,50,0.751,5,1,ok
+Lista arreglo,ordenado,50,member_no,0.000020,25,0.805,5,1,ok
+Lista arreglo,ordenado,50,delete,0.000033,50,0.656,5,1,ok
+Lista arreglo,ordenado,50,print,0.000021,1,20.944,5,1,ok
+Lista arreglo,ordenado,50,union,0.000138,1,138.376,5,1,ok
+Lista arreglo,ordenado,50,intersection,0.000060,1,59.666,5,1,ok
+Lista arreglo,ordenado,50,difference,0.000060,1,60.063,5,1,ok
+Lista arreglo,ordenado,100,insert,0.000214,100,2.139,5,1,ok
+Lista arreglo,ordenado,100,member_si,0.000122,100,1.222,5,1,ok
+Lista arreglo,ordenado,100,member_no,0.000075,50,1.500,5,1,ok
+Lista arreglo,ordenado,100,delete,0.000106,100,1.063,5,1,ok
+Lista arreglo,ordenado,100,print,0.000032,1,32.477,5,1,ok
+Lista arreglo,ordenado,100,union,0.000538,1,538.262,5,1,ok
+Lista arreglo,ordenado,100,intersection,0.000181,1,181.257,5,1,ok
+Lista arreglo,ordenado,100,difference,0.000180,1,179.948,5,1,ok
+Lista arreglo,ordenado,200,insert,0.000803,200,4.016,5,1,ok
+Lista arreglo,ordenado,200,member_si,0.000511,200,2.553,5,1,ok
+Lista arreglo,ordenado,200,member_no,0.000243,100,2.429,5,1,ok
+Lista arreglo,ordenado,200,delete,0.000383,200,1.915,5,1,ok
+Lista arreglo,ordenado,200,print,0.000053,1,53.195,5,1,ok
+Lista arreglo,ordenado,200,union,0.002119,1,2118.544,5,1,ok
+Lista arreglo,ordenado,200,intersection,0.000736,1,736.163,5,1,ok
+Lista arreglo,ordenado,200,difference,0.000769,1,768.880,5,1,ok
+Lista arreglo,ordenado,500,insert,0.005724,500,11.449,5,1,ok
+Lista arreglo,ordenado,500,member_si,0.003104,500,6.208,5,1,ok
+Lista arreglo,ordenado,500,member_no,0.001562,250,6.248,5,1,ok
+Lista arreglo,ordenado,500,delete,0.001750,300,5.834,5,1,ok
+Lista arreglo,ordenado,500,print,0.000119,1,119.069,5,1,ok
+Lista arreglo,ordenado,500,union,0.015130,1,15129.966,5,1,ok
+Lista arreglo,ordenado,500,intersection,0.004196,1,4195.782,5,1,ok
+Lista arreglo,ordenado,500,difference,0.004182,1,4181.854,5,1,ok
+Lista arreglo,ordenado,1000,insert,0.024958,1000,24.958,5,1,ok
+Lista arreglo,ordenado,1000,member_si,0.012408,1000,12.408,5,1,ok
+Lista arreglo,ordenado,1000,member_no,0.006195,500,12.389,5,1,ok
+Lista arreglo,ordenado,1000,delete,0.004273,300,14.242,5,1,ok
+Lista arreglo,ordenado,1000,print,0.000215,1,214.822,5,1,ok
+Lista arreglo,ordenado,1000,union,0.064454,1,64454.005,5,1,ok
+Lista arreglo,ordenado,1000,intersection,0.018239,1,18239.198,5,1,ok
+Lista arreglo,ordenado,1000,difference,0.018549,1,18549.364,5,1,ok
+Lista arreglo,ordenado,5000,insert,0.678638,5000,135.728,3,1,ok
+Lista arreglo,ordenado,5000,member_si,0.063481,1000,63.481,3,1,ok
+Lista arreglo,ordenado,5000,member_no,0.060023,1000,60.023,3,1,ok
+Lista arreglo,ordenado,5000,delete,0.024246,300,80.821,3,1,ok
+Lista arreglo,ordenado,5000,print,0.000924,1,924.362,3,1,ok
+Lista arreglo,ordenado,5000,union,1.689943,1,1689943.101,3,1,ok
+Lista arreglo,ordenado,5000,intersection,0.450179,1,450178.571,3,1,ok
+Lista arreglo,ordenado,5000,difference,0.482764,1,482764.042,3,1,ok
+Lista arreglo,ordenado,10000,insert,2.895932,10000,289.593,1,1,ok
+Lista arreglo,ordenado,10000,member_si,0.121002,1000,121.002,1,1,ok
+Lista arreglo,ordenado,10000,member_no,0.115813,1000,115.813,1,1,ok
+Lista arreglo,ordenado,10000,delete,0.052385,300,174.615,1,1,ok
+Lista arreglo,ordenado,10000,print,0.001878,1,1878.198,1,1,ok
+Lista arreglo,ordenado,10000,union,6.891629,1,6891628.883,1,1,ok
+Lista arreglo,ordenado,10000,intersection,2.074426,1,2074426.070,1,1,ok
+Lista arreglo,ordenado,10000,difference,1.970741,1,1970741.462,1,1,ok
+Lista arreglo,ordenado,50000,insert,,,,0,,omitido: tiempo estimado 72s > 15.0s
+Lista arreglo,ordenado,50000,intersection,,,,0,,omitido: tiempo estimado 52s > 15.0s
+Lista arreglo,ordenado,50000,difference,,,,0,,omitido: tiempo estimado 49s > 15.0s
+Lista arreglo,ordenado,50000,union,,,,0,,omitido: tiempo estimado 172s > 15.0s
+Hash (m=10),ordenado,10,insert,0.000013,10,1.277,5,1,ok
+Hash (m=10),ordenado,10,member_si,0.000012,10,1.231,5,1,ok
+Hash (m=10),ordenado,10,member_no,0.000010,5,2.005,5,1,ok
+Hash (m=10),ordenado,10,delete,0.000015,10,1.452,5,1,ok
+Hash (m=10),ordenado,10,print,0.000020,1,20.131,5,1,ok
+Hash (m=10),ordenado,10,union,0.000025,1,24.900,5,1,ok
+Hash (m=10),ordenado,10,intersection,0.000019,1,19.339,5,1,ok
+Hash (m=10),ordenado,10,difference,0.000019,1,18.908,5,1,ok
+Hash (m=10),ordenado,20,insert,0.000017,20,0.846,5,1,ok
+Hash (m=10),ordenado,20,member_si,0.000016,20,0.793,5,1,ok
+Hash (m=10),ordenado,20,member_no,0.000013,10,1.338,5,1,ok
+Hash (m=10),ordenado,20,delete,0.000018,20,0.920,5,1,ok
+Hash (m=10),ordenado,20,print,0.000021,1,20.730,5,1,ok
+Hash (m=10),ordenado,20,union,0.000032,1,31.957,5,1,ok
+Hash (m=10),ordenado,20,intersection,0.000026,1,25.823,5,1,ok
+Hash (m=10),ordenado,20,difference,0.000026,1,26.087,5,1,ok
+Hash (m=10),ordenado,30,insert,0.000022,30,0.719,5,1,ok
+Hash (m=10),ordenado,30,member_si,0.000020,30,0.675,5,1,ok
+Hash (m=10),ordenado,30,member_no,0.000014,15,0.945,5,1,ok
+Hash (m=10),ordenado,30,delete,0.000023,30,0.766,5,1,ok
+Hash (m=10),ordenado,30,print,0.000022,1,22.137,5,1,ok
+Hash (m=10),ordenado,30,union,0.000040,1,40.481,5,1,ok
+Hash (m=10),ordenado,30,intersection,0.000032,1,31.937,5,1,ok
+Hash (m=10),ordenado,30,difference,0.000033,1,32.845,5,1,ok
+Hash (m=10),ordenado,50,insert,0.000030,50,0.610,5,1,ok
+Hash (m=10),ordenado,50,member_si,0.000031,50,0.630,5,1,ok
+Hash (m=10),ordenado,50,member_no,0.000019,25,0.757,5,1,ok
+Hash (m=10),ordenado,50,delete,0.000034,50,0.679,5,1,ok
+Hash (m=10),ordenado,50,print,0.000027,1,26.886,5,1,ok
+Hash (m=10),ordenado,50,union,0.000062,1,62.097,5,1,ok
+Hash (m=10),ordenado,50,intersection,0.000047,1,47.303,5,1,ok
+Hash (m=10),ordenado,50,difference,0.000050,1,49.636,5,1,ok
+Hash (m=10),ordenado,100,insert,0.000058,100,0.580,5,1,ok
+Hash (m=10),ordenado,100,member_si,0.000056,100,0.560,5,1,ok
+Hash (m=10),ordenado,100,member_no,0.000033,50,0.666,5,1,ok
+Hash (m=10),ordenado,100,delete,0.000063,100,0.629,5,1,ok
+Hash (m=10),ordenado,100,print,0.000039,1,39.140,5,1,ok
+Hash (m=10),ordenado,100,union,0.000116,1,116.352,5,1,ok
+Hash (m=10),ordenado,100,intersection,0.000084,1,83.919,5,1,ok
+Hash (m=10),ordenado,100,difference,0.000083,1,83.454,5,1,ok
+Hash (m=10),ordenado,200,insert,0.000118,200,0.591,5,1,ok
+Hash (m=10),ordenado,200,member_si,0.000110,200,0.549,5,1,ok
+Hash (m=10),ordenado,200,member_no,0.000063,100,0.633,5,1,ok
+Hash (m=10),ordenado,200,delete,0.000124,200,0.619,5,1,ok
+Hash (m=10),ordenado,200,print,0.000056,1,55.890,5,1,ok
+Hash (m=10),ordenado,200,union,0.000231,1,231.405,5,1,ok
+Hash (m=10),ordenado,200,intersection,0.000174,1,174.357,5,1,ok
+Hash (m=10),ordenado,200,difference,0.000170,1,169.882,5,1,ok
+Hash (m=10),ordenado,500,insert,0.000341,500,0.682,5,1,ok
+Hash (m=10),ordenado,500,member_si,0.000335,500,0.671,5,1,ok
+Hash (m=10),ordenado,500,member_no,0.000213,250,0.852,5,1,ok
+Hash (m=10),ordenado,500,delete,0.000278,300,0.926,5,1,ok
+Hash (m=10),ordenado,500,print,0.000106,1,106.378,5,1,ok
+Hash (m=10),ordenado,500,union,0.000749,1,749.058,5,1,ok
+Hash (m=10),ordenado,500,intersection,0.000552,1,552.429,5,1,ok
+Hash (m=10),ordenado,500,difference,0.000506,1,506.019,5,1,ok
+Hash (m=10),ordenado,1000,insert,0.000870,1000,0.870,5,1,ok
+Hash (m=10),ordenado,1000,member_si,0.000850,1000,0.850,5,1,ok
+Hash (m=10),ordenado,1000,member_no,0.000630,500,1.259,5,1,ok
+Hash (m=10),ordenado,1000,delete,0.000373,300,1.244,5,1,ok
+Hash (m=10),ordenado,1000,print,0.000192,1,191.752,5,1,ok
+Hash (m=10),ordenado,1000,union,0.001979,1,1978.700,5,1,ok
+Hash (m=10),ordenado,1000,intersection,0.001338,1,1337.918,5,1,ok
+Hash (m=10),ordenado,1000,difference,0.001369,1,1368.569,5,1,ok
+Hash (m=10),ordenado,5000,insert,0.012741,5000,2.548,3,1,ok
+Hash (m=10),ordenado,5000,member_si,0.002614,1000,2.614,3,1,ok
+Hash (m=10),ordenado,5000,member_no,0.004649,1000,4.649,3,1,ok
+Hash (m=10),ordenado,5000,delete,0.001396,300,4.654,3,1,ok
+Hash (m=10),ordenado,5000,print,0.000932,1,932.047,3,1,ok
+Hash (m=10),ordenado,5000,union,0.032737,1,32737.136,3,1,ok
+Hash (m=10),ordenado,5000,intersection,0.022156,1,22155.965,3,1,ok
+Hash (m=10),ordenado,5000,difference,0.023129,1,23128.959,3,1,ok
+Hash (m=10),ordenado,10000,insert,0.044064,10000,4.406,3,1,ok
+Hash (m=10),ordenado,10000,member_si,0.004531,1000,4.531,3,1,ok
+Hash (m=10),ordenado,10000,member_no,0.008428,1000,8.428,3,1,ok
+Hash (m=10),ordenado,10000,delete,0.002559,300,8.530,3,1,ok
+Hash (m=10),ordenado,10000,print,0.001812,1,1812.264,3,1,ok
+Hash (m=10),ordenado,10000,union,0.115885,1,115884.592,3,1,ok
+Hash (m=10),ordenado,10000,intersection,0.075381,1,75381.410,3,1,ok
+Hash (m=10),ordenado,10000,difference,0.075975,1,75975.057,3,1,ok
+Hash (m=10),ordenado,50000,insert,2.124747,50000,42.495,1,1,ok
+Hash (m=10),ordenado,50000,member_si,0.042395,1000,42.395,1,1,ok
+Hash (m=10),ordenado,50000,member_no,0.093503,1000,93.503,1,1,ok
+Hash (m=10),ordenado,50000,delete,0.021394,300,71.314,1,1,ok
+Hash (m=10),ordenado,50000,print,0.009218,1,9217.660,1,1,ok
+Hash (m=10),ordenado,50000,union,2.928137,1,2928136.584,1,1,ok
+Hash (m=10),ordenado,50000,intersection,1.960687,1,1960687.246,1,1,ok
+Hash (m=10),ordenado,50000,difference,2.112189,1,2112189.191,1,1,ok
+Hash (m=N) ref.,ordenado,10,insert,0.000013,10,1.301,5,1,ok
+Hash (m=N) ref.,ordenado,10,member_si,0.000012,10,1.246,5,1,ok
+Hash (m=N) ref.,ordenado,10,member_no,0.000010,5,2.097,5,1,ok
+Hash (m=N) ref.,ordenado,10,delete,0.000014,10,1.389,5,1,ok
+Hash (m=N) ref.,ordenado,10,print,0.000020,1,20.008,5,1,ok
+Hash (m=N) ref.,ordenado,10,union,0.000025,1,24.640,5,1,ok
+Hash (m=N) ref.,ordenado,10,intersection,0.000019,1,19.162,5,1,ok
+Hash (m=N) ref.,ordenado,10,difference,0.000019,1,18.863,5,1,ok
+Hash (m=N) ref.,ordenado,20,insert,0.000016,20,0.806,5,1,ok
+Hash (m=N) ref.,ordenado,20,member_si,0.000017,20,0.853,5,1,ok
+Hash (m=N) ref.,ordenado,20,member_no,0.000012,10,1.159,5,1,ok
+Hash (m=N) ref.,ordenado,20,delete,0.000018,20,0.917,5,1,ok
+Hash (m=N) ref.,ordenado,20,print,0.000025,1,25.368,5,1,ok
+Hash (m=N) ref.,ordenado,20,union,0.000033,1,32.970,5,1,ok
+Hash (m=N) ref.,ordenado,20,intersection,0.000026,1,26.281,5,1,ok
+Hash (m=N) ref.,ordenado,20,difference,0.000026,1,25.775,5,1,ok
+Hash (m=N) ref.,ordenado,30,insert,0.000021,30,0.685,5,1,ok
+Hash (m=N) ref.,ordenado,30,member_si,0.000021,30,0.693,5,1,ok
+Hash (m=N) ref.,ordenado,30,member_no,0.000013,15,0.898,5,1,ok
+Hash (m=N) ref.,ordenado,30,delete,0.000023,30,0.772,5,1,ok
+Hash (m=N) ref.,ordenado,30,print,0.000032,1,31.757,5,1,ok
+Hash (m=N) ref.,ordenado,30,union,0.000043,1,43.130,5,1,ok
+Hash (m=N) ref.,ordenado,30,intersection,0.000033,1,33.307,5,1,ok
+Hash (m=N) ref.,ordenado,30,difference,0.000033,1,33.201,5,1,ok
+Hash (m=N) ref.,ordenado,50,insert,0.000031,50,0.620,5,1,ok
+Hash (m=N) ref.,ordenado,50,member_si,0.000030,50,0.592,5,1,ok
+Hash (m=N) ref.,ordenado,50,member_no,0.000019,25,0.755,5,1,ok
+Hash (m=N) ref.,ordenado,50,delete,0.000033,50,0.653,5,1,ok
+Hash (m=N) ref.,ordenado,50,print,0.000045,1,45.342,5,1,ok
+Hash (m=N) ref.,ordenado,50,union,0.000063,1,63.127,5,1,ok
+Hash (m=N) ref.,ordenado,50,intersection,0.000049,1,49.252,5,1,ok
+Hash (m=N) ref.,ordenado,50,difference,0.000050,1,49.907,5,1,ok
+Hash (m=N) ref.,ordenado,100,insert,0.000049,100,0.492,5,1,ok
+Hash (m=N) ref.,ordenado,100,member_si,0.000045,100,0.451,5,1,ok
+Hash (m=N) ref.,ordenado,100,member_no,0.000027,50,0.545,5,1,ok
+Hash (m=N) ref.,ordenado,100,delete,0.000049,100,0.494,5,1,ok
+Hash (m=N) ref.,ordenado,100,print,0.000069,1,69.080,5,1,ok
+Hash (m=N) ref.,ordenado,100,union,0.000103,1,102.988,5,1,ok
+Hash (m=N) ref.,ordenado,100,intersection,0.000077,1,77.249,5,1,ok
+Hash (m=N) ref.,ordenado,100,difference,0.000076,1,75.679,5,1,ok
+Hash (m=N) ref.,ordenado,200,insert,0.000088,200,0.438,5,1,ok
+Hash (m=N) ref.,ordenado,200,member_si,0.000085,200,0.427,5,1,ok
+Hash (m=N) ref.,ordenado,200,member_no,0.000045,100,0.452,5,1,ok
+Hash (m=N) ref.,ordenado,200,delete,0.000092,200,0.459,5,1,ok
+Hash (m=N) ref.,ordenado,200,print,0.000123,1,122.910,5,1,ok
+Hash (m=N) ref.,ordenado,200,union,0.000193,1,193.451,5,1,ok
+Hash (m=N) ref.,ordenado,200,intersection,0.000137,1,137.286,5,1,ok
+Hash (m=N) ref.,ordenado,200,difference,0.000139,1,139.044,5,1,ok
+Hash (m=N) ref.,ordenado,500,insert,0.000204,500,0.409,5,1,ok
+Hash (m=N) ref.,ordenado,500,member_si,0.000206,500,0.411,5,1,ok
+Hash (m=N) ref.,ordenado,500,member_no,0.000115,250,0.460,5,1,ok
+Hash (m=N) ref.,ordenado,500,delete,0.000157,300,0.525,5,1,ok
+Hash (m=N) ref.,ordenado,500,print,0.000266,1,266.205,5,1,ok
+Hash (m=N) ref.,ordenado,500,union,0.000461,1,460.594,5,1,ok
+Hash (m=N) ref.,ordenado,500,intersection,0.000324,1,324.277,5,1,ok
+Hash (m=N) ref.,ordenado,500,difference,0.000350,1,349.974,5,1,ok
+Hash (m=N) ref.,ordenado,1000,insert,0.000414,1000,0.414,5,1,ok
+Hash (m=N) ref.,ordenado,1000,member_si,0.000432,1000,0.432,5,1,ok
+Hash (m=N) ref.,ordenado,1000,member_no,0.000203,500,0.407,5,1,ok
+Hash (m=N) ref.,ordenado,1000,delete,0.000147,300,0.489,5,1,ok
+Hash (m=N) ref.,ordenado,1000,print,0.000555,1,555.259,5,1,ok
+Hash (m=N) ref.,ordenado,1000,union,0.000947,1,947.395,5,1,ok
+Hash (m=N) ref.,ordenado,1000,intersection,0.000710,1,710.359,5,1,ok
+Hash (m=N) ref.,ordenado,1000,difference,0.000705,1,705.224,5,1,ok
+Hash (m=N) ref.,ordenado,5000,insert,0.002754,5000,0.551,3,1,ok
+Hash (m=N) ref.,ordenado,5000,member_si,0.000689,1000,0.689,3,1,ok
+Hash (m=N) ref.,ordenado,5000,member_no,0.000734,1000,0.734,3,1,ok
+Hash (m=N) ref.,ordenado,5000,delete,0.000228,300,0.761,3,1,ok
+Hash (m=N) ref.,ordenado,5000,print,0.003575,1,3574.570,3,1,ok
+Hash (m=N) ref.,ordenado,5000,union,0.006204,1,6204.166,3,1,ok
+Hash (m=N) ref.,ordenado,5000,intersection,0.004496,1,4496.030,3,1,ok
+Hash (m=N) ref.,ordenado,5000,difference,0.004303,1,4302.624,3,1,ok
+Hash (m=N) ref.,ordenado,10000,insert,0.005597,10000,0.560,3,1,ok
+Hash (m=N) ref.,ordenado,10000,member_si,0.000754,1000,0.754,3,1,ok
+Hash (m=N) ref.,ordenado,10000,member_no,0.000621,1000,0.621,3,1,ok
+Hash (m=N) ref.,ordenado,10000,delete,0.000235,300,0.785,3,1,ok
+Hash (m=N) ref.,ordenado,10000,print,0.006584,1,6583.760,3,1,ok
+Hash (m=N) ref.,ordenado,10000,union,0.012489,1,12489.097,3,1,ok
+Hash (m=N) ref.,ordenado,10000,intersection,0.009010,1,9009.896,3,1,ok
+Hash (m=N) ref.,ordenado,10000,difference,0.009472,1,9472.284,3,1,ok
+Hash (m=N) ref.,ordenado,50000,insert,0.035509,50000,0.710,1,1,ok
+Hash (m=N) ref.,ordenado,50000,member_si,0.000983,1000,0.983,1,1,ok
+Hash (m=N) ref.,ordenado,50000,member_no,0.000774,1000,0.774,1,1,ok
+Hash (m=N) ref.,ordenado,50000,delete,0.000284,300,0.945,1,1,ok
+Hash (m=N) ref.,ordenado,50000,print,0.034709,1,34708.739,1,1,ok
+Hash (m=N) ref.,ordenado,50000,union,0.065044,1,65044.283,1,1,ok
+Hash (m=N) ref.,ordenado,50000,intersection,0.046237,1,46236.551,1,1,ok
+Hash (m=N) ref.,ordenado,50000,difference,0.045039,1,45039.440,1,1,ok
+ABB punteros,ordenado,10,insert,0.000011,10,1.071,5,1,ok
+ABB punteros,ordenado,10,member_si,0.000008,10,0.761,5,1,ok
+ABB punteros,ordenado,10,member_no,0.000007,5,1.382,5,1,ok
+ABB punteros,ordenado,10,delete,0.000010,10,0.976,5,1,ok
+ABB punteros,ordenado,10,print,0.000017,1,16.789,5,1,ok
+ABB punteros,ordenado,10,union,0.000030,1,30.461,5,1,ok
+ABB punteros,ordenado,10,intersection,0.000026,1,25.935,5,1,ok
+ABB punteros,ordenado,10,difference,0.000025,1,25.232,5,1,ok
+ABB punteros,ordenado,20,insert,0.000017,20,0.873,5,1,ok
+ABB punteros,ordenado,20,member_si,0.000013,20,0.634,5,1,ok
+ABB punteros,ordenado,20,member_no,0.000009,10,0.916,5,1,ok
+ABB punteros,ordenado,20,delete,0.000014,20,0.676,5,1,ok
+ABB punteros,ordenado,20,print,0.000021,1,20.556,5,1,ok
+ABB punteros,ordenado,20,union,0.000044,1,44.008,5,1,ok
+ABB punteros,ordenado,20,intersection,0.000036,1,36.269,5,1,ok
+ABB punteros,ordenado,20,difference,0.000037,1,37.125,5,1,ok
+ABB punteros,ordenado,30,insert,0.000029,30,0.962,5,1,ok
+ABB punteros,ordenado,30,member_si,0.000022,30,0.723,5,1,ok
+ABB punteros,ordenado,30,member_no,0.000014,15,0.953,5,1,ok
+ABB punteros,ordenado,30,delete,0.000019,30,0.637,5,1,ok
+ABB punteros,ordenado,30,print,0.000025,1,24.507,5,1,ok
+ABB punteros,ordenado,30,union,0.000057,1,57.083,5,1,ok
+ABB punteros,ordenado,30,intersection,0.000047,1,47.335,5,1,ok
+ABB punteros,ordenado,30,difference,0.000047,1,46.748,5,1,ok
+ABB punteros,ordenado,50,insert,0.000060,50,1.191,5,1,ok
+ABB punteros,ordenado,50,member_si,0.000051,50,1.010,5,1,ok
+ABB punteros,ordenado,50,member_no,0.000027,25,1.070,5,1,ok
+ABB punteros,ordenado,50,delete,0.000039,50,0.790,5,1,ok
+ABB punteros,ordenado,50,print,0.000033,1,32.525,5,1,ok
+ABB punteros,ordenado,50,union,0.000085,1,85.359,5,1,ok
+ABB punteros,ordenado,50,intersection,0.000071,1,71.420,5,1,ok
+ABB punteros,ordenado,50,difference,0.000069,1,69.301,5,1,ok
+ABB punteros,ordenado,100,insert,0.000204,100,2.036,5,1,ok
+ABB punteros,ordenado,100,member_si,0.000182,100,1.824,5,1,ok
+ABB punteros,ordenado,100,member_no,0.000113,50,2.257,5,1,ok
+ABB punteros,ordenado,100,delete,0.000115,100,1.148,5,1,ok
+ABB punteros,ordenado,100,print,0.000053,1,53.031,5,1,ok
+ABB punteros,ordenado,100,union,0.000159,1,158.601,5,1,ok
+ABB punteros,ordenado,100,intersection,0.000123,1,123.257,5,1,ok
+ABB punteros,ordenado,100,difference,0.000121,1,120.758,5,1,ok
+ABB punteros,ordenado,200,insert,0.000797,200,3.983,5,1,ok
+ABB punteros,ordenado,200,member_si,0.000771,200,3.857,5,1,ok
+ABB punteros,ordenado,200,member_no,0.000369,100,3.686,5,1,ok
+ABB punteros,ordenado,200,delete,0.000429,200,2.144,5,1,ok
+ABB punteros,ordenado,200,print,0.000088,1,88.168,5,1,ok
+ABB punteros,ordenado,200,union,0.000376,1,375.915,5,1,ok
+ABB punteros,ordenado,200,intersection,0.000236,1,236.396,5,1,ok
+ABB punteros,ordenado,200,difference,0.000237,1,236.714,5,1,ok
+ABB punteros,ordenado,500,insert,0.006612,500,13.223,5,1,ok
+ABB punteros,ordenado,500,member_si,0.006082,500,12.163,5,1,ok
+ABB punteros,ordenado,500,member_no,0.003169,250,12.675,5,1,ok
+ABB punteros,ordenado,500,delete,0.002772,300,9.239,5,1,ok
+ABB punteros,ordenado,500,print,0.000199,1,199.461,5,1,ok
+ABB punteros,ordenado,500,union,0.000838,1,837.536,5,1,ok
+ABB punteros,ordenado,500,intersection,0.000629,1,628.832,5,1,ok
+ABB punteros,ordenado,500,difference,0.000896,1,896.298,5,1,ok
+ABB punteros,ordenado,1000,insert,0.019807,1000,19.807,5,1,ok
+ABB punteros,ordenado,1000,member_si,0.017903,1000,17.903,5,1,ok
+ABB punteros,ordenado,1000,member_no,0.009015,500,18.031,5,1,ok
+ABB punteros,ordenado,1000,delete,0.005194,300,17.312,5,1,ok
+ABB punteros,ordenado,1000,print,0.000395,1,395.137,5,1,ok
+ABB punteros,ordenado,1000,union,0.001525,1,1524.624,5,1,ok
+ABB punteros,ordenado,1000,intersection,0.001170,1,1169.899,5,1,ok
+ABB punteros,ordenado,1000,difference,0.001199,1,1199.104,5,1,ok
+ABB punteros,ordenado,5000,insert,0.490913,5000,98.183,3,1,ok
+ABB punteros,ordenado,5000,member_si,0.105614,1000,105.614,3,1,ok
+ABB punteros,ordenado,5000,member_no,0.095779,1000,95.779,3,1,ok
+ABB punteros,ordenado,5000,delete,0.029168,300,97.226,3,1,ok
+ABB punteros,ordenado,5000,print,0.002013,1,2012.883,3,1,ok
+ABB punteros,ordenado,5000,union,0.008438,1,8437.914,3,1,ok
+ABB punteros,ordenado,5000,intersection,0.006289,1,6288.691,3,1,ok
+ABB punteros,ordenado,5000,difference,0.006440,1,6440.355,3,1,ok
+ABB punteros,ordenado,10000,insert,2.223067,10000,222.307,3,1,ok
+ABB punteros,ordenado,10000,member_si,0.237753,1000,237.753,3,1,ok
+ABB punteros,ordenado,10000,member_no,0.192669,1000,192.669,3,1,ok
+ABB punteros,ordenado,10000,delete,0.065860,300,219.532,3,1,ok
+ABB punteros,ordenado,10000,print,0.003381,1,3381.253,3,1,ok
+ABB punteros,ordenado,10000,union,0.015208,1,15207.764,3,1,ok
+ABB punteros,ordenado,10000,intersection,0.012007,1,12006.653,3,1,ok
+ABB punteros,ordenado,10000,difference,0.012253,1,12252.587,3,1,ok
+ABB punteros,ordenado,50000,insert,,,,0,,omitido: tiempo estimado 56s > 15.0s
+ABB heap,ordenado,10,insert,0.000038,10,3.769,5,1,ok
+ABB heap,ordenado,10,member_si,0.000027,10,2.661,5,1,ok
+ABB heap,ordenado,10,member_no,0.000020,5,3.939,5,1,ok
+ABB heap,ordenado,10,delete,0.000071,10,7.117,5,1,ok
+ABB heap,ordenado,10,print,0.000014,1,14.420,5,1,ok
+ABB heap,ordenado,10,union,0.000065,1,64.516,5,1,ok
+ABB heap,ordenado,10,intersection,0.000041,1,41.413,5,1,ok
+ABB heap,ordenado,10,difference,0.000041,1,40.711,5,1,ok
+ABB heap,ordenado,20,union,,20,,0,,inviable: insertar el resultado ordenado crea un arbol en cadena (>4194304 posiciones)
+ABB heap,ordenado,20,insert,0.004804,20,240.189,5,1,ok
+ABB heap,ordenado,20,member_si,0.000055,20,2.740,5,1,ok
+ABB heap,ordenado,20,member_no,0.000035,10,3.509,5,1,ok
+ABB heap,ordenado,20,delete,0.033732,20,1686.607,5,1,ok
+ABB heap,ordenado,20,print,0.000025,1,25.395,5,1,ok
+ABB heap,ordenado,20,intersection,0.000100,1,100.390,5,1,ok
+ABB heap,ordenado,20,difference,0.000094,1,93.922,5,1,ok
+ABB heap,ordenado,30,insert,,30,,0,,inviable: el vector necesitaria mas de 4194304 posiciones (arbol degenerado)
+Trie punteros,ordenado,10,insert,0.000046,10,4.600,5,1,ok
+Trie punteros,ordenado,10,member_si,0.000026,10,2.599,5,1,ok
+Trie punteros,ordenado,10,member_no,0.000014,5,2.833,5,1,ok
+Trie punteros,ordenado,10,delete,0.000109,10,10.892,5,1,ok
+Trie punteros,ordenado,10,print,0.000076,1,75.512,5,1,ok
+Trie punteros,ordenado,10,union,0.000196,1,195.877,5,1,ok
+Trie punteros,ordenado,10,intersection,0.000111,1,111.278,5,1,ok
+Trie punteros,ordenado,10,difference,0.000106,1,106.453,5,1,ok
+Trie punteros,ordenado,20,insert,0.000076,20,3.777,5,1,ok
+Trie punteros,ordenado,20,member_si,0.000043,20,2.140,5,1,ok
+Trie punteros,ordenado,20,member_no,0.000020,10,1.972,5,1,ok
+Trie punteros,ordenado,20,delete,0.000204,20,10.220,5,1,ok
+Trie punteros,ordenado,20,print,0.000132,1,132.334,5,1,ok
+Trie punteros,ordenado,20,union,0.000378,1,378.298,5,1,ok
+Trie punteros,ordenado,20,intersection,0.000269,1,269.227,5,1,ok
+Trie punteros,ordenado,20,difference,0.000205,1,205.162,5,1,ok
+Trie punteros,ordenado,30,insert,0.000106,30,3.539,5,1,ok
+Trie punteros,ordenado,30,member_si,0.000059,30,1.966,5,1,ok
+Trie punteros,ordenado,30,member_no,0.000025,15,1.638,5,1,ok
+Trie punteros,ordenado,30,delete,0.000299,30,9.952,5,1,ok
+Trie punteros,ordenado,30,print,0.000205,1,204.921,5,1,ok
+Trie punteros,ordenado,30,union,0.000537,1,536.629,5,1,ok
+Trie punteros,ordenado,30,intersection,0.000290,1,289.697,5,1,ok
+Trie punteros,ordenado,30,difference,0.000286,1,285.743,5,1,ok
+Trie punteros,ordenado,50,insert,0.000166,50,3.310,5,1,ok
+Trie punteros,ordenado,50,member_si,0.000095,50,1.901,5,1,ok
+Trie punteros,ordenado,50,member_no,0.000036,25,1.450,5,1,ok
+Trie punteros,ordenado,50,delete,0.000523,50,10.451,5,1,ok
+Trie punteros,ordenado,50,print,0.000316,1,316.488,5,1,ok
+Trie punteros,ordenado,50,union,0.000896,1,896.155,5,1,ok
+Trie punteros,ordenado,50,intersection,0.000488,1,488.487,5,1,ok
+Trie punteros,ordenado,50,difference,0.000479,1,478.664,5,1,ok
+Trie punteros,ordenado,100,insert,0.000326,100,3.260,5,1,ok
+Trie punteros,ordenado,100,member_si,0.000186,100,1.861,5,1,ok
+Trie punteros,ordenado,100,member_no,0.000064,50,1.275,5,1,ok
+Trie punteros,ordenado,100,delete,0.000989,100,9.893,5,1,ok
+Trie punteros,ordenado,100,print,0.000608,1,608.467,5,1,ok
+Trie punteros,ordenado,100,union,0.001800,1,1800.014,5,1,ok
+Trie punteros,ordenado,100,intersection,0.000926,1,925.727,5,1,ok
+Trie punteros,ordenado,100,difference,0.000909,1,908.978,5,1,ok
+Trie punteros,ordenado,200,insert,0.000642,200,3.210,5,1,ok
+Trie punteros,ordenado,200,member_si,0.000403,200,2.015,5,1,ok
+Trie punteros,ordenado,200,member_no,0.000123,100,1.230,5,1,ok
+Trie punteros,ordenado,200,delete,0.001945,200,9.723,5,1,ok
+Trie punteros,ordenado,200,print,0.001113,1,1113.202,5,1,ok
+Trie punteros,ordenado,200,union,0.003334,1,3334.004,5,1,ok
+Trie punteros,ordenado,200,intersection,0.001756,1,1755.732,5,1,ok
+Trie punteros,ordenado,200,difference,0.001746,1,1745.978,5,1,ok
+Trie punteros,ordenado,500,insert,0.001542,500,3.084,5,1,ok
+Trie punteros,ordenado,500,member_si,0.001020,500,2.039,5,1,ok
+Trie punteros,ordenado,500,member_no,0.000291,250,1.164,5,1,ok
+Trie punteros,ordenado,500,delete,0.002667,300,8.891,5,1,ok
+Trie punteros,ordenado,500,print,0.002669,1,2669.486,5,1,ok
+Trie punteros,ordenado,500,union,0.008873,1,8873.164,5,1,ok
+Trie punteros,ordenado,500,intersection,0.003720,1,3719.522,5,1,ok
+Trie punteros,ordenado,500,difference,0.004355,1,4355.389,5,1,ok
+Trie punteros,ordenado,1000,insert,0.003062,1000,3.062,5,1,ok
+Trie punteros,ordenado,1000,member_si,0.002063,1000,2.063,5,1,ok
+Trie punteros,ordenado,1000,member_no,0.000617,500,1.233,5,1,ok
+Trie punteros,ordenado,1000,delete,0.002793,300,9.311,5,1,ok
+Trie punteros,ordenado,1000,print,0.005269,1,5269.060,5,1,ok
+Trie punteros,ordenado,1000,union,0.017957,1,17956.702,5,1,ok
+Trie punteros,ordenado,1000,intersection,0.008554,1,8553.513,5,1,ok
+Trie punteros,ordenado,1000,difference,0.008445,1,8445.376,5,1,ok
+Trie punteros,ordenado,5000,insert,0.017373,5000,3.475,3,1,ok
+Trie punteros,ordenado,5000,member_si,0.002695,1000,2.695,3,1,ok
+Trie punteros,ordenado,5000,member_no,0.001547,1000,1.547,3,1,ok
+Trie punteros,ordenado,5000,delete,0.003077,300,10.255,3,1,ok
+Trie punteros,ordenado,5000,print,0.027879,1,27879.047,3,1,ok
+Trie punteros,ordenado,5000,union,0.088120,1,88119.999,3,1,ok
+Trie punteros,ordenado,5000,intersection,0.043425,1,43425.152,3,1,ok
+Trie punteros,ordenado,5000,difference,0.043726,1,43725.903,3,1,ok
+Trie punteros,ordenado,10000,insert,0.033443,10000,3.344,3,1,ok
+Trie punteros,ordenado,10000,member_si,0.002964,1000,2.964,3,1,ok
+Trie punteros,ordenado,10000,member_no,0.001589,1000,1.589,3,1,ok
+Trie punteros,ordenado,10000,delete,0.003263,300,10.877,3,1,ok
+Trie punteros,ordenado,10000,print,0.041856,1,41855.805,3,1,ok
+Trie punteros,ordenado,10000,union,0.144212,1,144212.176,3,1,ok
+Trie punteros,ordenado,10000,intersection,0.078074,1,78074.049,3,1,ok
+Trie punteros,ordenado,10000,difference,0.071584,1,71583.587,3,1,ok
+Trie arreglos,ordenado,10,insert,0.000060,10,5.955,5,1,ok
+Trie arreglos,ordenado,10,member_si,0.000038,10,3.807,5,1,ok
+Trie arreglos,ordenado,10,member_no,0.000017,5,3.346,5,1,ok
+Trie arreglos,ordenado,10,delete,0.000088,10,8.756,5,1,ok
+Trie arreglos,ordenado,10,print,0.000090,1,89.596,5,1,ok
+Trie arreglos,ordenado,10,union,0.000383,1,383.329,5,1,ok
+Trie arreglos,ordenado,10,intersection,0.000157,1,156.590,5,1,ok
+Trie arreglos,ordenado,10,difference,0.000273,1,273.288,5,1,ok
+Trie arreglos,ordenado,20,insert,0.000113,20,5.659,5,1,ok
+Trie arreglos,ordenado,20,member_si,0.000061,20,3.034,5,1,ok
+Trie arreglos,ordenado,20,member_no,0.000023,10,2.312,5,1,ok
+Trie arreglos,ordenado,20,delete,0.000175,20,8.774,5,1,ok
+Trie arreglos,ordenado,20,print,0.000193,1,192.586,5,1,ok
+Trie arreglos,ordenado,20,union,0.000875,1,874.579,5,1,ok
+Trie arreglos,ordenado,20,intersection,0.000301,1,300.854,5,1,ok
+Trie arreglos,ordenado,20,difference,0.000551,1,551.434,5,1,ok
+Trie arreglos,ordenado,30,insert,0.000101,30,3.368,5,1,ok
+Trie arreglos,ordenado,30,member_si,0.000052,30,1.721,5,1,ok
+Trie arreglos,ordenado,30,member_no,0.000026,15,1.762,5,1,ok
+Trie arreglos,ordenado,30,delete,0.000144,30,4.801,5,1,ok
+Trie arreglos,ordenado,30,print,0.000169,1,169.017,5,1,ok
+Trie arreglos,ordenado,30,union,0.000743,1,743.021,5,1,ok
+Trie arreglos,ordenado,30,intersection,0.000402,1,402.352,5,1,ok
+Trie arreglos,ordenado,30,difference,0.000580,1,580.365,5,1,ok
+Trie arreglos,ordenado,50,insert,0.000153,50,3.054,5,1,ok
+Trie arreglos,ordenado,50,member_si,0.000079,50,1.584,5,1,ok
+Trie arreglos,ordenado,50,member_no,0.000027,25,1.074,5,1,ok
+Trie arreglos,ordenado,50,delete,0.000229,50,4.580,5,1,ok
+Trie arreglos,ordenado,50,print,0.000250,1,249.614,5,1,ok
+Trie arreglos,ordenado,50,union,0.001156,1,1156.444,5,1,ok
+Trie arreglos,ordenado,50,intersection,0.000438,1,437.829,5,1,ok
+Trie arreglos,ordenado,50,difference,0.000775,1,775.212,5,1,ok
+Trie arreglos,ordenado,100,insert,0.000296,100,2.958,5,1,ok
+Trie arreglos,ordenado,100,member_si,0.000153,100,1.526,5,1,ok
+Trie arreglos,ordenado,100,member_no,0.000045,50,0.894,5,1,ok
+Trie arreglos,ordenado,100,delete,0.000503,100,5.028,5,1,ok
+Trie arreglos,ordenado,100,print,0.000509,1,508.642,5,1,ok
+Trie arreglos,ordenado,100,union,0.002207,1,2206.725,5,1,ok
+Trie arreglos,ordenado,100,intersection,0.000838,1,837.810,5,1,ok
+Trie arreglos,ordenado,100,difference,0.001440,1,1439.798,5,1,ok
+Trie arreglos,ordenado,200,insert,0.000584,200,2.922,5,1,ok
+Trie arreglos,ordenado,200,member_si,0.000348,200,1.739,5,1,ok
+Trie arreglos,ordenado,200,member_no,0.000086,100,0.863,5,1,ok
+Trie arreglos,ordenado,200,delete,0.000940,200,4.700,5,1,ok
+Trie arreglos,ordenado,200,print,0.000963,1,963.266,5,1,ok
+Trie arreglos,ordenado,200,union,0.004196,1,4196.318,5,1,ok
+Trie arreglos,ordenado,200,intersection,0.001590,1,1589.500,5,1,ok
+Trie arreglos,ordenado,200,difference,0.002786,1,2786.131,5,1,ok
+Trie arreglos,ordenado,500,insert,0.001370,500,2.739,5,1,ok
+Trie arreglos,ordenado,500,member_si,0.000881,500,1.762,5,1,ok
+Trie arreglos,ordenado,500,member_no,0.000200,250,0.801,5,1,ok
+Trie arreglos,ordenado,500,delete,0.001503,300,5.011,5,1,ok
+Trie arreglos,ordenado,500,print,0.002235,1,2234.816,5,1,ok
+Trie arreglos,ordenado,500,union,0.010593,1,10592.834,5,1,ok
+Trie arreglos,ordenado,500,intersection,0.003777,1,3776.975,5,1,ok
+Trie arreglos,ordenado,500,difference,0.006791,1,6790.584,5,1,ok
+Trie arreglos,ordenado,1000,insert,0.002668,1000,2.668,5,1,ok
+Trie arreglos,ordenado,1000,member_si,0.001785,1000,1.785,5,1,ok
+Trie arreglos,ordenado,1000,member_no,0.000452,500,0.903,5,1,ok
+Trie arreglos,ordenado,1000,delete,0.001554,300,5.180,5,1,ok
+Trie arreglos,ordenado,1000,print,0.004366,1,4366.435,5,1,ok
+Trie arreglos,ordenado,1000,union,0.021133,1,21132.843,5,1,ok
+Trie arreglos,ordenado,1000,intersection,0.007635,1,7634.540,5,1,ok
+Trie arreglos,ordenado,1000,difference,0.012953,1,12953.348,5,1,ok
+Trie arreglos,ordenado,5000,insert,0.012948,5000,2.590,3,1,ok
+Trie arreglos,ordenado,5000,member_si,0.002246,1000,2.246,3,1,ok
+Trie arreglos,ordenado,5000,member_no,0.001027,1000,1.027,3,1,ok
+Trie arreglos,ordenado,5000,delete,0.001974,300,6.581,3,1,ok
+Trie arreglos,ordenado,5000,print,0.019216,1,19216.021,3,1,ok
+Trie arreglos,ordenado,5000,union,0.097945,1,97944.774,3,1,ok
+Trie arreglos,ordenado,5000,intersection,0.035828,1,35827.801,3,1,ok
+Trie arreglos,ordenado,5000,difference,0.060264,1,60264.455,3,1,ok
+Trie arreglos,ordenado,10000,insert,0.026808,10000,2.681,3,1,ok
+Trie arreglos,ordenado,10000,member_si,0.002546,1000,2.546,3,1,ok
+Trie arreglos,ordenado,10000,member_no,0.001213,1000,1.213,3,1,ok
+Trie arreglos,ordenado,10000,delete,0.002240,300,7.467,3,1,ok
+Trie arreglos,ordenado,10000,print,0.036570,1,36570.104,3,1,ok
+Trie arreglos,ordenado,10000,union,0.182293,1,182293.096,3,1,ok
+Trie arreglos,ordenado,10000,intersection,0.067910,1,67909.969,3,1,ok
+Trie arreglos,ordenado,10000,difference,0.120282,1,120282.016,3,1,ok
